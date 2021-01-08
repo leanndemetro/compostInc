@@ -1,10 +1,15 @@
+import React from "react";
+import Nav from "./components/Nav/Nav";
+import Dashboard from "./pages/dashboard/dashboard";
+import Footer from "./components/Footer/Footer"
 
-import './App.css';
 
 function App() {
   return (
     <div>
-    <h1 className="title">GROW ORLANDO</h1>
+      <Nav />
+      <Dashboard />
+      <Footer />
     </div>
   );
 }
