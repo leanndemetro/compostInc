@@ -16,10 +16,7 @@
 <li>Description</li>
 <li>Installation</li>
 <li>Usage</li>
-<li>Contributing</li>
-<li>Tests</li>
-<li>license</li>
-<li>For any further questions</li>
+<li>Contact</li>
 </ul>   
 
 <h2>Description:</h2>
