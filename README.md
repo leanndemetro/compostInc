@@ -15,7 +15,6 @@
 <ul>
 <li>Description</li>
 <li>Installation</li>
-<li>Usage</li>
 <li>Contact</li>
 </ul>   
 
