@@ -1,0 +1,10 @@
+img.growImg {
+    width: 180px;
+    height: 90px;
+}
+
+MDBDropdownMenu.dropdown-default {
+    position: relative;
+    float: right;
+}
+
