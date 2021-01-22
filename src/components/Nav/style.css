@@ -3,8 +3,16 @@ img.growImg {
     height: 90px;
 }
 
-MDBDropdownMenu.dropdown-default {
-    position: relative;
-    float: right;
+img.homeImg {
+    width: 100%;
+    height: 50%;
 }
+
+div.links {
+    position: relative;
+    left: 750px;
+    color: black;
+}
+
+
 
