@@ -16,18 +16,18 @@ class NavbarPage extends Component {
           <MDBNavbarBrand>
             <img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img>
           </MDBNavbarBrand>
-          <div className="links"><MDBNav className="justify-content-end">
+          <div className="links"><MDBNav className="font-weight-bold">
       <MDBNavItem>
-        <MDBNavLink className="black-text" active to="#!">Active</MDBNavLink>
+        <MDBNavLink className="black-text" active to="#!">CONTACT</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink className="black-text" to="#!">Link</MDBNavLink>
+        <MDBNavLink className="black-text" to="#!">ABOUT</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink className="black-text" to="#!">Link</MDBNavLink>
+        <MDBNavLink className="black-text" to="#!">DONATE</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink className="black-text" to="#!">Link</MDBNavLink>
+        <MDBNavLink className="black-text" to="#!">HELP</MDBNavLink>
       </MDBNavItem>
     </MDBNav>
     </div>
