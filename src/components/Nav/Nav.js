@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {
   MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNav, MDBNavItem, MDBNavLink, MDBNavbarToggler, MDBCollapse, MDBDropdown,
-  MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem, MDBIcon, MDBContainer, MDBRow, MDBCol
+  MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem, MDBIcon, MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBBtn
 } from "mdbreact";
 import { BrowserRouter as Router } from 'react-router-dom';
 import "./style.css"
@@ -12,7 +12,7 @@ class NavbarPage extends Component {
   render() {
     return (
       <Router>
-        <MDBNavbar color="AFF7C0" dark expand="md">
+        <MDBNavbar color="white" dark expand="md">
           <MDBNavbarBrand>
             <a href="/"><img className="growImg" src="https://i.imgur.com/nd70Zb3.jpg"></img></a>
           </MDBNavbarBrand>
@@ -42,8 +42,33 @@ class NavbarPage extends Component {
           </MDBContainer>
         </MDBNavbar>
 
+        <MDBContainer className="body" style={{padding: "50px"}}>
+          <MDBRow>
+          <MDBCol>
+      <MDBCard style={{ width: "100%", padding: "20px"}}>
+        <MDBCardImage />
+        <MDBCardBody>
+        <div className="cardText">
+          <MDBCardTitle>Using plants to grow teens.</MDBCardTitle>
+          </div>
+          <MDBCardText>
+            Using plants to grow teens.
+          </MDBCardText>
+          <MDBBtn color="light-green" href="#">LEARN MORE</MDBBtn>
+        </MDBCardBody>
+      </MDBCard>
+      </MDBCol>
+        <MDBCol>
+      <MDBCard style={{ width: "500px", padding: "20px"}}>
+        <MDBCardImage className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
+      
+      </MDBCard>
+      </MDBCol>
+      </MDBRow>
+      </MDBContainer>
+     
+    
           
-        <img className="homeImg" src="https://i.imgur.com/zzjyKfm.jpg"></img>
 
       </Router>
 

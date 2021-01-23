@@ -21,19 +21,20 @@ MDBContainer.links {
     position: relative;
     float: right;
 }
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
 
-  }
-
-  .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  
+div.textBox {
+padding: 20px;
+width: 350px;
+border-width: 15px;
+border-color: green;
 }
+
+div.cardText {
+    font-family: 'Anton', sans-serif;
+    font-size: 100px;
+}
+
 
 
 
