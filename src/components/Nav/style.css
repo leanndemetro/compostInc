@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 img.growImg {
     width: 180px;
     height: 90px;
@@ -16,6 +18,7 @@ div.links {
     position: relative;
    display: inline-block;
 }
+
 MDBContainer.links {
     text-align: right;
     position: relative;
@@ -37,7 +40,22 @@ div.cardText {
 
 img.holdingPlant {
     width: 100%;
-    padding: 20px;
+    border-radius: 25px;
+    margin-top: -50px;
+   
+}
+
+div.container {
+    text-align: center;
+    padding: 30px;
+    }
+
+  div.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ 
 }
 
 

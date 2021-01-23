@@ -45,7 +45,10 @@ class NavbarPage extends Component {
         <MDBContainer className="body" style={{padding: "50px"}}>
         <MDBRow>
         <MDBCol>
-          <img className="holdingPlant" src="https://i.imgur.com/vQ26RsH.jpg"></img>
+          <div className="container">
+        
+          <img className="holdingPlant" src="https://i.imgur.com/WSGD99H.jpg"></img>
+          </div>
         </MDBCol>
       </MDBRow>
           <MDBRow>
@@ -66,7 +69,7 @@ class NavbarPage extends Component {
       </MDBCol>
         <MDBCol>
       <MDBCard style={{ width: "500px", padding: "20px"}}>
-        <MDBCardImage className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
+        <MDBCardImage className="img-fluid" src="https://i.imgur.com/0aEUTdF.jpg" waves />
       
       </MDBCard>
       </MDBCol>
@@ -75,7 +78,7 @@ class NavbarPage extends Component {
       <MDBRow>
         <MDBCol>
         <MDBCard style={{ width: "500px", padding: "20px"}}>
-        <MDBCardImage className="img-fluid" src="https://i.imgur.com/0aEUTdF.jpg" waves />
+        <MDBCardImage className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
       
       </MDBCard>
         </MDBCol>
