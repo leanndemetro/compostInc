@@ -42,19 +42,25 @@ class NavbarPage extends Component {
           </MDBContainer>
         </MDBNavbar>
 
-        <MDBContainer className="body" style={{padding: "50px"}}>
+        <MDBContainer className="body" style={{padding: "60px"}}>
+        <MDBRow>
+        <MDBCol>
+          <img className="holdingPlant" src="https://i.imgur.com/vQ26RsH.jpg"></img>
+        </MDBCol>
+      </MDBRow>
           <MDBRow>
           <MDBCol>
-      <MDBCard style={{ width: "100%", padding: "20px"}}>
+      <MDBCard style={{ width: "100%", padding: "0.6px"}}>
         <MDBCardImage />
         <MDBCardBody>
         <div className="cardText">
-          <MDBCardTitle>Using plants to grow teens.</MDBCardTitle>
-          </div>
+          <MDBCardTitle>Using plants to grow teens</MDBCardTitle>
           <MDBCardText>
-            Using plants to grow teens.
+          Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
+
           </MDBCardText>
-          <MDBBtn color="light-green" href="#">LEARN MORE</MDBBtn>
+          <MDBBtn color="light-green" href="#">Learn more</MDBBtn>
+          </div>
         </MDBCardBody>
       </MDBCard>
       </MDBCol>
@@ -62,6 +68,30 @@ class NavbarPage extends Component {
       <MDBCard style={{ width: "500px", padding: "20px"}}>
         <MDBCardImage className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
       
+      </MDBCard>
+      </MDBCol>
+      </MDBRow>
+      <br></br>
+      <MDBRow>
+        <MDBCol>
+        <MDBCard style={{ width: "500px", padding: "20px"}}>
+        <MDBCardImage className="img-fluid" src="https://i.imgur.com/0aEUTdF.jpg" waves />
+      
+      </MDBCard>
+        </MDBCol>
+
+        <MDBCol>
+      <MDBCard style={{ width: "100%", padding: "0.6px"}}>
+        <MDBCardImage />
+        <MDBCardBody>
+        <div className="cardText">
+          <MDBCardTitle>Using plants to grow teens</MDBCardTitle>
+          <MDBCardText>
+          Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
+        </MDBCardText>
+          <MDBBtn color="light-green" href="#">Learn more</MDBBtn>
+          </div>
+        </MDBCardBody>
       </MDBCard>
       </MDBCol>
       </MDBRow>
