@@ -42,7 +42,7 @@ class NavbarPage extends Component {
           </MDBContainer>
         </MDBNavbar>
 
-        <MDBContainer className="body" style={{padding: "60px"}}>
+        <MDBContainer className="body" style={{padding: "50px"}}>
         <MDBRow>
         <MDBCol>
           <img className="holdingPlant" src="https://i.imgur.com/vQ26RsH.jpg"></img>
