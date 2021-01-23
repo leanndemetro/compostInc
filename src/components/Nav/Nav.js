@@ -14,25 +14,34 @@ class NavbarPage extends Component {
       <Router>
         <MDBNavbar color="white" dark expand="md">
           <MDBNavbarBrand>
-            <img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img>
+            <a href="/"><img className="growImg" src="https://i.imgur.com/nd70Zb3.jpg"></img></a>
           </MDBNavbarBrand>
           <div className="links"><MDBNav className="font-weight-bold">
       <MDBNavItem>
-        <MDBNavLink className="black-text" active to="#!">CONTACT</MDBNavLink>
+        <MDBNavLink className="black-text" active to="/Contact">CONTACT</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink className="black-text" to="#!">ABOUT</MDBNavLink>
+        <MDBNavLink className="black-text" to="/About">ABOUT</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink className="black-text" to="#!">DONATE</MDBNavLink>
+        <MDBNavLink className="black-text" to="/Donate">DONATE</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink className="black-text" to="#!">HELP</MDBNavLink>
+        <MDBNavLink className="black-text" to="/Help">HELP</MDBNavLink>
+      </MDBNavItem>
+      <MDBNavItem>
+        <MDBNavLink className="black-text" to="/Ig"><MDBIcon fab icon="instagram" /></MDBNavLink>
+      </MDBNavItem>
+      <MDBNavItem>
+        <MDBNavLink className="black-text" to="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon fab icon="facebook-square" /></MDBNavLink>
       </MDBNavItem>
     </MDBNav>
     </div>
         </MDBNavbar>
-        <img className="homeImg" src="https://www.groworlando.org/wp-content/uploads/2018/11/agriculture-backyard-blur-296230-e1543305529365.jpg"></img>
+       
+    
+        <img className="homeImg" src="https://i.imgur.com/zzjyKfm.jpg"></img>
+       
       </Router>
 
 

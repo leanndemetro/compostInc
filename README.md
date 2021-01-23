@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<img src ="https://i.imgur.com/gCIu3Wl.png">
+<img src ="https://i.imgur.com/nd70Zb3.jpg">
 <hr>
 </head>
 <body>
@@ -19,7 +19,7 @@
 </ul>   
 
 <h2>Description:</h2>
-<p>A website built in React for the Grow Orlando Organization</p>
+<p>A website built in React for the Compost Incorporated Organization</p>
 
 <h2>Installation:</h2>
 <p>Please npm install and then npm start to run on localhost port 3000</p>
