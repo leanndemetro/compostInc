@@ -49,15 +49,15 @@ class NavbarPage extends Component {
     <MDBRow>
       <MDBCol>
       <div className="">
-          <MDBCardTitle>Using plants to grow teens</MDBCardTitle>
+          <MDBCardTitle>Use Plants to Grow Teens</MDBCardTitle>
           <MDBCardText>
           Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard. Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
         </MDBCardText>
           </div>
         </MDBCol>
       <MDBCol>
-        <div className="">
-        <MDBCardImage className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
+        <div className="linkImg">
+        <MDBCardImage className="img-fluid" src="https://i.imgur.com/alIHZq3.jpg" waves />
         </div>
         </MDBCol>
         </MDBRow>
@@ -65,13 +65,13 @@ class NavbarPage extends Component {
   <MDBContainer>
     <MDBRow>
       <MDBCol>
-        <div className="">
+        <div className="linkImg">
         <MDBCardImage className="img-fluid" src="https://i.imgur.com/0aEUTdF.jpg" waves />
         </div>
         </MDBCol>
       <MDBCol>
       <div className="">
-          <MDBCardTitle>Using plants to grow teens</MDBCardTitle>
+          <MDBCardTitle>Reduce Food Waste</MDBCardTitle>
           <MDBCardText>
           Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard. Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
         </MDBCardText>
@@ -83,15 +83,15 @@ class NavbarPage extends Component {
     <MDBRow>
       <MDBCol>
       <div className="">
-          <MDBCardTitle>Using plants to grow teens</MDBCardTitle>
+          <MDBCardTitle>Change the World</MDBCardTitle>
           <MDBCardText>
           Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard. Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
         </MDBCardText>
           </div>
         </MDBCol>
       <MDBCol>
-        <div className="">
-        <MDBCardImage className="img-fluid" src="https://i.imgur.com/alIHZq3.jpg" waves />
+        <div className="linkImg">
+        <MDBCardImage className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
         </div>
         </MDBCol>
         </MDBRow>
