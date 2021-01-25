@@ -54,11 +54,12 @@ div.firstText {
 }
 
 body {
-    background-color: #8BC34A;
-    background-image: url("https://www.transparenttextures.com/patterns/moulin.png");
+    background-image: url("https://i.imgur.com/0kN9MSn.jpg");
 }
 
-
+MDBBtn.arrowBtn {
+    border-radius: 30px;
+}
 
 
 

@@ -46,25 +46,25 @@ class NavbarPage extends Component {
           <MDBCol>
             <MDBCard style={{ width: "100%" }}>
               <MDBCardBody>
-
+              <br></br>
+              <br></br>
                 <MDBRow>
                   <MDBCol>
-                    <br></br>
                     <div className="firstText">Here at Compost Inc.</div> swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard. Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko swiss chard wakame.
          </MDBCol>
                   <MDBCol>
-                    <br></br>
                     Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify.
           </MDBCol>
                 </MDBRow>
               </MDBCardBody>
-                <MDBRow>
-                  <br></br>
-                  <MDBCol size="5"></MDBCol>
-                  <MDBCol size="4"><MDBBtn className="arrowBtn" color="light-green">Learn More</MDBBtn></MDBCol>
-                  <MDBCol size="5"></MDBCol>
-                  <br></br>
-                </MDBRow>
+              <br></br>
+              <MDBRow>
+                <MDBCol size="5"></MDBCol>
+                <MDBCol size="3"><MDBBtn className="arrowBtn" color="light-green">Learn More <MDBIcon icon="angle-down" /></MDBBtn></MDBCol>
+                <MDBCol size="5"></MDBCol>
+              </MDBRow>
+              <br></br>
+              <br></br>
             </MDBCard>
           </MDBCol>
         </MDBContainer>
@@ -119,7 +119,7 @@ class NavbarPage extends Component {
             </MDBCol>
           </MDBRow>
         </MDBContainer>
-      
+
 
       </Router>
 
