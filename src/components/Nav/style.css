@@ -54,7 +54,8 @@ div.firstText {
 }
 
 body {
-    background-image: url("https://i.imgur.com/0kN9MSn.jpg");
+    background-color: #8BC34A;
+    background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
 }
 
 MDBBtn.arrowBtn {

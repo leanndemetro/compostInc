@@ -60,7 +60,7 @@ class NavbarPage extends Component {
               <br></br>
               <MDBRow>
                 <MDBCol size="5"></MDBCol>
-                <MDBCol size="3"><MDBBtn className="arrowBtn" color="light-green">Learn More <MDBIcon icon="angle-down" /></MDBBtn></MDBCol>
+                <MDBCol size="2"><MDBBtn className="arrowBtn" color="light-green">Learn More <MDBIcon icon="angle-down" /></MDBBtn></MDBCol>
                 <MDBCol size="5"></MDBCol>
               </MDBRow>
               <br></br>
