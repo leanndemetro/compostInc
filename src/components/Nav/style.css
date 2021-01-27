@@ -30,7 +30,7 @@ div.container {
     }
 
 div.linkImg:hover {
-    opacity: 0.6;
+    opacity: 0.7;
 
 }
 
@@ -62,6 +62,26 @@ MDBBtn.arrowBtn {
     border-radius: 30px;
 }
 
-
-
+.img__wrap {
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .img__description {
+    position: absolute;
+    top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    color: white;
+    visibility: hidden;
+    font-size: 100px;
+    font-family: 'Questrial', sans-serif;
+    
+  }
+  
+  .img__wrap:hover .img__description {
+    visibility: visible;
+    
+  }
 

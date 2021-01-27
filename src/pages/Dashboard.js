@@ -24,22 +24,28 @@ class Dashboard extends Component {
                     </MDBCol>
                     <MDBCol>
                       <div className="linkImg">
+                      <div className="img__wrap">
                         <img className="img-fluid" src="https://i.imgur.com/alIHZq3.jpg" waves />
+                        <p className="img__description">HOW IT WORKS</p>
+                    </div>
                       </div>
                     </MDBCol>
                   </MDBRow>
                 </MDBContainer>
-                <MDBContainer>
+                <MDBContainer className>
                   <MDBRow>
                     <MDBCol>
                       <div className="linkImg">
+                      <div className="img__wrap">
                         <img className="img-fluid" src="https://images.unsplash.com/photo-1566040924976-f837330d1a5b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80" waves />
+                        <p className="img__description">GET INVOLVED</p>
+                    </div>
                       </div>
                     </MDBCol>
                     <MDBCol>
                       <div className="cardTitle">
                         <img className="img-fluid" src="https://i.imgur.com/4IF7ukI.jpg" waves />
-                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify.</p>
+                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress.</p>
                       </div>
                     </MDBCol>
                   </MDBRow>
@@ -49,12 +55,15 @@ class Dashboard extends Component {
                     <MDBCol>
                       <div className="cardTitle">
                         <img className="img-fluid" src="https://i.imgur.com/EXqs3OQ.jpg" waves />
-                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify.</p>
+                        <p>Brussels chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify. chestnut gourd swiss chard</p>
                       </div>
                     </MDBCol>
                     <MDBCol>
                       <div className="linkImg">
+                      <div className="img__wrap">
                         <img className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
+                        <p className="img__description">CONTACT US</p>
+                    </div>
                       </div>
                     </MDBCol>
                   </MDBRow>
