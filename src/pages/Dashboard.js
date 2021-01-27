@@ -19,6 +19,7 @@ class Dashboard extends Component {
                     <MDBCol>
                       <div className="cardTitle">
                         <img className="img-fluid" src="https://i.imgur.com/1lKMVIW.jpg" waves />
+                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame.</p>
                       </div>
                     </MDBCol>
                     <MDBCol>
@@ -38,6 +39,7 @@ class Dashboard extends Component {
                     <MDBCol>
                       <div className="cardTitle">
                         <img className="img-fluid" src="https://i.imgur.com/4IF7ukI.jpg" waves />
+                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify.</p>
                       </div>
                     </MDBCol>
                   </MDBRow>
@@ -47,6 +49,7 @@ class Dashboard extends Component {
                     <MDBCol>
                       <div className="cardTitle">
                         <img className="img-fluid" src="https://i.imgur.com/EXqs3OQ.jpg" waves />
+                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify.</p>
                       </div>
                     </MDBCol>
                     <MDBCol>
