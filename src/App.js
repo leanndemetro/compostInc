@@ -6,6 +6,7 @@ import GetInvolved from "./pages/GetInvolved"
 import HowItWorks from "./pages/HowItWorks";
 import Donate from "./pages/Donate"
 import NavbarPage from "./components/Nav/Nav"
+import Footer from "./components/Footer/Footer"
 
 
 
@@ -32,6 +33,7 @@ function App() {
             <HowItWorks />
           </Route>
           </Switch>
+          <Footer />
       </div>
     </Router>
   );

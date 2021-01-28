@@ -3,7 +3,6 @@ import {
   MDBNavbar, MDBNavbarBrand, MDBNav, MDBNavItem, MDBNavLink,
   MDBIcon, MDBContainer, MDBCol
 } from "mdbreact";
-import { BrowserRouter as Router } from 'react-router-dom';
 import "./style.css"
 
 class NavbarPage extends Component {
