@@ -5,8 +5,10 @@ import Contact from "./pages/Contact";
 import GetInvolved from "./pages/GetInvolved"
 import HowItWorks from "./pages/HowItWorks";
 import Donate from "./pages/Donate"
+import About from "./pages/About"
 import NavbarPage from "./components/Nav/Nav"
 import Footer from "./components/Footer/Footer"
+
 
 
 
@@ -31,6 +33,9 @@ function App() {
           </Route>
           <Route exact path="/HowItWorks">
             <HowItWorks />
+          </Route>
+          <Route exact path="/About">
+            <About />
           </Route>
           </Switch>
           <Footer />

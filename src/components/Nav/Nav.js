@@ -24,10 +24,13 @@ class NavbarPage extends Component {
                 <MDBNavLink className="black-text" to="/GetInvolved">GET INVOLVED</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-              <MDBNavLink className="black-text" to="/Donate">DONATE</MDBNavLink>
+                <MDBNavLink className="black-text" to="/About">ABOUT US</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
               <MDBNavLink className="black-text" to="/Contact">CONTACT</MDBNavLink>
+              </MDBNavItem>
+              <MDBNavItem>
+              <MDBNavLink className="black-text" to="/Donate">DONATE</MDBNavLink>
               </MDBNavItem>
             </MDBNav>
             </div>
