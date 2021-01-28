@@ -34,7 +34,7 @@ class NavbarPage extends Component {
                 <MDBNavLink className="black-text" to="/Ig"><MDBIcon fab icon="instagram" /></MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-                <MDBNavLink className="black-text" to="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon fab icon="facebook-square" /></MDBNavLink>
+                <MDBNavLink className="black-text" target="_blank" to="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon fab icon="facebook-square" /></MDBNavLink>
               </MDBNavItem>
             </MDBNav>
             </div>
