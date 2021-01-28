@@ -11,7 +11,6 @@ class NavbarPage extends Component {
 
   render() {
     return (
-      <Router>
         <MDBNavbar color="white" dark expand="md">
           <MDBNavbarBrand>
             <a href="/"><img className="growImg" src="https://i.imgur.com/nd70Zb3.jpg"></img></a>
@@ -20,10 +19,10 @@ class NavbarPage extends Component {
             <MDBCol></MDBCol>
             <div className="links"><MDBNav className="font-weight-bold">
               <MDBNavItem>
-                <MDBNavLink className="black-text" active to="/howItWorks">HOW IT WORKS</MDBNavLink>
+                <MDBNavLink className="black-text" active to="/HowItWorks">HOW IT WORKS</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-                <MDBNavLink className="black-text" to="/getInvolved">GET INVOLVED</MDBNavLink>
+                <MDBNavLink className="black-text" to="/GetInvolved">GET INVOLVED</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
               <MDBNavLink className="black-text" to="/Donate">DONATE</MDBNavLink>
@@ -41,9 +40,6 @@ class NavbarPage extends Component {
             </div>
           </MDBContainer>
         </MDBNavbar>
-      </Router>
-
-
     );
   }
 }

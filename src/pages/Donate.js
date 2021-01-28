@@ -1,18 +1,19 @@
-import React, { Component } from "react";
+import React from "react";
+import { MDBContainer } from "mdbreact";
 
 
 
 
-class Donate extends Component {
-  render() {
+function Donate ()  {
     return (
-     <p>Donate</p>
+     <MDBContainer>
+         <div><p>Donate</p></div>
+         </MDBContainer>
     
 
       
 
     );
-  }
 }
 
 export default Donate;

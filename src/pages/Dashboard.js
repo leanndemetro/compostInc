@@ -1,15 +1,12 @@
-import React, { Component } from "react";
-import { BrowserRouter as Router } from 'react-router-dom';
+import React from "react";
 import {
    MDBContainer, MDBRow, MDBCol, MDBCard
 } from "mdbreact";
 
 
 
-class Dashboard extends Component {
-  render() {
+function Dashboard () {
     return (
-      <Router>
          <MDBContainer>
           <MDBRow>
             <MDBCol>
@@ -72,15 +69,8 @@ class Dashboard extends Component {
             </MDBCol>
           </MDBRow>
         </MDBContainer>
-
-
-      </Router>
-    
-
-      
-
     );
   }
-}
+
 
 export default Dashboard;

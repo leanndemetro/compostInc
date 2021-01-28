@@ -1,18 +1,19 @@
-import React, { Component } from "react";
+import React from "react";
+import { MDBContainer } from "mdbreact";
 
 
 
 
-class getInvolved extends Component {
-  render() {
+function GetInvolved ()  {
     return (
-     <p>getInvolved</p>
+     <MDBContainer>
+         <div><p>get Involved</p></div>
+         </MDBContainer>
     
 
       
 
     );
-  }
 }
 
-export default getInvolved;
+export default GetInvolved;

@@ -2,8 +2,8 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import Contact from "./pages/Contact";
-import getInvolved from "./pages/getInvolved";
-import howItWorks from "./pages/howItWorks";
+import GetInvolved from "./pages/GetInvolved"
+import HowItWorks from "./pages/HowItWorks";
 import Donate from "./pages/Donate"
 import NavbarPage from "./components/Nav/Nav"
 
@@ -16,11 +16,21 @@ function App() {
       <div>
           <NavbarPage />
           <Switch>
-            <Route exact path="/" component={Dashboard} />
-            <Route exact path="/Contact" component={Contact} />
-            <Route exact path="/getInvolved" component={getInvolved} />
-            <Route exact path="/howItWorks" component={howItWorks} />
-            <Route exact path="/Donate" component={Donate} />
+          <Route exact path={["/"]}>
+            <Dashboard />
+          </Route>
+          <Route exact path="/Contact">
+            <Contact />
+          </Route>
+          <Route exact path="/Donate">
+            <Donate />
+          </Route>
+          <Route exact path="/GetInvolved">
+            <GetInvolved />
+          </Route>
+          <Route exact path="/HowItWorks">
+            <HowItWorks />
+          </Route>
           </Switch>
       </div>
     </Router>

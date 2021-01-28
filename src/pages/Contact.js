@@ -1,19 +1,19 @@
-import React, { Component } from "react";
+import React from "react";
+import { MDBContainer } from "mdbreact";
 
 
 
 
-class Contact extends Component {
-  render() {
+function Contact ()  {
     return (
-      <div>
-     <p>Contact</p>
-    </div>
+     <MDBContainer>
+         <div><p>Contact</p></div>
+         </MDBContainer>
+    
 
       
 
     );
-  }
 }
 
 export default Contact;

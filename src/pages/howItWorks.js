@@ -1,18 +1,19 @@
-import React, { Component } from "react";
+import React from "react";
+import { MDBContainer } from "mdbreact";
 
 
 
 
-class howItWorks extends Component {
-  render() {
+function HowItWorks ()  {
     return (
-     
-    <p>howItWorks</p>
+     <MDBContainer>
+         <div><p>how it works</p></div>
+         </MDBContainer>
+    
 
       
 
     );
-  }
 }
 
-export default howItWorks;
+export default HowItWorks;
