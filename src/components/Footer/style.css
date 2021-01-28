@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
 footer.pagefooter {
     position: absolute;
     bottom: 0;
     margin-bottom: 5px;
+    font-family: 'Questrial', sans-serif;
     
+}
+
+.icons {
+    font-size: 35px;
 }

@@ -1,43 +1,28 @@
 import React, { Component } from "react";
-import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
+import { MDBCol, MDBContainer, MDBRow, MDBFooter, MDBIcon } from "mdbreact";
 import "./style.css"
 
 
 class Footer extends Component {
     render() {
   return (
-    <div className="footer"><MDBFooter  className="font-small pt-4 mt-4">
-      <MDBContainer fluid className="text-center text-md-left">
-        <MDBRow>
-          <MDBCol md="6">
-            <h5 className="title">Footer Content</h5>
-            <p>
-              Here you can use rows and columns here to organize your footer
-              content.
-            </p>
-          </MDBCol>
-          <MDBCol md="6">
-            <h5 className="title">Links</h5>
-            <ul>
-              <li className="list-unstyled">
-                <a href="#!">Link 1</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Link 2</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Link 3</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Link 4</a>
-              </li>
-            </ul>
-          </MDBCol>
-        </MDBRow>
-      </MDBContainer>
+    <div className="footer"><MDBFooter className="font-small pt-4 mt-4">
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="https://github.com/leanndemetro/compostInc"> A. DeMetro </a>
+        <MDBRow>
+            <MDBCol></MDBCol>
+          <MDBCol>
+        <MDBRow>
+        <MDBCol><a target="_blank" href="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon className="icons" fab icon="facebook-square" /></a> </MDBCol>
+        <MDBCol><a target="_blank" href="https://twitter.com/grow_orlando"><MDBIcon className="icons" fab icon="twitter" /></a>
+        <br></br>
+        <br></br>
+        &copy; {new Date().getFullYear()} Copyright</MDBCol>
+        <MDBCol><a target="_blank" href="https://www.instagram.com/grow_orlando/?hl=en"><MDBIcon className="icons" fab icon="instagram" /></a></MDBCol>
+        </MDBRow>
+        </MDBCol>
+        <MDBCol></MDBCol>
+          </MDBRow>
         </MDBContainer>
       </div>
     </MDBFooter>
