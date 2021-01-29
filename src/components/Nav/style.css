@@ -26,69 +26,35 @@ MDBContainer.links {
 div.container {
     text-align: left;
     padding: 30px;
-    font-family: 'Questrial', sans-serif;
     }
 
-div.linkImg:hover {
-    opacity: 0.9;
-
-}
-
-img.img-fluid {
-    border-radius: 10px;
-    width: 100%;
-}
-
-
-p.openingText {
-    float: left;
-    font-size: 100px;
-    text-align: left;
-    font-family: 'Questrial', sans-serif;
-}
-
-
-div.firstText {
-    font-size: 35px;
-    
-}
 
 body {
-    background-color: #8BC34A;
     background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
 }
 
-MDBBtn.arrowBtn {
-    border-radius: 30px;
-}
 
 .img__wrap {
     position: relative;
     height: 100%;
     width: 100%;
   }
+
   
-  .img__description {
-    position: absolute;
-    top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-    color: white;
-    visibility: hidden;
-    font-size: 20px;
-    font-weight: bold;
-    font-family: 'Questrial', sans-serif;
-    text-shadow: 2px 2px 5px black;
-    
-  }
-  
-  .img__wrap:hover .img__description {
-    visibility: visible;
-    
-  }
+
 
 
 
 .mainTitle {
     font-size: 50px;
 }
+
+.TextWrap {
+float: right;
+margin: 10px;
+width: 30%;
+border-radius: 5px;
+}
+
+
+
