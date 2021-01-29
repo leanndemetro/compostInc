@@ -14,7 +14,7 @@ function Dashboard() {
             <MDBContainer>
               <MDBRow>
                 <MDBCol>
-                    <div className="mainTitle">Here at Compost Inc.</div></MDBCol>
+                    <div className="mainTitle">Here at <span className="compost">Compost</span> Inc.</div></MDBCol>
               </MDBRow>
               <MDBRow>
                 <MDBCol>
