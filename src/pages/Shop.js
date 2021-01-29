@@ -4,10 +4,10 @@ import { MDBContainer } from "mdbreact";
 
 
 
-function GetInvolved ()  {
+function Shop ()  {
     return (
      <MDBContainer>
-         <div style={{ height:"350px", width:"350px"}}><p>get Involved</p></div>
+         <div style={{ height:"350px", width:"350px"}}><p>Shop</p></div>
          </MDBContainer>
     
 
@@ -16,4 +16,4 @@ function GetInvolved ()  {
     );
 }
 
-export default GetInvolved;
+export default Shop;

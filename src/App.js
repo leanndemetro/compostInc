@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import Contact from "./pages/Contact";
-import GetInvolved from "./pages/GetInvolved"
+import Shop from "./pages/Shop"
 import HowItWorks from "./pages/HowItWorks";
 import Donate from "./pages/Donate"
 import About from "./pages/About"
@@ -28,8 +28,8 @@ function App() {
           <Route exact path="/Donate">
             <Donate />
           </Route>
-          <Route exact path="/GetInvolved">
-            <GetInvolved />
+          <Route exact path="/Shop">
+            <Shop />
           </Route>
           <Route exact path="/HowItWorks">
             <HowItWorks />
