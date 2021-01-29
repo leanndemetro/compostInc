@@ -1,5 +1,5 @@
 {
-  "name": "compost-inc",
+  "name": "your-app",
   "version": "0.1.0",
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '5.0.1' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
@@ -11,7 +11,7 @@
     "react-router-dom": "^5.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
@@ -27,20 +27,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "description": "<!DOCTYPE html>\r <html lang= \"en\">\r <head>\r <meta charset=\"UTF-8\" />\r <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r <img src=\"https://i.imgur.com/nd70Zb3.jpg\">\r <hr>\r </head>\r <body>",
-  "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leanndemetro/compostInc.git"
-  },
-  "keywords": [
-    "CompostInc"
-  ],
-  "author": "A.DeMetro",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leanndemetro/compostInc/issues"
-  },
-  "homepage": "https://github.com/leanndemetro/compostInc#readme"
+  ]
 }
