@@ -1,6 +1,9 @@
 {
   "name": "your-app",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.15.4"
+  },
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '5.0.1' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
   "dependencies": {
@@ -11,7 +14,7 @@
     "react-router-dom": "^5.1.2"
   },
   "scripts": {
-    "start": "node server/server.js",
+    "start": "npm start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
