@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 img.growImg {
     width: 40%;
@@ -24,15 +24,14 @@ MDBContainer.links {
 
   
 div.container {
-    text-align: left;
+    font-family: 'Poppins', sans-serif;
     padding: 30px;
     }
 
 
 body {
-    background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+    background-color: darkseagreen;
 }
-
 
 .img__wrap {
     position: relative;
@@ -65,6 +64,10 @@ border-radius: 50%;
 .howLink:hover {
     font-style: italic;
    
+}
+
+.mainText {
+    font-size: 90%;
 }
 
 
