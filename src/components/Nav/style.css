@@ -41,20 +41,30 @@ body {
   }
 
   
-
-
-
-
 .mainTitle {
     font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .TextWrap {
 float: right;
-margin: 10px;
-width: 30%;
-border-radius: 5px;
+margin: 20px;
+width: 40%;
+border-radius: 50%;
 }
 
+
+.howLink {
+    color: black;
+    font-size: 20px;
+    float: right;
+    padding: 10px;
+}
+
+.howLink:hover {
+    font-style: italic;
+   
+}
 
 
