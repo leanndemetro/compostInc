@@ -44,6 +44,7 @@ body {
     font-size: 50px;
     text-transform: uppercase;
     text-align: center;
+    color: #245901;
 }
 
 .TextWrap {
@@ -62,14 +63,14 @@ border-radius: 50%;
 
 
 .howLink {
-    color: black;
+    color: #245901;
     font-size: 20px;
     float: right;
     padding: 10px;
 }
 
 .howLinkLeft {
-    color: black;
+    color:#245901;
     font-size: 20px;
     float: left;
     padding: 10px;
