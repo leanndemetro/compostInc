@@ -7,7 +7,7 @@ import { MDBContainer } from "mdbreact";
 function About ()  {
     return (
      <MDBContainer>
-         <div><p>About Us</p></div>
+         <div style={{ height:"350px", width:"350px"}}><p>About Us</p></div>
          </MDBContainer>
     
 

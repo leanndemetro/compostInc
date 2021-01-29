@@ -15,10 +15,12 @@ function Dashboard () {
                   <MDBRow>
                     <MDBCol>
                       <div className="cardTitle">
-                        <img className="img-fluid" src="https://i.imgur.com/1lKMVIW.jpg" waves />
-                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame.</p>
+                        <div className="mainTitle">Here at Compost Inc.</div>
+                        <p>we have a passion for sustainability, community and youth outreach, and how the two can intersect to change our planet for the better.</p>
                       </div>
                     </MDBCol>
+                  </MDBRow>
+                  <MDBRow>
                     <MDBCol>
                       <div className="linkImg">
                       <div className="img__wrap">
@@ -31,6 +33,12 @@ function Dashboard () {
                 </MDBContainer>
                 <MDBContainer className>
                   <MDBRow>
+                  <MDBCol>
+                      <div className="cardTitle">
+                        <img className="img-fluid" src="https://i.imgur.com/4IF7ukI.jpg" waves />
+                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress.</p>
+                      </div>
+                    </MDBCol>
                     <MDBCol>
                       <div className="linkImg">
                       <div className="img__wrap">
@@ -39,28 +47,22 @@ function Dashboard () {
                     </div>
                       </div>
                     </MDBCol>
-                    <MDBCol>
-                      <div className="cardTitle">
-                        <img className="img-fluid" src="https://i.imgur.com/4IF7ukI.jpg" waves />
-                        <p>seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress.</p>
-                      </div>
-                    </MDBCol>
                   </MDBRow>
                 </MDBContainer>
                 <MDBContainer>
                   <MDBRow>
-                    <MDBCol>
-                      <div className="cardTitle">
-                        <img className="img-fluid" src="https://i.imgur.com/EXqs3OQ.jpg" waves />
-                        <p>Brussels chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify. chestnut gourd swiss chard</p>
-                      </div>
-                    </MDBCol>
                     <MDBCol>
                       <div className="linkImg">
                       <div className="img__wrap">
                       <a href="/Contact"><img className="img-fluid" src="https://i.imgur.com/zzjyKfm.jpg" waves />
                         <p className="img__description">CONTACT US</p></a>
                     </div>
+                      </div>
+                    </MDBCol>
+                    <MDBCol>
+                      <div className="cardTitle">
+                        <img className="img-fluid" src="https://i.imgur.com/EXqs3OQ.jpg" waves />
+                        <p>Brussels chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify. chestnut gourd swiss chard</p>
                       </div>
                     </MDBCol>
                   </MDBRow>

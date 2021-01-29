@@ -7,7 +7,7 @@ import { MDBContainer } from "mdbreact";
 function Donate ()  {
     return (
      <MDBContainer>
-         <div><p>Donate</p></div>
+         <div style={{ height:"350px", width:"350px"}}><p>Donate</p></div>
          </MDBContainer>
     
 

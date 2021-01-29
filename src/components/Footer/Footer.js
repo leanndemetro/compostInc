@@ -14,10 +14,7 @@ class Footer extends Component {
                             <MDBCol>
                                 <MDBRow>
                                     <MDBCol><a target="_blank" href="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon className="icons" fab icon="facebook-square" /></a> </MDBCol>
-                                    <MDBCol><a target="_blank" href="https://twitter.com/grow_orlando"><MDBIcon className="icons" fab icon="twitter" /></a>
-                                        <br></br>
-                                        <br></br>
-                                     &copy; {new Date().getFullYear()} Copyright</MDBCol>
+                                    <MDBCol><a target="_blank" href="https://twitter.com/grow_orlando"><MDBIcon className="icons" fab icon="twitter" /></a></MDBCol>
                                     <MDBCol><a target="_blank" href="https://www.instagram.com/grow_orlando/?hl=en"><MDBIcon className="icons" fab icon="instagram" /></a></MDBCol>
                                 </MDBRow>
                             </MDBCol>

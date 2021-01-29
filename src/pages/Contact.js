@@ -7,7 +7,7 @@ import { MDBContainer } from "mdbreact";
 function Contact ()  {
     return (
      <MDBContainer>
-         <div><p>Contact</p></div>
+         <div style={{ height:"350px", width:"350px"}}><p>Contact</p></div>
          </MDBContainer>
     
 

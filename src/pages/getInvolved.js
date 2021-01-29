@@ -7,7 +7,7 @@ import { MDBContainer } from "mdbreact";
 function GetInvolved ()  {
     return (
      <MDBContainer>
-         <div><p>get Involved</p></div>
+         <div style={{ height:"350px", width:"350px"}}><p>get Involved</p></div>
          </MDBContainer>
     
 
