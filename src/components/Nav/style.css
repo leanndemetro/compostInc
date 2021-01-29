@@ -41,7 +41,7 @@ body {
 
   
 .mainTitle {
-    font-size: 50px;
+    font-size: 40px;
     text-transform: uppercase;
     text-align: center;
     color: black;
@@ -103,5 +103,5 @@ border-radius: 50%;
 }
 
 .compost {
-    letter-spacing: 0.3em;
+    letter-spacing: 0.1em;
 }
