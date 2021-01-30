@@ -18,19 +18,19 @@ class NavbarPage extends Component {
             <MDBCol></MDBCol>
             <div className="links"><MDBNav className="font-weight-bold">
               <MDBNavItem>
-                <MDBNavLink className="black-text" active to="/HowItWorks">HOW IT WORKS</MDBNavLink>
+                <MDBNavLink className="black-text how" active to="/HowItWorks">HOW IT WORKS</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-                <MDBNavLink className="black-text" to="/Shop">SHOP</MDBNavLink>
+                <MDBNavLink className="black-text shop" to="/Shop">SHOP</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-              <MDBNavLink className="black-text" to="/Contact">CONTACT</MDBNavLink>
+              <MDBNavLink className="black-text contact" to="/Contact">CONTACT</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-              <MDBNavLink className="black-text" to="/About">ABOUT US</MDBNavLink>
+              <MDBNavLink className="black-text aboutUs" to="/About">ABOUT US</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
-              <MDBNavLink className="black-text" to="/Donate">DONATE</MDBNavLink>
+              <MDBNavLink className="black-text donate" to="/Donate">DONATE</MDBNavLink>
               </MDBNavItem>
             </MDBNav>
             </div>

@@ -4,6 +4,10 @@ img.growImg {
     width: 40%;
     
 }
+img.growImg:hover {
+    opacity: 0.5;
+    
+}
 
 .navbar {
     margin-top: 10px;
@@ -15,6 +19,24 @@ div.links {
     position: relative;
    display: inline-block;
 }
+
+.how:hover{
+    opacity: 0.4;
+}
+.shop:hover {
+    opacity: 0.4;
+}
+.donate:hover {
+    opacity: 0.4;
+}
+.aboutUs:hover {
+    opacity: 0.4;
+}
+
+.contact:hover {
+    opacity: 0.4;
+}
+
 
 MDBContainer.links {
     text-align: right;
