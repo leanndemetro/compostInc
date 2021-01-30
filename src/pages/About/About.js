@@ -15,7 +15,6 @@ function About ()  {
           <MDBCol>
             <MDBCard className="my-5 px-5 pb-1 text-center">
       <MDBCardBody>
-      <div className="about">
         <h2 className="h1-responsive font-weight-bold my-5">
           OUR TEAM
         </h2>
@@ -145,7 +144,6 @@ function About ()  {
             </MDBCol>
           </MDBCol>
         </MDBRow>
-         </div>
       </MDBCardBody>
               </MDBCard>
               </MDBCol>
