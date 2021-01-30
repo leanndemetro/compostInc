@@ -20,21 +20,21 @@ function HowItWorks ()  {
             <hr></hr>
             <br></br>
             <br></br>
-            <img className="howTextWrap" src="https://i.imgur.com/IsETBEg.jpg"></img>
+            <img className="howTextWrap" src="https://i.imgur.com/zbV4a7m.jpg"></img>
             <ol>
             <li><p className="howText">Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
             <br></br>
             <br></br>
+            Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish.</p>
+            </li>
+            <img className="howTextWrapLeft" src="https://i.imgur.com/tEHnkcJ.jpg"></img>
+            <br></br>
+            <li><p className="howText"> Water spinach arugula pea tatsoi bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
+            <br></br>
+            <br></br>
             Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard</p>
             </li>
-            <img className="howTextWrapLeft" src="https://i.imgur.com/0RRyPaL.jpg"></img>
-            <br></br>
-            <li><p className="howText"> Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
-            <br></br>
-            <br></br>
-            Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard</p>
-            </li>
-            <li><p className="howText"> Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
+            <li><p className="howText"> Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
             <br></br>
             <br></br>
             Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard</p>
