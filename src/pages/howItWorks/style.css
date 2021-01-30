@@ -1,0 +1,27 @@
+.howWorks {
+    font-size: 40px;
+    width: 100%;
+    padding: 20px;
+}
+
+.howText {
+  font-size: 13px;
+}
+
+
+
+.howTextWrap {
+    float: right;
+    margin: 10px;
+    width: 40%;
+    margin-top: -30px;
+    border-radius: 50%;
+}
+
+.howTextWrapLeft {
+    clear: right;
+    float: left;
+    max-width: 50%;
+    border-radius: 50%;
+    margin: 20px;
+}

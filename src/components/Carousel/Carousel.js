@@ -1,16 +1,17 @@
 import React, { Component } from "react";
 import { MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBView, MDBContainer } from
 "mdbreact";
+import "./style.css"
 
 
 class Carousel extends Component {
     render() {
   return (
-    <MDBContainer>
+<MDBContainer>
       <MDBCarousel
         activeItem={1}
         length={3}
-        showControls={false}
+        showControls={true}
         showIndicators={false}
         className="z-depth-1"
         slide
@@ -20,7 +21,7 @@ class Carousel extends Component {
             <MDBView>
               <img
                 className="d-block w-100"
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(35).jpg"
+                src="https://mdbootstrap.com/img/Photos/Slides/img%20(45).jpg"
                 alt="First slide"
               />
             </MDBView>
@@ -29,7 +30,7 @@ class Carousel extends Component {
             <MDBView>
               <img
                 className="d-block w-100"
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(33).jpg"
+                src="https://mdbootstrap.com/img/Photos/Slides/img%20(46).jpg"
                 alt="Second slide"
               />
             </MDBView>
@@ -38,7 +39,7 @@ class Carousel extends Component {
             <MDBView>
               <img
                 className="d-block w-100"
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(31).jpg"
+                src="https://mdbootstrap.com/img/Photos/Slides/img%20(47).jpg"
                 alt="Third slide"
               />
             </MDBView>
