@@ -1,14 +1,25 @@
 import React from "react";
-import { MDBContainer } from "mdbreact";
+import {
+  MDBContainer, MDBRow, MDBCol, MDBCard
+} from "mdbreact";
+
 
 
 
 
 function Contact ()  {
     return (
-     <MDBContainer>
-         <div style={{ height:"350px", width:"350px"}}><p>Contact</p></div>
-         </MDBContainer>
+        <MDBContainer>
+        <MDBRow>
+          <MDBCol>
+            <MDBCard>
+            <h1>CONTACT</h1>
+              </MDBCard>
+              </MDBCol>
+              </MDBRow>
+              </MDBContainer>
+                    
+                  
     
 
       
