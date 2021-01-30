@@ -17,6 +17,9 @@ function HowItWorks ()  {
             <MDBCard>
               <MDBContainer>
             <p className="howWorks">HOW IT WORKS</p>
+            <hr></hr>
+            <br></br>
+            <br></br>
             <img className="howTextWrap" src="https://i.imgur.com/IsETBEg.jpg"></img>
             <ol>
             <li><p className="howText">Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
