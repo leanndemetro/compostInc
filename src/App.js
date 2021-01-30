@@ -5,7 +5,7 @@ import Contact from "./pages/Contact";
 import Shop from "./pages/Shop"
 import HowItWorks from "./pages/howItWorks/howItWorks";
 import Donate from "./pages/Donate"
-import About from "./pages/About"
+import About from "./pages/About/About"
 import NavbarPage from "./components/Nav/Nav"
 import Footer from "./components/Footer/Footer"
 
