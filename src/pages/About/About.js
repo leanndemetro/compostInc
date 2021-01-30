@@ -30,11 +30,11 @@ function About ()  {
               />
             </MDBCol>
             <MDBCol md="8" lg="6" className="float-right">
-              <h4 className="font-weight-bold mb-3">FRANK BAILEY</h4>
+              <h4 className="font-weight-bold mb-3 frank">FRANK BAILEY</h4>
               <h6 className="font-weight-bold grey-text mb-3">
                 Owner
               </h6>
-              <p className="black-text">
+              <p className="blurb">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic tenetur.
               </p>
@@ -60,11 +60,11 @@ function About ()  {
               />
             </MDBCol>
             <MDBCol md="8" lg="6" className="float-right">
-              <h4 className="font-weight-bold mb-3">STUART MCDANIEL</h4>
+              <h4 className="font-weight-bold mb-3 stuart">STUART MCDANIEL</h4>
               <h6 className="font-weight-bold grey-text mb-3">
                 Mad Scientist
               </h6>
-              <p className="black-text">
+              <p className="blurb">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic.
               </p>
