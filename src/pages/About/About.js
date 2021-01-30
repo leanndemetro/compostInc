@@ -26,7 +26,7 @@ function About ()  {
                 src="https://i.imgur.com/ctYdCVL.jpg"
                 className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid"
                 tag="img"
-                alt="FrankBaily"
+                alt="FrankBailey"
               />
             </MDBCol>
             <MDBCol md="8" lg="6" className="float-right">
@@ -53,20 +53,20 @@ function About ()  {
           <MDBCol lg="6" md="12" className="mb-5">
             <MDBCol md="4" lg="6" className="float-left">
               <img
-                src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg"
+                src="https://i.imgur.com/Ys1LNXy.jpg"
                 className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid"
                 tag="img"
-                alt="Sample avatar"
+                alt="StuartMcdaniel"
               />
             </MDBCol>
             <MDBCol md="8" lg="6" className="float-right">
-              <h4 className="font-weight-bold mb-3">MARIA KATE</h4>
+              <h4 className="font-weight-bold mb-3">STUART MCDANIEL</h4>
               <h6 className="font-weight-bold grey-text mb-3">
-                Photographer
+                Mad Scientist
               </h6>
               <p className="black-text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur.
+                eos id officiis hic.
               </p>
               <a href="#!" className="p-2 fa-lg fb-ic">
                 <MDBIcon fab icon="facebook-f" />
@@ -79,67 +79,7 @@ function About ()  {
               </a>
             </MDBCol>
           </MDBCol>
-
-          <MDBCol lg="6" md="12" className="mb-5">
-            <MDBCol md="4" lg="6" className="float-left">
-              <img
-                src="https://mdbootstrap.com/img/Photos/Avatars/img%20(26).jpg"
-                className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid"
-                tag="img"
-                alt="Sample avatar"
-              />
-            </MDBCol>
-            <MDBCol md="8" lg="6" className="float-right">
-              <h4 className="font-weight-bold mb-3">ANNA DEYNAH</h4>
-              <h6 className="font-weight-bold grey-text mb-3">
-                Web Developer
-              </h6>
-              <p className="black-text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur.
-              </p>
-              <a href="#!" className="p-2 fa-lg fb-ic">
-                <MDBIcon fab icon="facebook-f" />
-              </a>
-              <a href="#!" className="p-2 fa-lg tw-ic">
-                <MDBIcon fab icon="twitter" />
-              </a>
-              <a href="#!" className="p-2 fa-lg github-ic">
-                <MDBIcon fab icon="github" />
-              </a>
-            </MDBCol>
-          </MDBCol>
-
-          <MDBCol lg="6" md="12" className="mb-5">
-            <MDBCol md="4" lg="6" className="float-left">
-              <img
-                src="https://mdbootstrap.com/img/Photos/Avatars/img%20(29).jpg"
-                className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid"
-                tag="img"
-                alt="Sample avatar"
-              />
-            </MDBCol>
-            <MDBCol md="8" lg="6" className="float-right">
-              <h4 className="font-weight-bold mb-3">SARAH MELYAH</h4>
-              <h6 className="font-weight-bold grey-text mb-3">
-                Front-end Developer
-              </h6>
-              <p className="black-text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur.
-              </p>
-              <a href="#!" className="p-2 fa-lg gplus-ic">
-                <MDBIcon fab icon="google-plus-g" />
-              </a>
-              <a href="#!" className="p-2 fa-lg li-ic">
-                <MDBIcon fab icon="linkedin-in" />
-              </a>
-              <a href="#!" className="p-2 fa-lg email-ic">
-                <MDBIcon icon="envelope" />
-              </a>
-            </MDBCol>
-          </MDBCol>
-        </MDBRow>
+          </MDBRow>
       </MDBCardBody>
               </MDBCard>
               </MDBCol>
