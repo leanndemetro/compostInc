@@ -13,16 +13,12 @@ function About ()  {
         <MDBContainer>
         <MDBRow>
           <MDBCol>
-            <MDBCard className="my-5 px-5 pb-1 text-center">
+            <MDBCard className="my-5 px-5 pb-1">
       <MDBCardBody>
-        <h2 className="h1-responsive font-weight-bold my-5">
-          OUR TEAM
-        </h2>
-        <p className="grey-text w-responsive mx-auto mb-5">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
-          error amet numquam iure provident voluptate esse quasi, veritatis
-          totam voluptas nostrum quisquam eum porro a pariatur veniam.
-        </p>
+      <p className="about">OUR TEAM</p>
+      <hr></hr>
+      <br></br>
+      <br></br>
         <MDBRow className="text-md-left">
           <MDBCol lg="6" md="12" className="mb-5">
             <MDBCol md="4" lg="6" className="float-left">
