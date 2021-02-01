@@ -14,12 +14,21 @@
     margin-top: 40px;
 }
 
-.teamImg {
+.frankImg {
     border-style: solid;
     border-width: 2px;
     border-color: black;
     border-radius: 50%;
     width: 40%;
     float: right;
+    margin: 20px;
+}
+.stuartImg {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 50%;
+    width: 40%;
+    float: left;
     margin: 20px;
 }

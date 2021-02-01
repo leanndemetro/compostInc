@@ -21,7 +21,7 @@ function About ()  {
             <MDBCol>
               <img
                 src="https://i.imgur.com/ctYdCVL.jpg"
-                className="teamImg img-fluid"
+                className="frankImg img-fluid"
                 tag="img"
                 alt="FrankBailey"
               />
@@ -60,7 +60,7 @@ function About ()  {
             <MDBCol>
               <img
                 src="https://i.imgur.com/Ys1LNXy.jpg"
-                className="teamImg img-fluid"
+                className="stuartImg img-fluid"
                 tag="img"
                 alt="StuartMcdaniel"
               />
