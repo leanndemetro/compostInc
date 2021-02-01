@@ -75,7 +75,7 @@ function Contact() {
             </label>
                 <textarea value={message} onChange={handleMessageChange} type="text" id="defaultFormContactMessageEx" className="form-control" rows="3" />
                 <div className="text-center mt-4">
-                  <MDBBtn onClick={(e) => {handleFormSubmit(name, email, subject, message)}} color="success" outline type="success">
+                  <MDBBtn onClick={(e) => {handleFormSubmit(name, email, subject, message)}} color="elegant">
                     Send
                         <MDBIcon far icon="paper-plane" className="ml-2" />
                   </MDBBtn>
