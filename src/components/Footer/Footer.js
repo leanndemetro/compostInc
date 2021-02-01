@@ -18,7 +18,11 @@ class Footer extends Component {
                                     <MDBCol><a target="_blank" href="https://www.instagram.com/grow_orlando/?hl=en"><MDBIcon className="icons" fab icon="instagram" /></a></MDBCol>
                                 </MDBRow>
                             </MDBCol>
-                            <MDBCol></MDBCol>
+                            <MDBCol>
+                               A WEBSITE BUILT BY
+                                <br></br>
+                                <a target="_blank" href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/" className="adLogo">A.D. Development</a>
+                                </MDBCol>
                         </MDBRow>
                     </MDBContainer>
                 </div>
