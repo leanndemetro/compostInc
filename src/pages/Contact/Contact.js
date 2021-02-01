@@ -55,22 +55,22 @@ function Contact() {
             <MDBCol size="2"></MDBCol>
             <MDBCol size="8">
               <form>
-                <label htmlFor="defaultFormContactNameEx" className="grey-text">
+                <label htmlFor="defaultFormContactNameEx">
                   Your name
             </label>
                 <input value={name} onChange={handleNameChange} type="text" id="defaultFormContactNameEx" className="form-control" />
                 <br />
-                <label htmlFor="defaultFormContactEmailEx" className="grey-text">
+                <label htmlFor="defaultFormContactEmailEx">
                   Your email
             </label>
                 <input value={email} onChange={handleEmailChange} type="email" id="defaultFormContactEmailEx" className="form-control" />
                 <br />
-                <label htmlFor="defaultFormContactSubjectEx" className="grey-text">
+                <label htmlFor="defaultFormContactSubjectEx">
                   Subject
             </label>
                 <input value={subject} onChange={handleSubjectChange} type="text" id="defaultFormContactSubjectEx" className="form-control" />
                 <br />
-                <label htmlFor="defaultFormContactMessageEx" className="grey-text">
+                <label htmlFor="defaultFormContactMessageEx">
                   Your message
             </label>
                 <textarea value={message} onChange={handleMessageChange} type="text" id="defaultFormContactMessageEx" className="form-control" rows="3" />
