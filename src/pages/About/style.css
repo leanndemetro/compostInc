@@ -4,7 +4,9 @@
     padding: 20px;
     text-align: left;
 }
-
+.aboutBody {
+    padding: 20px;
+}
 .blurb {
     font-size: 13px;
 }
