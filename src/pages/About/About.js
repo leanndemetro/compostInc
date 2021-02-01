@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBIcon
+  MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBIcon, MDBBtn
 } from "mdbreact";
 import "./style.css"
 
@@ -17,8 +17,6 @@ function About ()  {
       <MDBCardBody>
       <p className="about">ABOUT OUR TEAM</p>
       <hr></hr>
-      <br></br>
-      <br></br>
         <MDBRow>
             <MDBCol>
               <img
@@ -27,16 +25,17 @@ function About ()  {
                 tag="img"
                 alt="FrankBailey"
               />
-            </MDBCol>
-            <MDBCol>
-              <h4 className="font-weight-bold mb-3 frank">FRANK BAILEY</h4>
-              <h6 className="font-weight-bold grey-text mb-3">
+              <h4 className="font-weight-bold frank">FRANK BAILEY</h4>
+              <h6 className="font-weight-bold grey-text">
                 Owner
               </h6>
               <p className="blurb">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic tenetur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur.
                 eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic tenetur.
@@ -47,8 +46,11 @@ function About ()  {
               <a href="#!" className="p-2 fa-lg tw-ic">
                 <MDBIcon fab icon="twitter" />
               </a>
-              <a href="#!" className="p-2 fa-lg dribbble-ic">
-                <MDBIcon fab icon="dribbble" />
+              <a href="#!" className="p-2 fa-lg li-ic">
+                <MDBIcon fab icon="linkedin-in" />
+              </a>
+              <a href="#!" className="p-2 fa-lg email-ic">
+                <MDBIcon icon="envelope" />
               </a>
             </MDBCol>
             </MDBRow>
@@ -62,8 +64,7 @@ function About ()  {
                 tag="img"
                 alt="StuartMcdaniel"
               />
-            </MDBCol>
-            <MDBCol>
+            
               <h4 className="font-weight-bold mb-3 stuart">STUART MCDANIEL</h4>
               <h6 className="font-weight-bold grey-text mb-3">
                 Mad Scientist
@@ -80,11 +81,14 @@ function About ()  {
               <a href="#!" className="p-2 fa-lg fb-ic">
                 <MDBIcon fab icon="facebook-f" />
               </a>
-              <a href="#!" className="p-2 fa-lg yt-ic">
-                <MDBIcon fab icon="youtube" />
+              <a href="#!" className="p-2 fa-lg tw-ic">
+                <MDBIcon fab icon="twitter" />
               </a>
-              <a href="#!" className="p-2 fa-lg ins-ic">
-                <MDBIcon fab icon="instagram" />
+              <a href="#!" className="p-2 fa-lg li-ic">
+                <MDBIcon fab icon="linkedin-in" />
+              </a>
+              <a href="#!" className="p-2 fa-lg email-ic">
+                <MDBIcon icon="envelope" />
               </a>
             </MDBCol>
             </MDBRow> 
