@@ -13,29 +13,32 @@ function About ()  {
         <MDBContainer>
         <MDBRow>
           <MDBCol>
-            <MDBCard className="my-5 px-5 pb-1">
+            <MDBCard>
       <MDBCardBody>
-      <p className="about">OUR TEAM</p>
+      <p className="about">ABOUT OUR TEAM</p>
       <hr></hr>
       <br></br>
       <br></br>
-        <MDBRow className="text-md-left">
-          <MDBCol lg="6" md="12" className="mb-5">
-            <MDBCol md="4" lg="6" className="float-left">
+        <MDBRow>
+            <MDBCol>
               <img
                 src="https://i.imgur.com/ctYdCVL.jpg"
-                className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid"
+                className="teamImg img-fluid"
                 tag="img"
                 alt="FrankBailey"
               />
             </MDBCol>
-            <MDBCol md="8" lg="6" className="float-right">
+            <MDBCol>
               <h4 className="font-weight-bold mb-3 frank">FRANK BAILEY</h4>
               <h6 className="font-weight-bold grey-text mb-3">
                 Owner
               </h6>
               <p className="blurb">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic tenetur.
               </p>
               <a href="#!" className="p-2 fa-lg fb-ic">
@@ -48,24 +51,30 @@ function About ()  {
                 <MDBIcon fab icon="dribbble" />
               </a>
             </MDBCol>
-          </MDBCol>
-
-          <MDBCol lg="6" md="12" className="mb-5">
-            <MDBCol md="4" lg="6" className="float-left">
+            </MDBRow>
+            <br></br>
+            <br></br>
+          <MDBRow>
+            <MDBCol>
               <img
                 src="https://i.imgur.com/Ys1LNXy.jpg"
-                className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid"
+                className="teamImg img-fluid"
                 tag="img"
                 alt="StuartMcdaniel"
               />
             </MDBCol>
-            <MDBCol md="8" lg="6" className="float-right">
+            <MDBCol>
               <h4 className="font-weight-bold mb-3 stuart">STUART MCDANIEL</h4>
               <h6 className="font-weight-bold grey-text mb-3">
                 Mad Scientist
               </h6>
               <p className="blurb">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
+                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
                 eos id officiis hic.
               </p>
               <a href="#!" className="p-2 fa-lg fb-ic">
@@ -78,8 +87,7 @@ function About ()  {
                 <MDBIcon fab icon="instagram" />
               </a>
             </MDBCol>
-          </MDBCol>
-          </MDBRow>
+            </MDBRow> 
       </MDBCardBody>
               </MDBCard>
               </MDBCol>
