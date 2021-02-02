@@ -35,16 +35,19 @@ function Donate() {
                       <input className="donateInput" id="name" type="text" name="name"></input>
                     </div>
                     <div className="input">
+                      <br></br>
                       <label className="label" for="email">Email address: </label>
                       <br></br>
                       <input className="donateInput" id="email" type="email" name="email"></input>
                     </div>
                     <div className="input">
+                      <br></br>
                       <label className="label" for="amount">Amount: </label>
                       <br></br>
                       <input className="donateInput" id="amount" type="number" name="amount"></input>
                     </div>
                     <div>
+                      <br></br>
                       <br></br>
                       <MDBBtn className="nextBtn" type="submit" color="elegant">
                     Next
