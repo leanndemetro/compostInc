@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody
+  MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBBtn
 } from "mdbreact";
 import "./style.css"
 
@@ -21,10 +21,13 @@ function Donate() {
                 </MDBCol>
               </MDBRow>
               <MDBRow>
+                <MDBCol className="donateText">
+                <p>Thank you for donating!</p>
+                </MDBCol>
+              </MDBRow>
+              <MDBRow>
                 <MDBCol size="3"></MDBCol>
-                <MDBCol className="cardBody">
-                  <p>Thank you for donating!</p>
-
+                <MDBCol size="6"className="cardBody">
                   <form method="POST" action="">
                     <div className="input">
                       <label className="label" for="name">Name: </label>
@@ -43,7 +46,9 @@ function Donate() {
                     </div>
                     <div>
                       <br></br>
-                      <button type="submit">Next</button>
+                      <MDBBtn className="nextBtn" type="submit" color="elegant">
+                    Next
+                  </MDBBtn>
                     </div>
                   </form>
                 </MDBCol>
