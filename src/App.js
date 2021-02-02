@@ -4,7 +4,7 @@ import Dashboard from "./pages/Dashboard";
 import Contact from "./pages/Contact/Contact";
 import Shop from "./pages/Shop"
 import HowItWorks from "./pages/howItWorks/howItWorks";
-import Donate from "./pages/Donate"
+import Donate from "./components/Donate/Donate"
 import About from "./pages/About/About"
 import NavbarPage from "./components/Nav/Nav"
 import Footer from "./components/Footer/Footer"

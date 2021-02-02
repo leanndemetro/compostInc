@@ -7,17 +7,19 @@ import {
 
 
 
-function Donate ()  {
+function Contact ()  {
     return (
         <MDBContainer>
         <MDBRow>
           <MDBCol>
             <MDBCard>
-            <h1>DONATE</h1>
+            <h1>CONTACT</h1>
               </MDBCard>
               </MDBCol>
               </MDBRow>
               </MDBContainer>
+                    
+                  
     
 
       
@@ -25,4 +27,4 @@ function Donate ()  {
     );
 }
 
-export default Donate;
+export default Contact;
