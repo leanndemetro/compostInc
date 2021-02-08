@@ -17,3 +17,8 @@
 .nextBtn {
 float: right;
 }
+
+.donateBlurb {
+    text-align: center;
+    padding: 20px;
+}

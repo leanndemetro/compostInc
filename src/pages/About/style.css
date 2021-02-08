@@ -2,7 +2,12 @@
     font-size: 40px;
     width: 100%;
     padding: 20px;
-    text-align: left;
+}
+
+.aboutBlurb {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 20px;
 }
 .aboutBody {
     padding: 20px;

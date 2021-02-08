@@ -16,7 +16,7 @@ function Donate() {
             <MDBCardBody>
               <MDBRow>
                 <MDBCol>
-                  <h1>DONATE</h1>
+                  <h1 className="about">DONATE</h1>
                   <hr></hr>
                 </MDBCol>
               </MDBRow>
@@ -24,6 +24,13 @@ function Donate() {
                 <MDBCol className="donateText">
                 <p>Thank you for donating!</p>
                 </MDBCol>
+              </MDBRow>
+              <MDBRow>
+                <MDBCol size="2"></MDBCol>
+                <MDBCol className="donateBlurb" size="8">
+                <p>Your donation goes towards empowering youth with future job skills, and provides an oppourtunity to reconnect with nature.</p>
+                </MDBCol>
+                <MDBCol size="2"></MDBCol>
               </MDBRow>
               <MDBRow>
                 <MDBCol size="3"></MDBCol>
@@ -56,6 +63,11 @@ function Donate() {
                   </form>
                 </MDBCol>
                 <MDBCol size="3"></MDBCol>
+              </MDBRow>
+              <MDBRow>
+                <MDBCol>
+                <hr></hr>
+                </MDBCol>
               </MDBRow>
             </MDBCardBody>
           </MDBCard>

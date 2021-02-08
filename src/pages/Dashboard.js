@@ -50,7 +50,7 @@ function Dashboard() {
               <MDBRow>
                 <MDBCol>
                   <ul>
-                <a href="/Shop"><p className="howLinkLeft"><li>VISIT OUR SHOP</li></p></a>
+                <a href="/Shop"><p className="howLinkLeft"><li>INFORMATION ON PURCHASING</li></p></a>
                 </ul>
           </MDBCol>
               </MDBRow>
