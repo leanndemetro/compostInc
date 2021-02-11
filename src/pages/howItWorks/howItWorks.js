@@ -20,26 +20,25 @@ function HowItWorks ()  {
             <hr></hr>
             <br></br>
             <br></br>
-            <img className="howTextWrap" src="https://i.imgur.com/zbV4a7m.jpg"></img>
-            <ol>
-            <li><p className="howText">Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
+            <img className="howTextWrap" src="https://i.imgur.com/Athg0g9.jpg?1"></img>
+            <ul>
+            <li><p className="howText">Upon contact, we will schedule a date for a site visit. Our technicians will determine the best course of action to take in order to meet your particular installation needs.
             <br></br>
             <br></br>
-            Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish.</p>
+           Dates for installation and training will be decided at the conclusion of this site visit. </p>
             </li>
-            <img className="howTextWrapLeft" src="https://i.imgur.com/tEHnkcJ.jpg"></img>
             <br></br>
-            <li><p className="howText"> Water spinach arugula pea tatsoi bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
+            <li><p className="howText"> Our team will install your anerobic digestor, train your staff, students, or volunteers, take care of ALL maintenence, and waste removal - completely free of charge! 
+           </p>
+           <br></br>
+           <li><p className="howText"> Using our web application, monitoring your machinery is simple and worry-free! Simply dispose of all food or animal wastes within the digestor and let your power bill and the environment reap the benefits</p></li>
             <br></br>
             <br></br>
-            Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard</p>
             </li>
-            <li><p className="howText"> Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane.
-            <br></br>
-            <br></br>
-            Celery Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard</p>
-            </li>
-            </ol>
+            </ul>
+            <p className="howTextBtm">
+           To begin your journey into economical and environmentally-friendly waste management with us here at Compost Incorporated, please <a href="/Contact">contact us.</a></p>
+            
             </MDBContainer>
               </MDBCard>
               </MDBCol>

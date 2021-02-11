@@ -1,34 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,200&display=swap');
 
 div.dash {
-    color: black;
-    font-size: 60px;
-    text-align: center;
+    color: white;
+    font-size: 4rem;
+    text-align: left;
     font-family: 'Nunito Sans', sans-serif;
     text-transform: uppercase;
+    width: 100%;
+    margin-top: -20px;
 }
 
 
 
 .dashText {
-    color: black;
+    color: white;
     font-size: 18px;
-    padding: 30px;
+    
 
 }
 
 .textWrap {
     float: right;
     margin: 10px;
-    width: 30%;
+    max-width: 250px;
     border-radius: 50%;
 }
 
 .dashCard {
+    margin-top: 60px;
     width: 100%;
     padding: 20px;
-    margin-bottom: -20px;
-    background-color: white;
 
 }
 
@@ -39,8 +40,9 @@ div.dash {
 
 
 .howBtn {
-    text-align: center;
+    text-align: left;
     color: white;
+    font-size: 25px;
 }
 
 .compost {

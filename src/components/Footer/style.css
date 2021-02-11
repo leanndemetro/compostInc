@@ -5,9 +5,10 @@
 
 footer.pagefooter {
     position: absolute;
-    bottom: 0;
-    margin-bottom: 5px;
+    margin-bottom: 0;
     font-family: 'Questrial', sans-serif;
+    padding-bottom: 1rem;
+    padding-top: 1reml
     
 }
 

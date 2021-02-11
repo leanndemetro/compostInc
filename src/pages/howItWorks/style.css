@@ -5,23 +5,21 @@
 }
 
 .howText {
-  font-size: 13px;
+  font-size: 18px;
 }
 
 
 
 .howTextWrap {
     float: right;
-    margin: 10px;
+    margin: 20px;
     width: 40%;
-    margin-top: -30px;
     border-radius: 50%;
 }
 
-.howTextWrapLeft {
-    clear: right;
-    float: left;
-    max-width: 50%;
-    border-radius: 50%;
-    margin: 20px;
+.howTextBtm {
+    font-size: 40px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: -25px;
 }
