@@ -7,9 +7,10 @@
 }
 
 .aboutBlurb {
-    font-size: 20px;
-    padding: 30px;
+    font-size: 35px;
+    padding: 40px;
     color: white;
+    text-align: center;
 }
 .aboutBody {
     padding: 20px;
@@ -33,9 +34,6 @@
     margin: 20px;
 }
 .stuartImg {
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
     border-radius: 50%;
     width: 30%;
     float: left;

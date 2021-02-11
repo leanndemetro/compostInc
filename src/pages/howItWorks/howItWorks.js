@@ -29,7 +29,7 @@ function HowItWorks ()  {
             <p className="howWorks">HOW DOES IT WORK?</p>
             <br></br>
             <br></br>
-            <img className="howTextWrapLeft" src="https://i.imgur.com/IsETBEg.jpg?1"></img>
+            <img className="howTextWrapLeft" src="https://i.imgur.com/VO42P76.jpg?1"></img>
             <ul>
             <li><p className="howText">Upon contact, we will schedule a date for a site visit. Our technicians will determine the best course of action to take in order to meet your particular installation needs.
             <br></br>
@@ -46,6 +46,7 @@ function HowItWorks ()  {
             </li>
             </ul>
             <p className="howTextBtm">
+              <br></br>
            To begin your journey into economical and environmentally-friendly waste management with us here at Compost Incorporated, please <a href="/Contact">contact us.</a></p>
             
             </MDBContainer>

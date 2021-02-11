@@ -16,11 +16,9 @@ function About ()  {
       <p className="about">OUR TEAM</p>
       <div className="aboutBody">
         <MDBRow>
-          <MDBCol size="1"></MDBCol>
           <MDBCol>
-            <p className="aboutBlurb">"Text blurb(s) here that gives a history and background/ mission statement. "Why the world needs changing and why we're gonna be the ones to use it a history and background/ mission statement. Why the world needs changing and why we're gonna be the ones to use it"</p>
+            <p className="aboutBlurb">"Our mission is to create mindfulness around food waste and the recycling process via composting and soil education."</p>
           </MDBCol>
-          <MDBCol size="1"></MDBCol>
         </MDBRow>
         <MDBRow>
             <MDBCol>
@@ -35,15 +33,7 @@ function About ()  {
                 Owner
               </h6>
               <p className="blurb">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur.
-                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic tenetur.
+              Frank M Bailey, Jr is the Executive Director and founder of Grow Orlando, Inc., an organization dedicated to teaching life, work, and financial literacy skills through plant cultivation. An Orlando-native, Frank grew up in Holden Heights and Metro West for the first half of his life, with the second half of his life residing in places like Gotha, Winter Park, and Winter Garden. Living and understanding the lives that live on ‘both sides of the tracks’, Frank has dedicated his life to using his ideas as a visionary to develop education and empowerment, creating activities and programs that fill the gap of opportunity and experience in places that need it.  He is also currently sitting as the Chairman of the Advisory Board for the Winter Garden Community Garden, is currently a CRAVE leader, and speaks at seminars, churches, conferences, support groups, clubs, and one on one with You!
               </p>
               <a href="#!" className="p-2 fa-lg fb-ic">
                 <MDBIcon fab icon="facebook-f" />
@@ -75,13 +65,7 @@ function About ()  {
                 Mad Scientist
               </h6>
               <p className="blurb">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                eos id officiis hic.
+              Stuart grew up mucking around the mountains of the northeast, got a BA at Oberlin College, and then moved to Paraguay for a stint as a Peace Corps volunteer. He got turned on to moss biodiversity working at the New York State Museum with the late Norton Miller. Subsequently he went to Duke University for a PhD with Jon Shaw, followed by a NIH-NRSA postdoc fellowship at Washington University in St. Louis with Ralph Quatrano. In the fall of 2009 he joined the UF faculty in the Department of Biology.
               </p>
               <a href="#!" className="p-2 fa-lg fb-ic">
                 <MDBIcon fab icon="facebook-f" />

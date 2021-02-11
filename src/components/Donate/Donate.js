@@ -56,11 +56,6 @@ function Donate() {
                 </MDBCol>
                 <MDBCol size="2"></MDBCol>
               </MDBRow>
-              <MDBRow>
-                <MDBCol>
-                <hr></hr>
-                </MDBCol>
-              </MDBRow>
         </MDBCol>
       </MDBRow>
     </MDBContainer>
