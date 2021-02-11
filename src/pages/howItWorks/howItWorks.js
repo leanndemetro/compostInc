@@ -18,7 +18,7 @@ function HowItWorks ()  {
             <p className="howWorks">WHAT IS ANEROBIC DISGESTION?</p>
             <br></br>
             <br></br>
-            <img className="howTextWrap" src="https://i.imgur.com/pJ18ue8.jpg"></img>
+            <img className="howTextWrap" src="https://i.imgur.com/RSEJOnz.jpg?1"></img>
             <p className="howTextTop">Anaerobic digestion is a sequence of processes by which microorganisms break down biodegradable material in the absence of oxygen. The process is used for industrial or domestic purposes to manage waste or to produce fuels. 
             <br></br>
             <br></br>
@@ -27,6 +27,7 @@ function HowItWorks ()  {
             <br></br>
             <br></br>
             <p className="howWorks">HOW DOES IT WORK?</p>
+            <br></br>
             <br></br>
             <img className="howTextWrapLeft" src="https://i.imgur.com/IsETBEg.jpg?1"></img>
             <ul>
