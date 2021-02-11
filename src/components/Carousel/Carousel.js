@@ -21,7 +21,7 @@ class Carousel extends Component {
             <MDBView>
               <img
                 className="d-block w-100"
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(45).jpg"
+                src="https://i.imgur.com/0aEUTdF.jpg"
                 alt="First slide"
               />
             </MDBView>
@@ -30,7 +30,7 @@ class Carousel extends Component {
             <MDBView>
               <img
                 className="d-block w-100"
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(46).jpg"
+                src="https://i.imgur.com/zzjyKfm.jpg"
                 alt="Second slide"
               />
             </MDBView>
@@ -39,7 +39,7 @@ class Carousel extends Component {
             <MDBView>
               <img
                 className="d-block w-100"
-                src="https://mdbootstrap.com/img/Photos/Slides/img%20(47).jpg"
+                src="https://i.imgur.com/0RRyPaL.jpg"
                 alt="Third slide"
               />
             </MDBView>

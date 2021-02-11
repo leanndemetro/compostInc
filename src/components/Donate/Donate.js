@@ -33,8 +33,8 @@ function Donate() {
                 <MDBCol size="2"></MDBCol>
               </MDBRow>
               <MDBRow>
-                <MDBCol size="3"></MDBCol>
-                <MDBCol size="6"className="cardBody">
+                <MDBCol size="2"></MDBCol>
+                <MDBCol size="8"className="cardBody">
                   <form method="POST" action="">
                     <div className="input">
                       <label className="label" for="name">Name: </label>
@@ -62,7 +62,7 @@ function Donate() {
                     </div>
                   </form>
                 </MDBCol>
-                <MDBCol size="3"></MDBCol>
+                <MDBCol size="2"></MDBCol>
               </MDBRow>
               <MDBRow>
                 <MDBCol>
