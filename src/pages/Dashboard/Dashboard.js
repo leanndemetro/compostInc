@@ -13,7 +13,7 @@ function Dashboard() {
       <MDBRow>
         <MDBCol>
       <div className="dash">
-      <p>Here at Compost Inc.</p>
+      <p>Here at <span className="compost">Compost</span> Inc.</p>
       </div>
       </MDBCol>
       </MDBRow>
@@ -21,16 +21,21 @@ function Dashboard() {
         <MDBCol>
           <img className="textWrap" src="https://i.imgur.com/2cznLux.jpg?1"></img>
           <br></br>
-          <p className="dashText">Our mission is to reduce food waste within our community using Eco-friendly methods and composting. This along with our passion for youth outreach and how we can help change lives is what shapes our team here at Compost Inc.
-          </p>
+          <p className="dashText">Our mission is to reduce food waste within our community using Eco-friendly methods and composting. This along with our passion for youth outreach and finding creative ways to change lives is what shapes our team here at Compost Inc.
           <br></br>
-          <MDBBtn color="elegant"><a  href="/HowItWorks">
-                  <span className="dashHow"> HOW IT WORKS</span>
-                   </a>
-                  </MDBBtn>
+          <br></br>
+          Upon purchasing one of our aneroboic digestors for your business or school you will recieve free installation, training, support, and complimentary waste removal. 
+          </p>
+          </MDBCol>
+        </MDBRow>
+        <MDBRow>
+          <MDBCol className="howBtn">
+          <MDBBtn color="elegant">
+                    HOW IT WORKS</MDBBtn>
           </MDBCol>
         </MDBRow>
             </MDBContainer>
+          
                   
                 
 

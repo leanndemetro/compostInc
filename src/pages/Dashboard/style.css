@@ -1,12 +1,14 @@
 div.dash {
     color: black;
-    font-size: 70px;
-    text-align: left;
+    font-size: 80px;
+    text-align: center;
 }
+
+
 
 .dashText {
     color: black;
-    font-size: 20px;
+    font-size: 18px;
 
 }
 
@@ -18,13 +20,19 @@ div.dash {
 }
 
 .dashCard {
-    background-color: white;
     width: 100%;
     padding: 30px;
     margin-top: 30px;
+    background-color: white;
 
 }
 
 .dashHow {
-    color: white;
+    color: black;
+    
+}
+
+
+.howBtn {
+    text-align: center;
 }
