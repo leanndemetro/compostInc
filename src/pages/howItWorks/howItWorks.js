@@ -17,6 +17,7 @@ function HowItWorks ()  {
               <MDBContainer>
             <p className="howWorks">WHAT IS ANEROBIC DISGESTION?</p>
             <br></br>
+            <br></br>
             <img className="howTextWrap" src="https://i.imgur.com/pJ18ue8.jpg"></img>
             <p className="howTextTop">Anaerobic digestion is a sequence of processes by which microorganisms break down biodegradable material in the absence of oxygen. The process is used for industrial or domestic purposes to manage waste or to produce fuels. 
             <br></br>
@@ -35,10 +36,10 @@ function HowItWorks ()  {
            Dates for installation and training will be decided at the conclusion of this site visit. </p>
             </li>
             <br></br>
-            <li><p className="howText"> Our team will install your anerobic digestor, train your staff, students, or volunteers, take care of ALL maintenence, and waste removal - completely free of charge! 
+            <li><p className="howText"> Our team will install your anerobic digester, train your staff, students, or volunteers, take care of ALL maintenence, and waste removal - completely free of charge! 
            </p>
            <br></br>
-           <li><p className="howText"> Using our web application, monitoring your machinery is simple and worry-free! Simply dispose of all food or animal wastes within the digestor and let your power bill and the environment reap the benefits</p></li>
+           <li><p className="howText"> Using our web application, monitoring your machinery is simple and worry-free! Simply dispose of all food or animal wastes within the digester and let your power bill and the environment reap the benefits</p></li>
             <br></br>
             <br></br>
             </li>

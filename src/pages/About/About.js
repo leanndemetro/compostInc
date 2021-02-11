@@ -15,8 +15,7 @@ function About ()  {
           <MDBCol>
             <MDBCard>
       <MDBCardBody>
-      <p className="about">ABOUT OUR TEAM</p>
-      <hr></hr>
+      <p className="about">OUR TEAM</p>
       <div className="aboutBody">
         <MDBRow>
           <MDBCol size="1"></MDBCol>
@@ -24,11 +23,6 @@ function About ()  {
             <p className="aboutBlurb">"Text blurb(s) here that gives a history and background/ mission statement. "Why the world needs changing and why we're gonna be the ones to use it a history and background/ mission statement. Why the world needs changing and why we're gonna be the ones to use it"</p>
           </MDBCol>
           <MDBCol size="1"></MDBCol>
-        </MDBRow>
-        <MDBRow>
-          <MDBCol>
-          <hr></hr>
-          </MDBCol>
         </MDBRow>
         <MDBRow>
             <MDBCol>

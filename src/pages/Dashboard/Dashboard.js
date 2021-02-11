@@ -25,7 +25,7 @@ function Dashboard() {
           <p className="dashText">Our mission is to reduce food waste within our community using Eco-friendly methods and composting. This along with our passion for youth outreach and finding creative ways to change lives is what shapes our team here at Compost Inc.
           <br></br>
           <br></br>
-          Upon purchasing one of our aneroboic digestors for your business or school you will recieve free installation, training, support, and complimentary waste removal. 
+          Upon purchasing one of our aneroboic digesters for your business or school you will recieve free installation, training, support, and complimentary waste removal. 
           </p>
           <br></br>
           <a className="howBtn" href="/howItWorks">
