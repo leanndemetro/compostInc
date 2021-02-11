@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
 
 img.growImg {
     width: 40%;
@@ -46,7 +46,7 @@ MDBContainer.links {
 
   
 div.container {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     padding: 30px;
     }
 
@@ -125,4 +125,5 @@ border-radius: 50%;
 
 body {
     background-color: #092f33;
+    background-image: url("https://www.transparenttextures.com/patterns/classy-fabric.png");
 }

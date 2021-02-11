@@ -9,11 +9,12 @@ import "./style.css"
 
 function Dashboard() {
   return (
-    <MDBContainer className="dashCard">
+    <MDBContainer>
+      <div className="dashCard">
       <MDBRow>
         <MDBCol>
       <div className="dash">
-      <p>Here at <span className="compost">Compost</span> Inc.</p>
+      <p>Here at <span className="compost">Compost Inc.</span></p>
       </div>
       </MDBCol>
       </MDBRow>
@@ -30,16 +31,13 @@ function Dashboard() {
         </MDBRow>
         <MDBRow>
           <MDBCol className="howBtn">
-          <MDBBtn color="elegant">
-                    HOW IT WORKS</MDBBtn>
+          <MDBBtn color="elegant"><a className="howBtn" href="/howItWorks">
+            HOW IT WORKS</a></MDBBtn>
           </MDBCol>
         </MDBRow>
+        </div>
             </MDBContainer>
-          
-                  
-                
-
-
+  
 
   );
 }
