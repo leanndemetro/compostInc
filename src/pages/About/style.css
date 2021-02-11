@@ -3,28 +3,30 @@
     width: 100%;
     padding: 20px;
     text-align: center;
+    color: white;
 }
 
 .aboutBlurb {
     font-size: 20px;
     padding: 30px;
+    color: white;
 }
 .aboutBody {
     padding: 20px;
+    color: white;
 }
 .blurb {
     font-size: 18px;
+    color: white;
 }
 
 .stuart, .frank {
     font-size: 24px;
     margin-top: 40px;
+    color: white;
 }
 
 .frankImg {
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
     border-radius: 50%;
     width: 30%;
     float: right;

@@ -42,11 +42,9 @@ function Contact() {
 
   return (
     <MDBContainer>
-      <MDBCard>
         <div className="contactForm">
           <MDBRow>
-          <MDBCol><p className="about">CONTACT US</p>
-                <hr></hr>
+          <MDBCol><p className="contactHead">CONTACT US</p>
                 <br></br>
                 <br></br>
                 </MDBCol>
@@ -85,7 +83,6 @@ function Contact() {
             <MDBCol size="2"></MDBCol>
           </MDBRow>
         </div>
-      </MDBCard>
     </MDBContainer>
 
   );

@@ -12,14 +12,6 @@ function Donate() {
     <MDBContainer>
       <MDBRow>
         <MDBCol>
-          <MDBCard>
-            <MDBCardBody>
-              <MDBRow>
-                <MDBCol>
-                  <h1 className="about">DONATE</h1>
-                  <hr></hr>
-                </MDBCol>
-              </MDBRow>
               <MDBRow>
                 <MDBCol className="donateText">
                 <p>Thank you for donating!</p>
@@ -69,8 +61,6 @@ function Donate() {
                 <hr></hr>
                 </MDBCol>
               </MDBRow>
-            </MDBCardBody>
-          </MDBCard>
         </MDBCol>
       </MDBRow>
     </MDBContainer>

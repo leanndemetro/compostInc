@@ -13,8 +13,6 @@ function About ()  {
         <MDBContainer>
         <MDBRow>
           <MDBCol>
-            <MDBCard>
-      <MDBCardBody>
       <p className="about">OUR TEAM</p>
       <div className="aboutBody">
         <MDBRow>
@@ -100,8 +98,6 @@ function About ()  {
             </MDBCol>
             </MDBRow> 
             </div>
-      </MDBCardBody>
-              </MDBCard>
               </MDBCol>
               </MDBRow>
               </MDBContainer>
