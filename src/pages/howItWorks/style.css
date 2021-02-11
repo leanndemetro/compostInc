@@ -1,25 +1,42 @@
 .howWorks {
-    font-size: 40px;
+    font-size: 3rem;
     width: 100%;
-    padding: 20px;
+    color: white;
+    text-align: center;
 }
 
 .howText {
   font-size: 18px;
+  color: white;
+  text-align: left;
+}
+.howTextTop {
+  font-size: 18px;
+  color: white;
+  text-align: left;
 }
 
 
 
 .howTextWrap {
     float: right;
-    margin: 20px;
-    width: 40%;
+    margin: 10px;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.howTextWrapLeft {
+    float: left;
+    margin: 30px;
+    width: 30%;
     border-radius: 50%;
 }
 
 .howTextBtm {
-    font-size: 40px;
+    font-size: 2rem;
     margin-right: 50px;
     margin-left: 50px;
     margin-top: -25px;
+    color: white;
+    text-align: center;
 }

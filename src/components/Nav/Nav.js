@@ -18,7 +18,7 @@ class NavbarPage extends Component {
             <MDBCol></MDBCol>
             <div className="links"><MDBNav className="font-weight-bold">
               <MDBNavItem>
-                <MDBNavLink className="black-text how" active to="/HowItWorks">HOW IT WORKS</MDBNavLink>
+                <MDBNavLink className="black-text how" active to="/HowItWorks">WHAT WE DO</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
               <MDBNavLink className="black-text aboutUs" to="/About">ABOUT US</MDBNavLink>

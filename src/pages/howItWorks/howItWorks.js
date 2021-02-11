@@ -14,13 +14,20 @@ function HowItWorks ()  {
         <MDBContainer>
         <MDBRow>
           <MDBCol>
-            <MDBCard>
               <MDBContainer>
-            <p className="howWorks">HOW IT WORKS</p>
-            <hr></hr>
+            <p className="howWorks">WHAT IS ANEROBIC DISGESTION?</p>
+            <br></br>
+            <img className="howTextWrap" src="https://i.imgur.com/pJ18ue8.jpg"></img>
+            <p className="howTextTop">Anaerobic digestion is a sequence of processes by which microorganisms break down biodegradable material in the absence of oxygen. The process is used for industrial or domestic purposes to manage waste or to produce fuels. 
             <br></br>
             <br></br>
-            <img className="howTextWrap" src="https://i.imgur.com/Athg0g9.jpg?1"></img>
+            We use this technology to decrease food and animal wastes within our community by converting them to compost to be used as fertilizer or fuel.</p>
+            <br></br>
+            <br></br>
+            <br></br>
+            <p className="howWorks">HOW DOES IT WORK?</p>
+            <br></br>
+            <img className="howTextWrapLeft" src="https://i.imgur.com/IsETBEg.jpg?1"></img>
             <ul>
             <li><p className="howText">Upon contact, we will schedule a date for a site visit. Our technicians will determine the best course of action to take in order to meet your particular installation needs.
             <br></br>
@@ -40,7 +47,7 @@ function HowItWorks ()  {
            To begin your journey into economical and environmentally-friendly waste management with us here at Compost Incorporated, please <a href="/Contact">contact us.</a></p>
             
             </MDBContainer>
-              </MDBCard>
+             
               </MDBCol>
               </MDBRow>
               </MDBContainer>
