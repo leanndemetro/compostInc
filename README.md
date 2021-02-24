@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<a href="https://compost-incorp.herokuapp.com/"><h1>View This App with Heroku</h1></a>
+<a href="https://compost-incorp.herokuapp.com/"><h1>View a deployed version on this app with Heroku</h1></a>
 <h2>Table of Contents:</h2>
     
 <ul>
