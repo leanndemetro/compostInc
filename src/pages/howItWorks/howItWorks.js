@@ -15,7 +15,7 @@ function HowItWorks ()  {
         <MDBRow>
           <MDBCol>
               <MDBContainer>
-            <p className="howWorks">WHAT IS ANEROBIC DISGESTION?</p>
+            <p className="howWorks">WHAT IS COMPOST?</p>
             <br></br>
             <br></br>
             <img className="howTextWrap" src="https://i.imgur.com/RSEJOnz.jpg?1"></img>
