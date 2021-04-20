@@ -10,7 +10,7 @@ class NavbarPage extends Component {
 
   render() {
     return (
-        <MDBNavbar color="white" dark expand="md">
+        <MDBNavbar dark expand="md">
           <MDBNavbarBrand>
             <a href="/"><img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img></a>
           </MDBNavbarBrand>

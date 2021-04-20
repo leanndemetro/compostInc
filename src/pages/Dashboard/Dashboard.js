@@ -9,14 +9,10 @@ import "./style.css"
 function Dashboard() {
   return (
     <MDBContainer>
-      <div className="dashCard">
         <MDBRow>
-          <MDBCol>
-          <a className="howBtn" href="/howItWorks">
-            WHAT WE DO <MDBIcon icon="arrow-right" /></a>
-          </MDBCol>
+          <MDBCol size="4"></MDBCol>
+          <MDBCol className="dashCard" size="8"></MDBCol>
         </MDBRow>
-        </div>
             </MDBContainer>
   
 
