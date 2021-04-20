@@ -12,7 +12,7 @@ class NavbarPage extends Component {
     return (
         <MDBNavbar color="white" dark expand="md">
           <MDBNavbarBrand>
-            <a href="/"><img className="growImg" src="https://i.imgur.com/nd70Zb3.jpg"></img></a>
+            <a href="/"><img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img></a>
           </MDBNavbarBrand>
           <MDBContainer>
             <MDBCol></MDBCol>
