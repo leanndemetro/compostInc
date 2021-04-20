@@ -13,7 +13,7 @@ class Carousel extends Component {
         length={3}
         showControls={true}
         showIndicators={false}
-        className="z-depth-1"
+        className="z-depth-2"
         slide
       >
         <MDBCarouselInner>

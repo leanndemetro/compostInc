@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
 
 img.growImg {
-    width: 80%;
+    width: 60%;
     
 }
 img.growImg:hover {
@@ -19,6 +19,7 @@ div.links {
     color: black;
     position: relative;
    display: inline-block;
+   font-weight: bold;
 }
 
 .how:hover{
@@ -125,6 +126,8 @@ border-radius: 50%;
 }
 
 body {
-    background-color: #092f33;
-    background-image: url("https://www.transparenttextures.com/patterns/classy-fabric.png");
+    background-image:url("https://i.imgur.com/qkmVLch.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
