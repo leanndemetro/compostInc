@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
 
 
 footer.pagefooter {
     position: absolute;
     margin-bottom: 0;
-    font-family: 'Questrial', sans-serif;
+    font-family: 'Orelega One', cursive;
     padding-bottom: 1rem;
     padding-top: 1rem;
     
@@ -19,6 +17,6 @@ footer.pagefooter {
 
 .adLogo {
     color: white;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Orelega One', cursive;
     font-size: 10px;
 }

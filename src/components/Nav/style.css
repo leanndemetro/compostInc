@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
 
 img.growImg {
     width: 60%;
@@ -12,14 +12,6 @@ img.growImg:hover {
 .navbar {
     margin-top: 10px;
     height: 30%;
-}
-
-
-div.links {
-    color: black;
-    position: relative;
-   display: inline-block;
-   font-weight: bold;
 }
 
 .how:hover{
@@ -48,7 +40,7 @@ MDBContainer.links {
 
   
 div.container {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Orelega One', cursive;
     padding: 30px;
     }
 
@@ -130,4 +122,5 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Orelega One', cursive;
 }
