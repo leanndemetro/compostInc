@@ -5,7 +5,7 @@ import Contact from "./pages/Contact/Contact";
 import Shop from "./pages/Shop"
 import WhatWeDo from "./pages/WhatWeDo/WhatWeDo";
 import Donate from "./components/Donate/Donate"
-import About from "./pages/About/About"
+import About from "./pages/OurTeam/OurTeam"
 import NavbarPage from "./components/Nav/Nav"
 import Footer from "./components/Footer/Footer"
 
@@ -34,7 +34,7 @@ function App() {
           <Route exact path="/WhatWeDo">
             <WhatWeDo />
           </Route>
-          <Route exact path="/About">
+          <Route exact path="/OurTeam">
             <About />
           </Route>
           </Switch>

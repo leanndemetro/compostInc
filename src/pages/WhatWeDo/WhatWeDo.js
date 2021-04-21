@@ -37,9 +37,10 @@ function WhatWeDo ()  {
             <p className="aboutText"> When I saw the demand for local produce and the environmental footprint urban farms develop, I found an arena that I could work with. I thought, ‘’ Besides, that’s what I did. As a matter of fact, almost every successful person I talked with started their careers mowing lawns, shoveling snow, picking crops, etc. The use of urban farming as an means for the development of a healthy and wealthy mindset in the community reaches far more solutions within that community than farming solely for the purpose of generating local produce and teaching health.</p>
             <MDBRow>
               <MDBCol size="5"></MDBCol>
-              <MDBCol size="2"><MDBBtn className="learnMore" color="none"><a href="/About">our team <MDBIcon icon="angle-double-right" /></a></MDBBtn></MDBCol>
-              <MDBCol size="5"></MDBCol>
+              <MDBCol size="7"> <MDBBtn color="none"><a href="/OurTeam">our team <MDBIcon icon="angle-double-right" /></a></MDBBtn></MDBCol>
             </MDBRow>
+           
+              
         
         </MDBContainer>
                     
