@@ -8,7 +8,7 @@ import "./style.css"
 
 
 
-function HowItWorks ()  {
+function WhatWeDo ()  {
     return (
         <MDBContainer className="aboutDiv">
             
@@ -51,4 +51,4 @@ function HowItWorks ()  {
     );
 }
 
-export default HowItWorks;
+export default WhatWeDo;
