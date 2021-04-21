@@ -11,7 +11,7 @@ function HowItWorks ()  {
     return (
         <MDBContainer className="aboutDiv">
             
-           <img className="aboutImgOne" src="https://i.imgur.com/EqKq6Ko.jpg"></img>
+           <img className="aboutImgTop" src="https://i.imgur.com/EqKq6Ko.jpg"></img>
            <h1 className="aboutText">Helping bring equity to all!</h1>
               <p className="aboutText">Urban farming and local produce are high in demand for their environmental footprint, freshness of produce, and disseminating of food deserts. Because of this, several organizations around Central Florida approach urban farming as a means of sustainability. Some farms are even used as a platform for health education and healthy food production in the process. At Grow Orlando, we’ve decided to use urban farming to harvest healthy and wealthy people.</p>
         
