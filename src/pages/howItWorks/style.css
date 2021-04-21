@@ -1,42 +1,30 @@
-.howWorks {
-    font-size: 3rem;
-    width: 100%;
-    color: white;
-    text-align: center;
+.aboutImgs {
+  width: 30%;
+  border-radius: 5px;
+  float: left;
+  margin: 20px;
 }
 
-.howText {
-  font-size: 18px;
+.aboutImgOne {
+  float: right;
+  margin: 20px;
+  width: 25%;
+  border-radius: 5px;
+}
+
+.aboutDiv {
+  padding: 30px;
+  background-color: black;
+  margin-top: 30px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
+}
+
+.aboutText {
+  text-shadow: 2px 2px 5px black;
   color: white;
-  text-align: left;
-}
-.howTextTop {
-  font-size: 18px;
-  color: white;
-  text-align: left;
+  float: center;
+  padding: 15px;
+  width: 100%;
 }
 
-
-
-.howTextWrap {
-    float: right;
-    margin: 10px;
-    width: 30%;
-    border-radius: 50%;
-}
-
-.howTextWrapLeft {
-    float: left;
-    margin: 30px;
-    width: 30%;
-    border-radius: 50%;
-}
-
-.howTextBtm {
-    font-size: 25px;
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-top: -25px;
-    color: white;
-    text-align: center;
-}
