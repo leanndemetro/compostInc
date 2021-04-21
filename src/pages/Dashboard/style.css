@@ -16,7 +16,7 @@ div.dash {
     width: 100%;
     padding: 20px;
     background-color: black;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.6);
     border-radius: 5px;
     position: relative;
     color: white;
@@ -24,15 +24,15 @@ div.dash {
 
 }
 .dashText {
-      font-size: 45px;
       padding: 10px;
       float: left;
       opacity: 1;
       text-shadow: 2px 2px 5px black;
+      font-weight: bold;
   }
 
   .dashTextTwo {
-    font-size: 15px;
+    font-size: 100%;
     padding: 10px;
     float: left;
     text-shadow: 2px 2px 5px black;
@@ -43,6 +43,15 @@ div.dash {
     text-align: left;
     color: black;
     font-size: 25px;
+}
+
+.learnMore {
+    font-weight: bold;
+    padding: 15px;
+}
+
+.learnMore:hover {
+opacity: 0.5;
 }
 
 

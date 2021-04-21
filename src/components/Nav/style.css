@@ -38,10 +38,12 @@ MDBContainer.links {
     float: right;
 }
 
+
   
 div.container {
     font-family: 'Nunito', sans-serif;
     padding: 30px;
+    font-weight: bold;
     }
 
 
@@ -118,7 +120,7 @@ border-radius: 50%;
 }
 
 body {
-    background-image:url("https://i.imgur.com/qkmVLch.jpg");
+    background-image:url("https://www.groworlando.org/wp-content/uploads/2018/11/agriculture-backyard-blur-296230-e1543305529365.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

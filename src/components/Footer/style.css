@@ -15,8 +15,16 @@ footer.pagefooter {
     color: white;
 }
 
+.icons:hover {
+    color: black;
+}
+
 .adLogo {
     color: white;
     font-family: 'Nunito', sans-serif;
     font-size: 10px;
+}
+
+.adLogo:hover {
+    color:black;
 }
