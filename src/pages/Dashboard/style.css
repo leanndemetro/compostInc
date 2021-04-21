@@ -23,20 +23,19 @@ div.dash {
 
 
 }
-
-
-
-  .dashText {
+.dashText {
       font-size: 45px;
       padding: 10px;
       float: left;
       opacity: 1;
+      text-shadow: 2px 2px 5px black;
   }
 
   .dashTextTwo {
     font-size: 15px;
     padding: 10px;
     float: left;
+    text-shadow: 2px 2px 5px black;
   }
 
 

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 img.growImg {
     width: 60%;
@@ -40,7 +40,7 @@ MDBContainer.links {
 
   
 div.container {
-    font-family: 'Orelega One', cursive;
+    font-family: 'Nunito', sans-serif;
     padding: 30px;
     }
 
@@ -122,5 +122,5 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Orelega One', cursive;
+    font-family: 'Nunito', sans-serif;
 }
