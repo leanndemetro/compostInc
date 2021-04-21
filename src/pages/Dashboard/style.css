@@ -48,10 +48,14 @@ div.dash {
 .learnMore {
     font-weight: bold;
     padding: 15px;
+    background: black(0, 0, 0, 0.6);
 }
 
 .learnMore:hover {
 opacity: 0.5;
 }
 
+.arrowRight {
+    margin: 5px;
+}
 
