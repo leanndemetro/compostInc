@@ -8,6 +8,7 @@ div.dash {
     width: 100%;
     margin-top: -20px;
     float: left;
+    text-shadow: 2px 2px 5px black;
 }
 
 
@@ -48,6 +49,7 @@ div.dash {
 .learnMore {
     font-weight: bold;
     background: black(0, 0, 0, 0.6);
+    text-shadow: 2px 2px 5px black;
 }
 
 .learnMore:hover {

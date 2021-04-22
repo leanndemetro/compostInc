@@ -39,6 +39,7 @@ div.container {
     font-family: 'Nunito', sans-serif;
     padding: 30px;
     font-weight: bold;
+    text-shadow: 2px 2px 5px black;
     }
 
 body {
@@ -47,6 +48,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Nunito', sans-serif;
+    text-shadow: 2px 2px 5px black;
 }
 
 .donateBounce {

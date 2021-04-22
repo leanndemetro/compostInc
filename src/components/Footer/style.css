@@ -7,6 +7,7 @@ footer.pagefooter {
     font-family: 'Nunito', sans-serif;
     padding-bottom: 1rem;
     padding-top: 1rem;
+    text-shadow: 2px 2px 5px black;
     
     
 }
@@ -14,6 +15,7 @@ footer.pagefooter {
 .icons {
     font-size: 25px;
     color: white;
+    text-shadow: 2px 2px 5px black;
 }
 
 .icons:hover {
@@ -24,6 +26,7 @@ footer.pagefooter {
     color: white;
     font-family: 'Nunito', sans-serif;
     font-size: 10px;
+    text-shadow: 2px 2px 5px black;
 }
 
 .adLogo:hover {
