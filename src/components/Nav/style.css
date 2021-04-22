@@ -9,11 +9,6 @@ img.growImg:hover {
     
 }
 
-.navbar {
-    margin-top: 10px;
-    height: 30%;
-}
-
 .how:hover{
     opacity: 0.4;
 }
@@ -45,79 +40,6 @@ div.container {
     padding: 30px;
     font-weight: bold;
     }
-
-
-
-
-.img__wrap {
-    position: relative;
-    height: 100%;
-    width: 100%;
-  }
-
-  
-.mainTitle {
-    font-size: 60px;
-    text-transform: uppercase;
-    text-align: center;
-    color: black;
-}
-
-.TextWrap {
-float: right;
-margin: 20px;
-width: 40%;
-}
-
-.TextWrapLeft {
-float: left;
-margin: 20px;
-width: 40%;
-border-radius: 50%;
-}
-
-
-.howLink {
-    color: black;
-    
-}
-
-
-
-.howLink:hover {
-    font-style: italic;
-   
-}
-.howLinkLeft:hover {
-    font-style: italic;
-   
-}
-
-.mainText {
-    font-size: 110%;
-    text-align: center;
-    padding: 30px;
-    
-
-}
-
-.linkImg {
-    padding: 10px;
-}
-
-.linkImgTwo {
-    margin-top: -65px;
-}
-
-.linkImgThree {
-    margin-top: -65px;
-}
-
-
-
-.incLogo {
-    width: 10%;
-}
 
 body {
     background-image:url("https://www.groworlando.org/wp-content/uploads/2018/11/agriculture-backyard-blur-296230-e1543305529365.jpg");
