@@ -1,0 +1,11 @@
+.teamCard {
+    width: 100%;
+    padding: 40px;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    position: relative;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
