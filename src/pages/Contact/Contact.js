@@ -16,7 +16,6 @@ function Contact() {
           <MDBCol><img className="contactImg" src="https://i.imgur.com/dPRr5go.jpg"></img>
           </MDBCol>
           <MDBCol className="centerCol">
-            <br></br>
             <h1 className="contactHeader">Contact Us</h1>
             <br></br>
             <p className="contactHeader">groworlando@gmail.com</p>
