@@ -9,56 +9,7 @@ import "./style.css"
 
 function Donate() {
   return (
-    <MDBContainer>
-      <MDBRow>
-        <MDBCol>
-              <MDBRow>
-                <MDBCol className="donateText">
-                <p>Thank you for donating!</p>
-                </MDBCol>
-              </MDBRow>
-              <MDBRow>
-                <MDBCol size="2"></MDBCol>
-                <MDBCol className="donateBlurb" size="8">
-                <p>Your donation goes towards empowering youth with future job skills, and provides an oppourtunity to reconnect with nature.</p>
-                </MDBCol>
-                <MDBCol size="2"></MDBCol>
-              </MDBRow>
-              <MDBRow>
-                <MDBCol size="2"></MDBCol>
-                <MDBCol size="8"className="cardBody">
-                  <form method="POST" action="">
-                    <div className="input">
-                      <label className="label" for="name">Name: </label>
-                      <br></br>
-                      <input className="donateInput" id="name" type="text" name="name"></input>
-                    </div>
-                    <div className="input">
-                      <br></br>
-                      <label className="label" for="email">Email address: </label>
-                      <br></br>
-                      <input className="donateInput" id="email" type="email" name="email"></input>
-                    </div>
-                    <div className="input">
-                      <br></br>
-                      <label className="label" for="amount">Amount: </label>
-                      <br></br>
-                      <input className="donateInput" id="amount" type="number" name="amount"></input>
-                    </div>
-                    <div>
-                      <br></br>
-                      <br></br>
-                      <MDBBtn className="nextBtn" type="submit" color="elegant">
-                    Next
-                  </MDBBtn>
-                    </div>
-                  </form>
-                </MDBCol>
-                <MDBCol size="2"></MDBCol>
-              </MDBRow>
-        </MDBCol>
-      </MDBRow>
-    </MDBContainer>
+    <div></div>
 
 
 

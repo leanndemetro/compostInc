@@ -40,3 +40,8 @@
     float: left;
     margin: 20px;
 }
+
+.teamDiv {
+    background-color: black;
+    background: black(0, 0, 0, 0.3);
+}
