@@ -7,7 +7,7 @@ import "./style.css";
 
 function Contact() {
   return (
-<div></div>
+<div><h1>under construction</h1></div>
 
   );
 }

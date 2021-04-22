@@ -10,7 +10,7 @@ import "./style.css";
 
 function About ()  {
     return (
-        <div></div>
+        <div><h1>under construction</h1></div>
 
       
 

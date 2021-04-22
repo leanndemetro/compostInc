@@ -9,7 +9,7 @@ import "./style.css"
 
 function Donate() {
   return (
-    <div></div>
+    <div><h1>under construction</h1></div>
 
 
 
