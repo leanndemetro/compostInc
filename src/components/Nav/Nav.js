@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {
   MDBNavbar, MDBNavbarBrand, MDBNav, MDBNavItem, MDBNavLink,
-  MDBIcon, MDBContainer, MDBCol
+  MDBIcon, MDBContainer, MDBCol, MDBAnimation
 } from "mdbreact";
 import "./style.css"
 
@@ -13,6 +13,9 @@ class NavbarPage extends Component {
         <MDBNavbar dark expand="sm">
           <MDBNavbarBrand>
             <a href="/"><img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img></a>
+            <a href="/Contact"><MDBAnimation className="donateBounce" type="bounce" infinite>
+            <p><MDBIcon icon="leaf" />  DONATE</p>
+        </MDBAnimation></a>
           </MDBNavbarBrand>
           <MDBContainer>
             <MDBCol></MDBCol>

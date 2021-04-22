@@ -48,3 +48,11 @@ body {
     background-size: cover;
     font-family: 'Nunito', sans-serif;
 }
+
+.donateBounce {
+    color: black;
+    text-shadow: 2px 2px 5px black;
+    font-size: 100%;
+    float: right;
+    margin-top: 35px;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  MDBContainer, MDBRow, MDBCol, MDBCard, MDBBtn, MDBIcon
+  MDBContainer, MDBRow, MDBCol, MDBCard, MDBBtn, MDBIcon, MDBAnimation
 } from "mdbreact";
 import "./style.css"
 
