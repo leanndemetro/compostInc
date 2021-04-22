@@ -25,8 +25,7 @@ function WhatWeDo ()  {
             <br></br>
             As a teacher, I found that my students were missing some of the core courses that the FCAT does not require for testing. Subjects like soft skills for interviewing, financial literacy, work maturity, and mindfulness were slipping through the cracks, and I could only do so much within my parameters as a teacher. So, with my visionary skills intact, I decided to create an organization that covers these lessons in a unique way. I knew that the more tangible the platform, the deeper the retention and value for most students so I looked for platforms that would provide all of these needs. Enter farming.</p>
             <img src="https://i.imgur.com/27hGiZC.png" className="aboutImgOne"></img>
-            <img src="https://i.imgur.com/DJAsoOl.png" className="aboutImgOne"></img>
-            <img src="https://i.imgur.com/UrGKsQJ.jpg" className="aboutImgs"></img>
+            <img src="https://i.imgur.com/UrGKsQJ.jpg" className="aboutImgOne"></img>
             <br></br>
             <br></br>
             <p className="aboutText"> They saw these newcomers as people who want free farm labor for the extraction of created product for the benefit of a cause that’s not their own. We asked our students several times if they wanted to join the urban farming practices of Growing Orlando, and they refused because they did not want to farm for someone else’s benefit for free.</p>
