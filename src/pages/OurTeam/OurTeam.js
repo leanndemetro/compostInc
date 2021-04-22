@@ -1,5 +1,5 @@
 import React from "react";
-import {  MDBRow, MDBCol, MDBCard, MDBCardBody, MDBIcon } from "mdbreact";
+import {  MDBRow, MDBCol, MDBCard, MDBCardBody, MDBIcon, MDBBtn } from "mdbreact";
 import "./style.css";
 
 
@@ -143,6 +143,7 @@ function About ()  {
             </MDBCol>
           </MDBCol>
         </MDBRow>
+        <MDBBtn className="learnMore" color="none"><a href="/Contact">contact us <MDBIcon className="arrowRight" icon="angle-double-right" /></a></MDBBtn>
         </div>
   );
 }
