@@ -18,8 +18,8 @@ function Contact() {
           <MDBCol className="centerCol">
             <h1 className="contactHeader">Contact Us</h1>
             <br></br>
-            <h3>groworlando@gmail.com</h3>
-            <h4>(407) 555-5765</h4>
+            <p className="contactHeader">groworlando@gmail.com</p>
+            <p className="contactHeader">(407) 555-5765</p>
             <br></br>
             <img className="contactImgCenter" src="https://i.imgur.com/DJAsoOl.png"></img></MDBCol>
           <MDBCol><img className="contactImgBtm" src="https://i.imgur.com/wJdgRuU.jpg"></img></MDBCol>
