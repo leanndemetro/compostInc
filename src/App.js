@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import Contact from "./pages/Contact/Contact";
-import Shop from "./pages/Shop"
 import WhatWeDo from "./pages/WhatWeDo/WhatWeDo";
 import Donate from "./components/Donate/Donate"
 import About from "./pages/OurTeam/OurTeam"
@@ -27,9 +26,6 @@ function App() {
           </Route>
           <Route exact path="/Donate">
             <Donate />
-          </Route>
-          <Route exact path="/Shop">
-            <Shop />
           </Route>
           <Route exact path="/WhatWeDo">
             <WhatWeDo />
