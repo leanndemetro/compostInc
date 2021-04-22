@@ -27,7 +27,7 @@
 
 <h3>Contact</h3>
      
-<a href="https://github.com/leanndemetro/growOrlando"> Click here for my Github Repository </a>
+<a href="https://github.com/leanndemetro/compostInc"> Click here for my Github Repository </a>
 <br>
 <a href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/"> Click here for my LinkedIn profile </a>
 
