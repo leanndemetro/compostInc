@@ -1,14 +1,11 @@
 .contactDiv {
-    padding: 30px;
     background-color: black;
     background: rgba(0, 0, 0, 0.6);
     border-radius: 5px;
     position: relative;
     color: white;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 30px;
     text-shadow: 2px 2px 5px black;
+    width: 100%;
 }
 
 .contactImg {
