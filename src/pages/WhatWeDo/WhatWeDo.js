@@ -27,6 +27,8 @@ function WhatWeDo ()  {
             <img src="https://i.imgur.com/27hGiZC.png" className="aboutImgOne"></img>
             <img src="https://i.imgur.com/DJAsoOl.png" className="aboutImgOne"></img>
             <img src="https://i.imgur.com/UrGKsQJ.jpg" className="aboutImgs"></img>
+            <br></br>
+            <br></br>
             <p className="aboutText"> They saw these newcomers as people who want free farm labor for the extraction of created product for the benefit of a cause that’s not their own. We asked our students several times if they wanted to join the urban farming practices of Growing Orlando, and they refused because they did not want to farm for someone else’s benefit for free.</p>
             <p className="aboutText"> When I saw the demand for local produce and the environmental footprint urban farms develop, I found an arena that I could work with. I thought, ‘’ Besides, that’s what I did. As a matter of fact, almost every successful person I talked with started their careers mowing lawns, shoveling snow, picking crops, etc. The use of urban farming as an means for the development of a healthy and wealthy mindset in the community reaches far more solutions within that community than farming solely for the purpose of generating local produce and teaching health.</p>
             <MDBRow>
