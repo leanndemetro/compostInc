@@ -1,5 +1,5 @@
 .aboutImgs {
-  width: 30%;
+  width: 25%;
   border-radius: 5px;
   float: left;
   margin: 20px;
@@ -8,7 +8,7 @@
 .aboutImgOne {
   float: right;
   margin: 20px;
-  width: 35%;
+  width: 25%;
   border-radius: 5px;
 }
 
@@ -35,4 +35,7 @@
   padding: 15px;
   width: 100%;
 }
+
+
+
 
