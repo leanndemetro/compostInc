@@ -14,7 +14,7 @@ function Dashboard() {
       <MDBCol size="8" className="dashCard">
         <div className="centered">
               <h1 className="dashText">Help us use plants to grow the lives of local teens!</h1>
-              <p className="dashTextTwo">Here at Grow Orlando it is our mission to connect students with the world around them. Through access to our permaculture based local gardens, and training programs, we aim to educate students with lifelong gardening or even job skills.</p>
+              <p className="dashTextTwo">Grow Orlando’s mission is to elevate life skills development by providing opportunities in urban agriculture.</p>
               <br></br>
               <MDBBtn className="learnMore" color="none"><a href="/WhatWeDo">learn more <MDBIcon className="arrowRight" icon="angle-double-right" /></a></MDBBtn>
               </div>
