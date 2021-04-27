@@ -1,22 +1,5 @@
-.aboutImgs {
-  width: 25%;
-  border-radius: 5px;
-  float: left;
-  margin: 20px;
-}
-
-.aboutImgOne {
-  float: right;
-  margin: 20px;
-  width: 25%;
-  border-radius: 5px;
-}
-
 .aboutImgTop {
-  float: right;
-  clear: top;
-  margin: 20px;
-  width: 30%;
+  width: 100%;
   border-radius: 5px;
 }
 
@@ -26,16 +9,44 @@
   margin-top: 30px;
   background: rgba(0, 0, 0, 0.6);
   border-radius: 5px;
+  text-align: center;
+}
+
+
+.aboutTitle {
+  text-shadow: 2px 2px 5px black;
+  color: white;
+  margin: 20px;
+  margin-top: 2%;
+  padding: 20px;
 }
 
 .aboutText {
   text-shadow: 2px 2px 5px black;
   color: white;
-  float: center;
-  padding: 15px;
-  width: 100%;
+  margin: 2px;
+  margin-top: 5%;
+  text-align: left;
+}
+.aboutTextBottom {
+  text-shadow: 2px 2px 5px black;
+  color: white;
+  padding: 5px;
 }
 
+.tiledImgs {
+  width: 100%;
+  margin-top: 10%;
+  border-radius: 5px;
+}
 
+.growItForward {
+  width: 120%;
+}
 
-
+.textWrap {
+  float: left;
+margin: 30px;
+width: 28%;
+margin-top: 5%;
+}
