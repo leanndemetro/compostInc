@@ -20,10 +20,10 @@ function WhatWeDo() {
         </MDBCol>
       </MDBRow>
       <MDBRow>
-        <MDBCol size="3"><img className="tiledImgs" src="https://i.imgur.com/wJdgRuU.jpg"></img></MDBCol>
+      <MDBCol size="3"><img className="tiledImgs" src="https://i.imgur.com/7rhz005.jpg"></img></MDBCol>
         <MDBCol size="3"><img className="tiledImgs" src="https://i.imgur.com/wfZrLJ4.jpg"></img></MDBCol>
+        <MDBCol size="3"><img className="tiledImgs" src="https://i.imgur.com/wJdgRuU.jpg"></img></MDBCol>
         <MDBCol size="3"><img className="tiledImgs" src="https://i.imgur.com/8F5fpN0.jpg"></img></MDBCol>
-        <MDBCol size="3"><img className="tiledImgs" src="https://i.imgur.com/JEZKUzz.jpg"></img></MDBCol>
       </MDBRow>
       <MDBRow>
         <MDBCol size="10">
