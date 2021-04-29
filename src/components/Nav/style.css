@@ -39,11 +39,11 @@ div.container {
     font-family: 'Nunito', sans-serif;
     padding: 30px;
     font-weight: bold;
-    text-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px white;
     }
 
 body {
-    background-image:url("https://www.groworlando.org/wp-content/uploads/2018/11/agriculture-backyard-blur-296230-e1543305529365.jpg");
+    background-image:url("https://i.imgur.com/8F5fpN0.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -52,8 +52,8 @@ body {
 }
 
 .donateBounce {
-    color: white;
-    text-shadow: 2px 2px 5px black;
+    color: black;
+    text-shadow: 2px 2px 5px white;
     font-size: 100%;
     float: right;
     margin-top: 35px;
@@ -61,5 +61,10 @@ body {
 }
 
 .donateBounce:hover {
-    color: black;
+    color: green;
+}
+
+.navBar {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.8);
 }

@@ -10,7 +10,7 @@ class NavbarPage extends Component {
 
   render() {
     return (
-        <MDBNavbar dark expand="sm">
+        <MDBNavbar className="navBar" dark expand="sm">
           <MDBNavbarBrand>
             <a href="/"><img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img></a>
             <a href="/Contact"><MDBAnimation className="donateBounce" type="bounce" infinite>
@@ -21,7 +21,7 @@ class NavbarPage extends Component {
             <MDBCol></MDBCol>
             <div className="links"><MDBNav>
               <MDBNavItem>
-                <MDBNavLink className="black-text how" active to="/WhatWeDo">WHAT WE DO</MDBNavLink>
+                <MDBNavLink className="black-text how" active to="/WhatWeDo">ABOUT</MDBNavLink>
               </MDBNavItem>
               <MDBNavItem>
               <MDBNavLink className="black-text aboutUs" to="/OurTeam">OUR TEAM</MDBNavLink>
