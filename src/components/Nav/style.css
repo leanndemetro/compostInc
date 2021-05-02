@@ -2,6 +2,7 @@
 
 img.growImg {
     width: 60%;
+    margin-top: -10px;
     
 }
 img.growImg:hover {
@@ -29,15 +30,13 @@ img.growImg:hover {
 
 MDBContainer.links {
     text-align: right;
-    position: relative;
-    float: right;
+    width: 100%;
 }
 
 
   
 div.container {
     font-family: 'Nunito', sans-serif;
-    padding: 30px;
     font-weight: bold;
     text-shadow: 2px 2px 5px white;
     }
@@ -56,8 +55,9 @@ body {
     text-shadow: 2px 2px 5px white;
     font-size: 100%;
     float: right;
-    margin-top: 35px;
+    margin-top: 30px;
     font-weight: bold;
+    text-align: left;
 }
 
 .donateBounce:hover {
@@ -67,4 +67,5 @@ body {
 .navBar {
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
+    width: 100%;
 }
