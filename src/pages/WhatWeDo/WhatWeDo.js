@@ -13,6 +13,24 @@ function WhatWeDo() {
   return (
     <MDBContainer>
       <div className="aboutDivTop">
+      <h3 className="w-responsive mx-auto mb-5 titleText">
+        Grow Orlando’s Landscaping Business and Urban Greening farming team works in the downtown and greater Orlando area, including Winter Garden, Pine Hills, Parramore, Gotha, Windermere, Oakland, and Dr. Phillips.</h3>
+      <img className="teamTiles" src="https://i.imgur.com/wfZrLJ4.jpg"></img>
+      <img className="teamTiles" src="https://i.imgur.com/8NmtYYR.jpg"></img>
+      <img className="teamTiles" src="https://i.imgur.com/JEZKUzz.jpg"></img>
+      
+      <p className="w-responsive mx-auto mb-5">
+        <br></br>
+        Our office is located in Winter Garden, with a satellite office at St. Luke’s (GIF Pilot Project location) and a second satellite office in my truck.
+        <br></br>
+        <br></br>
+        Grow Orlando’s Grow it Forward program began in 2020 with a pilot project in South West Orlando, with growth in 2021 allowing for the creation of our Finding the Lost Sheep Community Impact Center in East Winter Garden, Shepherd’s Hope (a free clinic for the uninsured) in East Winter Garden, and Orlando Baptist Temple in Pine Hills. We are also in discussions with several organizations regarding our fourth expansion micro farm location in 2021; as well as multiple potential expansion sites throughout Orange County, FL in 2022.
+        <br></br>
+        <br></br>
+        We are able to operate 12 months a year, our students work primarily on weekends, with additional opportunities during the summer and holiday breaks.
+        </p>
+      </div>
+      <div className="aboutDivTop">
         <br></br>
       <h1>Helping bring equity to all!</h1>
       <br></br>

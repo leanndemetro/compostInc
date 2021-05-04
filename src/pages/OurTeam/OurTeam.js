@@ -10,23 +10,11 @@ function About() {
   return (
     <MDBContainer>
     <div className="teamCard">
-      <h2 className="h1-responsive font-weight-bold my-5">
-        Our Team
-        </h2>
-      <p className="w-responsive mx-auto mb-5">
-        Grow Orlando’s Landscaping Business and Urban Greening farming team works in the downtown and greater Orlando area, including Winter Garden, Pine Hills, Parramore, Gotha, Windermere, Oakland, and Dr. Phillips.
-        <br></br>
-        <br></br>
-        Our office is located in Winter Garden, with a satellite office at St. Luke’s (GIF Pilot Project location) and a second satellite office in my truck.
-        <br></br>
-        <br></br>
-        Grow Orlando’s Grow it Forward program began in 2020 with a pilot project in South West Orlando, with growth in 2021 allowing for the creation of our Finding the Lost Sheep Community Impact Center in East Winter Garden, Shepherd’s Hope (a free clinic for the uninsured) in East Winter Garden, and Orlando Baptist Temple in Pine Hills. We are also in discussions with several organizations regarding our fourth expansion micro farm location in 2021; as well as multiple potential expansion sites throughout Orange County, FL in 2022.
-        <br></br>
-        <br></br>
-        We are able to operate 12 months a year, our students work primarily on weekends, with additional opportunities during the summer and holiday breaks.
-        </p>
       <MDBRow className="text-md-left">
         <MDBCol lg="12" md="12" className="mb-5">
+        <h2 className="h1-responsive font-weight-bold my-5">
+       The Team
+        </h2>
           <MDBCol md="3" lg="3" className="float-left">
             <img
               src="https://i.imgur.com/4GZOhUw.png"
@@ -236,7 +224,7 @@ function About() {
 
         <MDBCol lg="12" md="12" className="mb-5">
         <h2 className="h1-responsive font-weight-bold my-5">
-        Our Board Members:
+       The Board
         </h2>
           <MDBCol md="3" lg="3" className="float-right">
             <img
