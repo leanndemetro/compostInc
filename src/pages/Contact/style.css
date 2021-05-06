@@ -4,10 +4,16 @@
     background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     color: black;
-    margin-top: 4%;
+    margin-top: 10%;
     text-align: center;
     text-shadow: 2px 2px 5px white;
+    font-size: 120%;
     
+}
+
+.contactImgs {
+    width: 25%;
+    margin: 5px;
 }
 
 

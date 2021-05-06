@@ -89,7 +89,7 @@ Our Mission is:  To advance economic and food sovereignty through a self-sustain
         <img className="tiledImgs" src="https://i.imgur.com/GZ216tJ.png?1"></img>
           <img className="tiledImgs" src="https://i.imgur.com/bYcb2s3.jpg"></img>
           <img className="tiledImgs" src="https://i.imgur.com/DJAsoOl.png"></img>
-          <img className="tiledImgs" src="https://i.imgur.com/JEZKUzz.jpg"></img>
+          <img className="tiledImgs" src="https://i.imgur.com/r7Ggc5n.jpg"></img>
           </div>
           <hr></hr>
           <h4 className="aboutText">
