@@ -12,18 +12,23 @@ function Contact() {
   return (
     <MDBContainer>
       <div className="contactDiv">
-        <MDBRow>
-          <MDBCol><img className="contactImg" src="https://i.imgur.com/dPRr5go.jpg"></img>
-          </MDBCol>
-          <MDBCol className="centerCol">
-            <h1 className="contactHeader">Contact Us</h1>
-            <br></br>
-            <p className="contactHeader">groworlando@gmail.com</p>
-            <p className="contactHeader">(407) 555-5765</p>
-            <br></br>
-            <img className="contactImgCenter" src="https://i.imgur.com/DJAsoOl.png"></img></MDBCol>
-          <MDBCol><img className="contactImgBtm" src="https://i.imgur.com/wJdgRuU.jpg"></img></MDBCol>
-        </MDBRow>
+        
+
+
+      </div>
+      <div className="contactDiv">
+      <p>Grow Orlando Inc.
+          <br></br>
+Suite #90 449 Westpoint Garden Circle
+<br></br>
+Winder Garden, FL 34787
+<br></br>
+(407) 283-1208
+<br></br>
+info@groworlando.com</p>
+          
+
+
       </div>
     </MDBContainer>
 

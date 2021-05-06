@@ -81,8 +81,10 @@
 
 .learnMore {
     font-weight: bold;
-    background: black(0, 0, 0, 0.6);
-    text-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px white;
+    border: none; 
+    padding: 10px;
+    margin-top: 20px;
 }
 
 .learnMore:hover {

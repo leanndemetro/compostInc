@@ -114,9 +114,9 @@ No Kid Hungry, Dr. Phillips Rotary, Pammies Sammies, Edible Orlando, West Orange
 <br></br>
 <br></br>
 <h4 className="aboutTextBottom"><MDBIcon icon="caret-right" /> Contact</h4>
-To be on our mailing list or for more information, contact Amy Winslow at awinslow@st.lukes.org 407.876.4991, ext. 297</p>
+To be on the Grow it Forward mailing list or for more information, contact Amy Winslow at awinslow@st.lukes.org 407.876.4991, ext. 297 - or visit the contact page via the link below.</p>
 <br></br>
-<br></br>
+<a href="/Contact"><button className="learnMore">Contact Us</button></a>
 <br></br>
 <hr></hr>
 </MDBCol>

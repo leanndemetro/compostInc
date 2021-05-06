@@ -54,7 +54,10 @@ function Dashboard() {
           </MDBCol>
                 
               </MDBRow>
-              
+              <MDBRow>
+                <MDBCol><a href="/whatWeDo"><button className="learnMore">Learn More</button></a></MDBCol>
+                
+              </MDBRow>
             
       </MDBCol>
       <MDBCol size="1">
@@ -70,7 +73,7 @@ function Dashboard() {
           <img className="dashImgs" src="https://i.imgur.com/ExifKjt.jpg"></img>
           <img className="dashImgs" src="https://i.imgur.com/7rhz005.jpg"></img>
           <img className="dashImgs" src="https://i.imgur.com/RHbdstG.jpg"></img>
-          <img className="dashImgs" src="https://i.imgur.com/wJdgRuU.jpg"></img>
+          <img className="dashImgs" src="https://i.imgur.com/cRqUbV4.jpg"></img>
          <br></br>
          <br></br>
             <p>Grow Orlando Inc.

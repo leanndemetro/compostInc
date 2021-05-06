@@ -44,7 +44,7 @@
 .aboutTextBottom {
   text-shadow: 2px 2px 5px white;
   color: black;
-  padding: 20px;
+  padding: 30px;
 }
 
 .aboutCard {
@@ -58,14 +58,14 @@
 }
 
 .teamTiles {
-  width: 25%;
-  padding: 15px;
+  width: 30%;
+  padding: 2px;
 }
 
 .tiledImgs {
-  width: 100%;
+  width: 105%;
   border-radius: 5px;
-  margin: 5px;
+  margin: 2px;
 }
 
 .growItForward {
