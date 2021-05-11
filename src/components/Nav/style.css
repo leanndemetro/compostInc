@@ -1,36 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 img.growImg {
-    width: 60%;
-    margin-top: -10px;
-    
+    width: 60px;
+    float: left;
 }
+
 img.growImg:hover {
     opacity: 0.5;
     
 }
 
+.how {
+    margin: 5px;
+}
+
+.aboutUs {
+    margin: 5px;
+}
+
+.contact {
+    margin: 5px;
+}
+
+
 .how:hover{
     opacity: 0.4;
+
 }
-.shop:hover {
-    opacity: 0.4;
-}
-.donate:hover {
-    opacity: 0.4;
-}
+
 .aboutUs:hover {
     opacity: 0.4;
+   
 }
 
 .contact:hover {
     opacity: 0.4;
+    
 }
 
-
-MDBContainer.links {
+.links {
     text-align: right;
-    width: 100%;
+    margin-top: -40px;
+    padding: 20px;
+    text-shadow: 2px 2px 5px white;
 }
 
 
@@ -53,11 +65,9 @@ body {
 .donateBounce {
     color: black;
     text-shadow: 2px 2px 5px white;
-    font-size: 100%;
-    float: right;
-    margin-top: 30px;
     font-weight: bold;
-    text-align: left;
+    margin-top: 60px;
+    margin-left: 20px;
 }
 
 .donateBounce:hover {
@@ -68,4 +78,5 @@ body {
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
     width: 100%;
+    margin-top: -40px;
 }

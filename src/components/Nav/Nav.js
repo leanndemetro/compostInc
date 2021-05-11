@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {
-  MDBNavbar, MDBNavbarBrand, MDBNav, MDBNavItem, MDBNavLink,
+  MDBNavbar, MDBNavbarBrand, MDBNav, MDBNavItem,
   MDBIcon, MDBContainer, MDBCol, MDBAnimation
 } from "mdbreact";
 import "./style.css"
@@ -10,29 +10,19 @@ class NavbarPage extends Component {
 
   render() {
     return (
-        <MDBNavbar className="navBar" dark expand="sm">
-          <MDBNavbarBrand>
-            <a href="/"><img className="growImg" src="https://i.imgur.com/gCIu3Wl.png"></img></a>
+        <div className="navBar">
+          
+            <a href="/"><img src="https://i.imgur.com/ktdgRmb.png?1" className="growImg"></img></a>
             <a href="/Contact"><MDBAnimation className="donateBounce" type="bounce" infinite>
             <p><MDBIcon icon="leaf" />  DONATE</p>
         </MDBAnimation></a>
-          </MDBNavbarBrand>
-          <MDBContainer>
-            <MDBCol></MDBCol>
-            <div className="links"><MDBNav>
-              <MDBNavItem>
-                <MDBNavLink className="black-text how" active to="/WhatWeDo">ABOUT</MDBNavLink>
-              </MDBNavItem>
-              <MDBNavItem>
-              <MDBNavLink className="black-text aboutUs" to="/OurTeam">OUR TEAM</MDBNavLink>
-              </MDBNavItem>
-              <MDBNavItem>
-              <MDBNavLink className="black-text contact" to="/Contact">CONTACT</MDBNavLink>
-              </MDBNavItem>
-            </MDBNav>
+            <div className="links">
+                <a className="black-text how" active href="/WhatWeDo">ABOUT</a>
+              <a className="black-text aboutUs" href="/OurTeam">OUR TEAM</a>
+              <a className="black-text contact" href="/Contact">CONTACT</a>
             </div>
-          </MDBContainer>
-        </MDBNavbar>
+        
+        </div>
     );
   }
 }

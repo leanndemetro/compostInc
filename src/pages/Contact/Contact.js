@@ -19,14 +19,12 @@ function Contact() {
         <br></br>
         <br></br>
         <p>Grow Orlando Inc.
-          <br></br>
-Suite #90 449 Westpoint Garden Circle
 <br></br>
 Winder Garden, FL 34787
 <br></br>
 (407) 283-1208
 <br></br>
-info@groworlando.com</p>
+groworlando@gmail.com</p>
         <br></br>
         <img className="contactImgs" src="https://i.imgur.com/ZZtZHfO.jpg"></img>
         <img className="contactImgs" src="https://i.imgur.com/73OuJKD.jpg?1"></img>
