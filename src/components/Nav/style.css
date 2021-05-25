@@ -3,9 +3,16 @@
 img.growImg {
     width: 60px;
     float: left;
+    
 }
 
-img.growImg:hover {
+img.growImgNav {
+        width: 60px;
+        float: left;
+        margin: 8px;
+}
+
+img.growImgNav:hover {
     opacity: 0.5;
     
 }
@@ -19,6 +26,10 @@ img.growImg:hover {
 }
 
 .contact {
+    margin: 5px;
+}
+
+.donate {
     margin: 5px;
 }
 
@@ -38,11 +49,16 @@ img.growImg:hover {
     
 }
 
+.donate:hover {
+    opacity: 0.4;
+    
+}
+
 .links {
     text-align: right;
-    margin-top: -40px;
-    padding: 20px;
     text-shadow: 2px 2px 5px white;
+    padding: 25px;
+    font-weight: bold;
 }
 
 
@@ -62,21 +78,10 @@ body {
     text-shadow: 2px 2px 5px black;
 }
 
-.donateBounce {
-    color: black;
-    text-shadow: 2px 2px 5px white;
-    font-weight: bold;
-    margin-top: 60px;
-    margin-left: 20px;
-}
-
-.donateBounce:hover {
-    color: green;
-}
 
 .navBar {
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
     width: 100%;
-    margin-top: -40px;
+    margin-top: 10px;
 }

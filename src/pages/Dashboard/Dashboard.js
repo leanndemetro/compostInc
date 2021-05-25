@@ -19,7 +19,7 @@ function Dashboard() {
                 
               </MDBRow>
               <h3 className="dashTitle">Empowering Future Generations</h3>
-              <h6 className="dashText">Making a difference through urban micro farming</h6>
+              <p className="dashText">Making a difference through urban micro farming</p>
               <MDBIcon className="arrowRight" icon="angle-down" />
             
       </MDBCol>
@@ -29,25 +29,25 @@ function Dashboard() {
         <MDBCol size="1"></MDBCol>
       <MDBCol size="10" className="dashCardTwo">
               <MDBRow>
-                <MDBCol className="dashTextFour">
-                  <h1>We Teach Life Skills Through Plant Cultivation.</h1>
+                <MDBCol>
+                  <p className="lifeSkills">Teaching Life Skills Through Plant Cultivation</p>
                   <br></br>
-                  <h4>Building our youths’ knowledge and skills around urban agriculture, coupled with life skills such as work ethic, financial literacy, health, self worth, and dignity will contribute to food and economic sovereignty for our households and communities. </h4>
+                  <p className="lifeSkillsText">We empower students by instilling life skills such as work ethic, financial literacy, health, self worth, and dignity through agricultural education. We believe sowing these seeds now will contribute to food and economic sovereignty for our households and communities for generations to come. </p>
                   <br></br>
+                  <a href="whatWeDo"><p className="learnMore">LEARN MORE  <MDBIcon icon="angle-right" /></p></a>
           </MDBCol>
-          <MDBCol className="dashTextFour">
-                  <h4>  Health <MDBIcon icon="heartbeat" /></h4>
-                <br></br>
-                <h4> Wealth <MDBIcon icon="hand-holding-usd" /></h4>
-              <br></br>
-              <h4> Community <MDBIcon icon="users" /></h4>
+          <MDBCol>
+                  <h4 className="dashHeaders">  Health <MDBIcon icon="heartbeat" /></h4>
+                  <img className="health" src="https://i.imgur.com/FDpoI06.jpg?1"></img>
+                <h4 className="dashHeaders"> Wealth <MDBIcon icon="hand-holding-usd" /></h4>
+                <img className="wealth" src="https://i.imgur.com/DZoSSkb.jpg"></img>
+              <h4 className="dashHeaders"> Community <MDBIcon icon="users" /></h4>
+              <img className="community" src="https://i.imgur.com/Yfk5eVG.png?2"></img>
+              
               </MDBCol>
                 
               </MDBRow>
-              <MDBRow>
-                <MDBCol><a href="/whatWeDo"><button className="learnMore">Learn More</button></a></MDBCol>
-                
-              </MDBRow>
+             
             
       </MDBCol>
       <MDBCol size="1">
@@ -59,20 +59,13 @@ function Dashboard() {
       <MDBCol size="10" className="dashCardTwo">
         <MDBRow>
           <MDBCol>
-            
-          <img className="dashImgs" src="https://i.imgur.com/ExifKjt.jpg"></img>
+          <img className="dashImgs" src="https://i.imgur.com/x5sPnPO.jpg"></img>
           <img className="dashImgs" src="https://i.imgur.com/7rhz005.jpg"></img>
+          <img className="dashImgs" src="https://i.imgur.com/ExifKjt.jpg"></img>
           <img className="dashImgs" src="https://i.imgur.com/RHbdstG.jpg"></img>
-          <img className="dashImgs" src="https://i.imgur.com/cRqUbV4.jpg"></img>
          <br></br>
          <br></br>
             <p>Grow Orlando Inc.
-            <br></br>
-            Suite #90
-            <br></br>
-            449 Westpoint Garden Circle
-            <br></br>
-            Winter garden FL 34787
             <br></br>
             (407) 283-1208
             <br></br>

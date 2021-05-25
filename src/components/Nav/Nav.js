@@ -12,14 +12,13 @@ class NavbarPage extends Component {
     return (
         <div className="navBar">
           
-            <a href="/"><img src="https://i.imgur.com/ktdgRmb.png?1" className="growImg"></img></a>
-            <a href="/Contact"><MDBAnimation className="donateBounce" type="bounce" infinite>
-            <p><MDBIcon icon="leaf" />  DONATE</p>
-        </MDBAnimation></a>
+            <a href="/">
+              <img src="https://i.imgur.com/ktdgRmb.png?1" className="growImgNav"></img></a>
+
             <div className="links">
                 <a className="black-text how" active href="/WhatWeDo">ABOUT</a>
-              <a className="black-text aboutUs" href="/OurTeam">OUR TEAM</a>
               <a className="black-text contact" href="/Contact">CONTACT</a>
+              <a className="black-text donate" href="/Donate">DONATE</a>
             </div>
         
         </div>
