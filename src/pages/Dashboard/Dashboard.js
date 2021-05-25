@@ -10,8 +10,7 @@ function Dashboard() {
   return (
     <MDBContainer>
       <MDBRow>
-        <MDBCol size="1"></MDBCol>
-      <MDBCol size="10" className="dashCard">
+      <MDBCol size="12" className="dashCard">
               <MDBRow className="whiteRow">
                 <MDBCol><img className="growImgDash" src="https://i.imgur.com/gCIu3Wl.png"></img>
                 <br></br>
@@ -23,11 +22,9 @@ function Dashboard() {
               <MDBIcon className="arrowRight" icon="angle-down" />
             
       </MDBCol>
-      <MDBCol size="1"></MDBCol>
       </MDBRow>
       <MDBRow>
-        <MDBCol size="1"></MDBCol>
-      <MDBCol size="10" className="dashCardTwo">
+      <MDBCol size="12" className="dashCardTwo">
               <MDBRow>
                 <MDBCol>
                   <p className="lifeSkills">Teaching Life Skills Through Plant Cultivation</p>
@@ -50,13 +47,9 @@ function Dashboard() {
              
             
       </MDBCol>
-      <MDBCol size="1">
-        
-      </MDBCol>
       </MDBRow>
       <MDBRow>
-        <MDBCol size="1"></MDBCol>
-      <MDBCol size="10" className="dashCardTwo">
+      <MDBCol size="12" className="dashCardTwo">
         <MDBRow>
           <MDBCol>
           <img className="dashImgs" src="https://i.imgur.com/x5sPnPO.jpg"></img>
@@ -69,15 +62,14 @@ function Dashboard() {
             <br></br>
             (407) 283-1208
             <br></br>
-            info@growOrlando.org</p>
+            info@growOrlando.org
+            <br></br>
+            © Grow Orlando Inc. All Rights Reserved.</p>
         </MDBCol>
         </MDBRow>
        
               
             
-      </MDBCol>
-      <MDBCol size="1">
-        
       </MDBCol>
       </MDBRow>
         </MDBContainer>
