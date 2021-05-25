@@ -14,7 +14,7 @@
 }
 .dashCardTwo {
     width: 100%;
-    padding: 40px;
+    padding: 30px;
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
@@ -61,16 +61,16 @@
 }
 
 .health {
-   width: 60%; 
+   width: 70%; 
    border-radius: 5px;
    height: 30%;
 }
 .wealth {
-    width: 60%; 
+    width: 70%; 
     border-radius: 5px;
 }
 .community {
-    width: 60%; 
+    width: 70%; 
     border-radius: 5px;
     height: 25%;
     margin-bottom: 20px;
@@ -78,6 +78,7 @@
 
 .lifeSkills {
    font-size: 50px;
+   margin-top: 40px;
 }
 
 .lifeSkillsText {
