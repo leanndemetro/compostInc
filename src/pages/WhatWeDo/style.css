@@ -13,6 +13,14 @@ hr {
   margin-top: 40px;
   width: fit-content;
 }
+.aboutDivBottom {
+  background-color: white;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  text-align: left;
+  padding: 20px;
+  margin-top: 40px;
+}
 
 .leftCol {
   width: 100%;
@@ -20,15 +28,13 @@ hr {
 }
 
 .girlsImg {
-  width: 103.5%;
-  margin-top: -20px;
+  width: 100%;
   margin-bottom: 20px;
   
 }
 
-.praiseImg {
+.workingImg {
   width: 100%;
-  margin-left: -15px;
   
 }
 
@@ -38,7 +44,7 @@ hr {
 }
 
 .growLogo {
-  width: 45%;
+  width: 40%;
 }
 
 .bottomCol {

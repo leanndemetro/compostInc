@@ -16,10 +16,12 @@ function WhatWeDo() {
      <MDBRow>
        <MDBCol className="leftCol" size="6">WHAT WE DO
        <hr></hr>
-       <p>When we piloted our program at the Tangelo Park YMCA, we gave each student a healthy plant. Their job was to bring it back in two weeks alive and healthy for $2. If, however, they were to tell us about the health properties of the plants (and add some marketing value to them) we would negotiate the rate. Two weeks later, only one student brought their plant and we Shark Tank’d the transaction in front of the others. When he received $3.25 that week, the next week everyone had a plant - some of which we’ve never seen before! But, believe it or not, every student knew about the healthy qualities of the plant - and some of them added some unique pots and added stories to increase the value. We thought, ‘Wow! All we needed to do was add incentive and the students were able to educate themselves about health.’</p>
-       <hr></hr>
-       <img className="praiseImg" src="https://i.imgur.com/bYcb2s3.jpg"></img>
-       <hr></hr>
+       <p>When we piloted our program at the Tangelo Park YMCA, we gave each student a healthy plant. Their job was to bring it back in two weeks alive and healthy for $2. If, however, they were to tell us about the health properties of the plants (and add some marketing value to them) we would negotiate the rate.
+        <br></br>
+        <br></br>
+        Two weeks later, only one student brought their plant and we Shark Tank'd the transaction in front of the others. When he received $3.25 that week, the next week everyone had a plant - some of which we’ve never seen before! But, believe it or not, every student knew about the healthy qualities of the plant - and some of them added some unique pots and added stories to increase the value. We thought, ‘Wow! All we needed to do was add incentive and the students were able to educate themselves about health.’</p>
+      
+       <img className="workingImg" src="https://i.imgur.com/N7DAoID.jpg"></img>
        </MDBCol>
        <MDBCol size="6">
          <img className="girlsImg" src="https://i.imgur.com/GZ216tJ.png?1"></img>
@@ -36,18 +38,18 @@ What better way to teach the students the skills life demands than through some 
 What better way to raise a community than to provide jobs? 
 <br></br>
 <br></br>
-What better way to instill a healthy wealthy mindset than to hire youth to farm fresh produce, teaching life skills along the way?  
+What better way to instill a healthy wealthy mindset than to hire youth to farm fresh produce, teaching life skills along the way? 
 </p>
-<p className="italicText">To unlock the potential of the future, we have to focus on the development of our youth!</p>
 </MDBCol>
      </MDBRow>
      </div>
-    <div className="aboutDivTop">
+     <div className="aboutDivBottom">
     <MDBRow>
       <MDBCol className="bottomCol">
       <img className="growLogo" src="https://i.imgur.com/gCIu3Wl.png"></img></MDBCol>
     </MDBRow>
     </div>
+   
       
      
       <MDBRow>
