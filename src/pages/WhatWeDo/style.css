@@ -1,14 +1,8 @@
-.aboutImgTop {
-  width: 100%;
-  border-radius: 5px;
-}
 
-.aboutDiv {
-  background-color: white;
-  background: rgba(255, 255, 255, 0.8);
-  border-radius: 5px;
-  text-align: left;
-  padding: 20px;
+hr {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
 }
 .aboutDivTop {
   background-color: white;
@@ -17,34 +11,46 @@
   text-align: left;
   padding: 20px;
   margin-top: 40px;
+  width: fit-content;
 }
+
+.leftCol {
+  width: 100%;
+  font-size: 1em;
+}
+
+.girlsImg {
+  width: 103.5%;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  
+}
+
+.praiseImg {
+  width: 100%;
+  margin-left: -15px;
+  
+}
+
+.italicText {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.growLogo {
+  width: 45%;
+}
+
+.bottomCol {
+  text-align: center;
+}
+
 
 .aboutCard {
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     color: black;
-}
-
-
-.aboutTitle {
-  text-shadow: 2px 2px 5px white;
-  color: black;
-  margin: 20px;
-  margin-top: 2%;
-  padding: 20px;
-}
-
-.aboutText {
-  text-shadow: 2px 2px 5px white;
-  color: black;
-  margin: 2px;
-  text-align: left;
-}
-.aboutTextBottom {
-  text-shadow: 2px 2px 5px white;
-  color: black;
-  padding: 30px;
 }
 
 .aboutCard {
@@ -58,18 +64,4 @@
 }
 
 
-.tiledImgs {
-  width: 20%;
-  border-radius: 5px;
-  margin: 5px;
-}
 
-.growItForward {
-  width: 100%;
-}
-
-.textWrap {
-  float: right;
-margin: 30px;
-width: 28%;
-}
