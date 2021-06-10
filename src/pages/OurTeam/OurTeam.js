@@ -31,6 +31,7 @@ function About() {
           </MDBCol>
         </MDBRow>
         </div>
+
         </MDBContainer>
         
 

@@ -30,6 +30,9 @@ function App() {
           <Route exact path="/WhatWeDo">
             <WhatWeDo />
           </Route>
+          <Route exact path="/OurTeam">
+            <About />
+          </Route>
           </Switch>
           <Footer />
       </div>

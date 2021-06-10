@@ -42,11 +42,16 @@ What better way to instill a healthy wealthy mindset than to hire youth to farm 
 </p>
 </MDBCol>
      </MDBRow>
-     </div>
-     <div className="aboutDivBottom">
     <MDBRow>
       <MDBCol className="bottomCol">
+        <hr></hr>
       <img className="growLogo" src="https://i.imgur.com/gCIu3Wl.png"></img></MDBCol>
+      <p className="bottomText">
+With Grow Orlando, access to nutritious food comes from our farm, affordability is increased with financial stimulus and literacy, and the community gets to enjoy the harvest of student growth and healthy, local produce!
+<br></br>
+<br></br>
+LEARN MORE ABOUT OUR TEAM <a href="/OurTeam">HERE</a>
+</p>
     </MDBRow>
     </div>
    

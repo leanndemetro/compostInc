@@ -13,18 +13,13 @@
 
 }
 
-.dashHeaders {
-    text-transform: uppercase;
-}
+
 .dashCardTwo {
-    width: fit-content;
-    padding: 30px;
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
+    margin-top: 20px;
     border-radius: 5px;
-    color: black;
-    margin-top: 2%;
-    text-align: left;
+    
 
 
 }
@@ -47,20 +42,18 @@
       font-weight: bold;
       color: black;
       width: 100%;
-      font-size: 25px;
+      font-size: 20px;
+      font-style: italic;
   }
 .dashTitle {
       text-shadow: 2px 2px 6px white;
       font-weight: bold;
       color: black;
-      font-size: 40px;
+      font-size: 30px;
+      text-transform: uppercase;
   }
 
 
-  .dashImgs {
-      width: 20%;
-      margin: 5px;
-  }
 
   .textWrapDash {
       float: right;
@@ -77,35 +70,82 @@
 }
 
 .health {
-   width: 100%; 
+width: 100px;
+height: 13rem;
+background:url("https://i.imgur.com/5buupAG.jpg");
+background-position: center;
+background-size: 17rem;
+display: flex;
+align-items: baseline;
+margin: 2px;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 .wealth {
-    width: 100%;
-    margin-bottom: 20px;
+    width: 100px;
+    height: 13rem;
+    background:url("https://i.imgur.com/DZoSSkb.jpg");
+    background-position: center;
+    background-size: 15rem;
+    display: flex;
+    align-items: baseline;
+    margin: 2px;
+    margin-top: 20px;
 }
 .community {
-    width: 100%; 
+    width: 100px;
+height: 13rem;
+background:url("https://i.imgur.com/Yfk5eVG.png?2");
+background-position: center;
+background-size: 17rem;
+display: flex;
+align-items: baseline;
+margin: 2px;
+margin-top: 20px;
 }
+
+
+
+.dashHeaders {
+    background-color:black;
+    background: rgba(2, 2, 2, 0.4);
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 6px rgb(3, 3, 3);
+    padding: 5px;
+    font-size: 0.9rem;
+    
+
+
+}
+
 
 .lifeSkills {
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 22px;
+    color: black;
+    text-shadow: 2px 2px 6px rgb(255, 255, 255);
 }
 
 .lifeSkillsText {
     font-size: 18px;
+    color: black;
+    text-shadow: 2px 2px 6px rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
 }
-
-
-
 
 .learnMore {
+    background-color:black;
+    background: rgba(2, 2, 2, 0.4);
+    color: white;
     font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 6px rgb(3, 3, 3);
     padding: 10px;
-    color: black;
-    font-size: 25px;
+    font-size: 0.9rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    
 }
-.learnMore:hover {
-    opacity: 0.5;
-}
-

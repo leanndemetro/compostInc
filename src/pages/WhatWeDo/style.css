@@ -51,6 +51,14 @@ hr {
   text-align: center;
 }
 
+.bottomText {
+  margin-left: 45px;
+  margin-right: 45px;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
 
 .aboutCard {
     background-color: white;
