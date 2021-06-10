@@ -24,14 +24,16 @@ function Dashboard() {
                  
                  <hr></hr>
                  <p className="lifeSkillsText">We empower students by instilling life skills such as work ethic, financial literacy, health, self worth, and dignity through agricultural education. We believe sowing these seeds now will contribute to food and economic sovereignty for our households and communities for generations to come. </p>
-               
-
+                 <hr></hr>
+                 <a href="/WhatWeDo" className="learnMore">learn more <MDBIcon icon="chevron-circle-right arrow" /></a>
+                <hr></hr>
         </MDBCol>
       </MDBRow>
       <MDBRow className="dashCardTwo" >
    
               <MDBCol size="4" className="health"><span className="dashHeaders">Health <MDBIcon icon="heartbeat" /></span></MDBCol>
-              <MDBCol size="4" className="wealth"><span className="dashHeaders">Wealth<MDBIcon icon="hand-holding-usd" /></span></MDBCol>
+              <MDBCol size="4" className="wealth"><span className="dashHeaders">Wealth<MDBIcon icon="hand-holding-usd" /></span>
+              </MDBCol>
               <MDBCol className="community"><span className="dashHeaders">Community <MDBIcon icon="users" /></span></MDBCol>
              
             </MDBRow>

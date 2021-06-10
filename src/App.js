@@ -25,7 +25,7 @@ function App() {
             <Contact />
           </Route>
           <Route exact path="/Donate">
-            <Donate />
+            
           </Route>
           <Route exact path="/WhatWeDo">
             <WhatWeDo />

@@ -35,6 +35,18 @@
 
 
 }
+.dashCardThree {
+    width: 100%;
+    padding: 30px;
+    background-color: white;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    color: black;
+    margin-top: 2%;
+    text-align: center;
+
+
+}
 .dashText {
       float: center;
       opacity: 1;
@@ -115,6 +127,7 @@ margin-top: 20px;
     text-shadow: 2px 2px 6px rgb(3, 3, 3);
     padding: 5px;
     font-size: 0.9rem;
+    border-radius: 5px;
     
 
 
@@ -137,15 +150,17 @@ margin-top: 20px;
 }
 
 .learnMore {
-    background-color:black;
-    background: rgba(2, 2, 2, 0.4);
-    color: white;
+    color: black;
     font-weight: bold;
     text-transform: uppercase;
-    text-shadow: 2px 2px 6px rgb(3, 3, 3);
+    text-shadow: 2px 2px 6px rgb(255, 255, 255);
     padding: 10px;
-    font-size: 0.9rem;
-    margin-left: 30%;
-    margin-right: 30%;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-style: bold;
     
+}
+
+.arrow {
+    padding: 5px;
 }
