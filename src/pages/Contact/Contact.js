@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import {
-  MDBContainer, MDBRow, MDBCol, MDBCard, MDBBtn, MDBIcon, MDBAnimation
+  MDBContainer, MDBRow, MDBCol, MDBCard, MDBBtn, MDBIcon
 } from "mdbreact";
 
 
@@ -11,13 +11,11 @@ import {
 function Contact() {
   return (
     <MDBContainer>
-      <div className="contactDiv">
-      <hr></hr>
-        <img className="contactImgs" src="https://i.imgur.com/UrGKsQJ.jpg"></img>
-        <img className="contactImgs" src="https://i.imgur.com/EqKq6Ko.jpg"></img>
-        <img className="contactImgs" src="https://i.imgur.com/UTiz7Vt.jpg"></img>
-        <br></br>
-        <br></br>
+      <MDBRow>
+      <MDBCol>
+      <div className="contactDivText">
+        <p>CONTACT US</p>
+        <hr></hr>
         <p>Grow Orlando Inc.
 <br></br>
 Winder Garden, FL 34787
@@ -25,13 +23,41 @@ Winder Garden, FL 34787
 (407) 283-1208
 <br></br>
 groworlando@gmail.com</p>
-        <br></br>
-        <img className="contactImgs" src="https://i.imgur.com/ZZtZHfO.jpg"></img>
-        <img className="contactImgs" src="https://i.imgur.com/73OuJKD.jpg?1"></img>
-        <img className="contactImgs" src="https://i.imgur.com/dPRr5go.jpg"></img>
-
-        <hr></hr>
+</div>
+<div className="contactDivTwo">
+<img className="contactImgTwo" src="https://i.imgur.com/UTiz7Vt.jpg"></img>
+</div>
+<div className="contactDivTwo">
+<img className="contactImgTwo" src="https://i.imgur.com/EX3yYsy.jpg"></img>
       </div>
+      </MDBCol>
+      <MDBCol>
+      <div className="contactDiv">
+       <img className="contactImgOne" src="https://i.imgur.com/cRqUbV4.jpg"></img>
+      </div>
+      <div className="contactDiv">
+       <img className="contactImgOne" src="https://i.imgur.com/DJAsoOl.png"></img>
+      </div>
+      <div className="contactDiv">
+       <img className="contactImgOne" src="https://i.imgur.com/x5sPnPO.jpg"></img>
+      </div>
+      </MDBCol>
+     </MDBRow>
+     <MDBRow>
+            <MDBCol className="contactDivBottom">
+              
+
+              <p>Grow Orlando Inc.
+            <br></br>
+            (407) 283-1208
+            <br></br>
+            info@growOrlando.org
+            <br></br>
+            © Grow Orlando Inc. All Rights Reserved.</p>
+            </MDBCol>
+     </MDBRow>
+    
+       
     </MDBContainer>
 
   );
