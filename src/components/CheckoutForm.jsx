@@ -58,7 +58,7 @@ const CheckoutForm = ({ price, onSuccessfulCheckout }) => {
       {checkoutError && <CheckoutError>{checkoutError}</CheckoutError>}
       <Row>
         <SubmitButton disabled={isProcessing}>
-          {isProcessing ? "Processing..." : `Pay $${price}`}
+          {isProcessing ? "Processing..." : `Donate ${price}`}
         </SubmitButton>
       </Row>
     </form>
