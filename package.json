@@ -8,8 +8,12 @@
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '5.0.1' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
   "dependencies": {
+    "@emotion/core": "^10.1.1",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
     "@stripe/react-stripe-js": "^1.4.1",
     "@stripe/stripe-js": "^1.15.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "mdbreact": "5.0.1",
     "mongod": "^2.0.0",
