@@ -4,18 +4,10 @@ import Image from "./Image";
 import DonutQuantity from "./DonutQuantity";
 
 const Shop = styled.div`
-  padding: 10px 20px 40px 20px;
+  padding: 40px;
 `;
 
-const ShopName = styled.h1`
-  font-size: 18px;
-  color: #fff;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 400;
-  line-height: 26.4px;
-  margin-bottom: 20px;
-`;
+
 
 const Controls = styled.div`
   width: 100%;
@@ -27,8 +19,7 @@ const Controls = styled.div`
 const DonutShop = ({ onAddDonut, onRemoveDonut, numDonuts }) => {
   return (
     <Shop>
-      <ShopName>/stripe/donut</ShopName>
-      <Image src="./donut.png" width="100px"></Image>
+      <Image src="https://i.imgur.com/gCIu3Wl.png" width="100px"></Image>
       <Controls>
         <DonutQuantity
           onAdd={onAddDonut}

@@ -44,7 +44,7 @@ const DonutQuantity = ({ onAdd, onRemove, quantity }) => {
   return (
     <>
       <DecrementButton onClick={onRemove}>–</DecrementButton>
-      <Input type="text" value={quantity} readOnly />
+      <Input type="number" value={quantity} />
       <IncrementButton onClick={onAdd}>+</IncrementButton>
     </>
   );

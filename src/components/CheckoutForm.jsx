@@ -45,6 +45,9 @@ const CheckoutForm = ({ price, onSuccessfulCheckout }) => {
     <div className="donateDiv">
     <form onSubmit={handleFormSubmit}>
       <Row>
+        <DonutShop />
+      </Row>
+      <Row>
         <BillingDetailsFields />
       </Row>
       <Row>
