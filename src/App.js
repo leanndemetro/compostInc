@@ -6,9 +6,13 @@ import WhatWeDo from "./pages/WhatWeDo/WhatWeDo";
 import About from "./pages/OurTeam/OurTeam"
 import NavbarPage from "./components/Nav/Nav"
 import Footer from "./components/Footer/Footer"
-import CheckoutForm from "./components/CheckoutForm";
 import {Elements} from '@stripe/react-stripe-js';
 import {loadStripe} from '@stripe/stripe-js';
+import CartContext from "./components/cart/context";
+import useCart from './hooks/use-cart';
+import ProductsPage from './pages/products';
+import CartPage from './pages/cart';
+import CheckoutPage from './pages/checkout';
 
 const stripePromise = loadStripe('pk_test_HD6UokLebmhghEj5W00db1lw');
 
@@ -18,6 +22,7 @@ const stripePromise = loadStripe('pk_test_HD6UokLebmhghEj5W00db1lw');
 
 function App() {
   return (
+    <CartContext.Provider value={useCart([])}>
     <Router>
       <Elements stripe={stripePromise}>
       <div>
@@ -29,9 +34,15 @@ function App() {
           <Route exact path="/Contact">
             <Contact />
           </Route>
-          <Route exact path="/Donate">
-            <CheckoutForm />
-          </Route>
+          <Route path='/products'>
+              <ProductsPage />
+            </Route>
+          <Route path='/cart'>
+              <CartPage />
+            </Route>
+            <Route path='/checkout'>
+              <CheckoutPage />
+            </Route>
           <Route exact path="/WhatWeDo">
             <WhatWeDo />
           </Route>
@@ -43,6 +54,7 @@ function App() {
       </div>
       </Elements>
     </Router>
+    </CartContext.Provider>
   );
 }
 
