@@ -31,6 +31,6 @@
 <br>
 <a href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/"> Click here for my LinkedIn profile </a>
 
-<h3>Contact me at leanndemetro@gmail.com</h3>
+<h3>Contact me at demetroalyssa@gmail.com</h3>
 </body> 
 </html>
