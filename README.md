@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<a rel="norefferer" target="_blank" href="https://groworlando.org/"><h1>View a deployed version via Heroku</h1></a>
+<a rel="norefferer" target="_blank" href="https://groworlando.org/"><h1>View online at GrowOrlando.org</h1></a>
 <h2>Table of Contents:</h2>
     
 <ul>
