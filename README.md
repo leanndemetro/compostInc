@@ -5,12 +5,12 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<img src="https://i.imgur.com/uqgzfsp.jpg">
+<img src="https://i.imgur.com/gdGClQq.jpg">
 <hr>
 </head>
 <body>
 
-<a rel="norefferer" target="_blank" href="https://compost-incorp.herokuapp.com/"><h1>View a deployed version via Heroku</h1></a>
+<a rel="norefferer" target="_blank" href="https://groworlando.org/"><h1>View a deployed version via Heroku</h1></a>
 <h2>Table of Contents:</h2>
     
 <ul>
