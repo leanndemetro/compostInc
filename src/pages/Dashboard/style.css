@@ -92,6 +92,8 @@ align-items: baseline;
 margin: 2px;
 margin-top: 20px;
 margin-bottom: 20px;
+background-repeat: no-repeat;
+    background-size: cover;
 }
 .wealth {
     width: 100px;
@@ -103,6 +105,8 @@ margin-bottom: 20px;
     align-items: baseline;
     margin: 2px;
     margin-top: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .community {
     width: 100px;
@@ -114,6 +118,8 @@ display: flex;
 align-items: baseline;
 margin: 2px;
 margin-top: 20px;
+background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
