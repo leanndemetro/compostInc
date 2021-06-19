@@ -13,6 +13,7 @@ export default function ProductsPage({}) {
     <>
     <MDBContainer>
       <MDBRow>
+        <MDBCol size="3"></MDBCol>
         <MDBCol size="6">
       <div className="productDiv">
       <p className="donateHeader">DONATE</p>
@@ -24,7 +25,7 @@ export default function ProductsPage({}) {
       </div>
       </div>
       </MDBCol>
-      <MDBCol size="6"></MDBCol>
+      <MDBCol size="3"></MDBCol>
       </MDBRow>
       </MDBContainer>
     </>
