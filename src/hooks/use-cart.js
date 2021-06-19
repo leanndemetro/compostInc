@@ -7,6 +7,7 @@ export default function useCart() {
 
   //passes in a selected product to this function
   function addToCart(product) {
+    console.log(product.price);
     //sets the cart to it's state prior to any changes
     setCartItems((prev) => {
       //sets a variable called existing to any added cartItems, seeks through each item and filters the item id out (from seeded json data) to ensure it is absolutely equal to the value of the product id.
