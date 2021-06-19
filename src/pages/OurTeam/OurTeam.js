@@ -41,6 +41,7 @@ function About() {
             ></img>
           </MDBCol>
           <MDBCol md="9" lg="9" className="float-right">
+            <br></br>
             <h4 className="font-weight-bold mb-3">Ambar Payne</h4>
             <h6 className="font-weight-bold mb-3">
               Board Member
