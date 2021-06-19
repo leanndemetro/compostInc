@@ -1,6 +1,7 @@
 import React, { useState, useContext } from 'react';
 import CartContext from '../../components/cart/context';
 
+
 import './styles.css';
 
 //creates and exports a function that takes in an item's seeded data

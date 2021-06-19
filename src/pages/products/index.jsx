@@ -5,20 +5,28 @@ import Product from './product';
 
 import products from '../../data/products.json';
 import "./styles.css";
-
+import {
+  MDBContainer, MDBBtn, MDBRow, MDBCol
+} from "mdbreact";
 export default function ProductsPage({}) {
   return (
     <>
+    <MDBContainer>
+      <MDBRow>
+        <MDBCol size="6">
       <div className="productDiv">
-      <h1>Welcome to our store!</h1>
-    //creates a div with the classname products that maps over all products and dynamically sets the key equal to the product's id
-    //and spreads each product into an individual item to be rendered 
-      <div className='products'>
+      <p className="donateHeader">DONATE</p>
+      <hr></hr>
+    <div className='products'>
         {products.map((product) => (
           <Product key={product.id} {...product} />
         ))}
       </div>
       </div>
+      </MDBCol>
+      <MDBCol size="6"></MDBCol>
+      </MDBRow>
+      </MDBContainer>
     </>
   );
 }
