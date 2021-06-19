@@ -16,7 +16,7 @@
 
 .products .product.hover {
   background-color: rgba(166, 203, 235, 0.1);
-  border: 1px solid rgb(238, 132, 132);
+  color: black;
  
 }
 
@@ -42,4 +42,21 @@
   padding: 0.5rem 1.5rem;
   display: inline-block;
   margin: 0.25rem;
+  text-shadow: none;
+}
+
+.card {
+  padding: 3px;
+}
+
+.productDiv {
+  padding: 20px;
+    background-color: white;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    color: black;
+    margin-top: 4%;
+    text-align: center;
+    margin: 30px;
+    text-shadow: none;
 }

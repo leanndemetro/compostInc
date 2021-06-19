@@ -40,8 +40,8 @@ function App() {
           <Route path='/cart'>
               <CartPage />
             </Route>
-            <Route path='/checkout'>
-              <CheckoutPage />
+            <Route path='/Donate'>
+              <ProductsPage />
             </Route>
           <Route exact path="/WhatWeDo">
             <WhatWeDo />
