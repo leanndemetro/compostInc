@@ -30,6 +30,26 @@ function About() {
               </p>
           </MDBCol>
         </MDBRow>
+      <MDBRow className="text-md-left">
+
+          <MDBCol md="3" lg="3" className="float-left">
+            <img
+              src="https://i.imgur.com/MHQ4BDf.jpg"
+              className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid frankImg"
+              tag="img"
+              alt="ambarPayne"
+            ></img>
+          </MDBCol>
+          <MDBCol md="9" lg="9" className="float-right">
+            <h4 className="font-weight-bold mb-3">Ambar Payne</h4>
+            <h6 className="font-weight-bold mb-3">
+              Board Member
+              </h6>
+            <p>
+            Ambar has worked in nonprofits for 12 years, serving various communities from individuals with spina bifida to farmworker and immigrant populations. She has a demonstrated history working with development, specializing in grant writing, donor solicitations, and event fundraising. Her educational background includes a Master's in Library and Information Science from the University of South Florida. Ambar is currently Grow Orlando's Program Coordinator, managing their social media platforms, administration, and grant development.
+              </p>
+          </MDBCol>
+        </MDBRow>
         </div>
 
         </MDBContainer>
