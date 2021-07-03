@@ -1,0 +1,98 @@
+.donate__card {
+   background-color: white;
+   background: rgba(255, 255, 255, 0.8);
+   border-radius: 5px;
+   text-align: left;
+   padding: 20px;
+   margin-top: 40px;
+   height: 35rem;
+}
+
+.donate__widget {
+    width: 25rem;
+    height: 28rem;
+    border-style: solid;
+    border-width: 1.8px;
+    border-color: black;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.donate__widget__image {
+    width: 100%;
+}
+
+.widget__body {
+    background: rgba(0, 0, 0, 0.2);
+    width: 24.9rem;
+    text-align: center;
+    height: 15.5rem;
+    margin-left: -1px;
+}
+
+.widget__header {
+    text-shadow: none;
+    font-size: 1.4rem;
+    padding: 5px;
+}
+
+
+.stripe__icon {
+    font-size: 2rem;
+   margin-top: 5px;
+   text-shadow: none;
+   float: right;
+   padding: 5px;
+}
+.stripe__icon:hover {
+    opacity: 0.2;
+}
+
+.icon__link {
+    color: black;
+}
+
+.widget__input__label {
+  margin-right: .3rem;
+  margin-left: -1rem;
+  text-shadow: none;
+  font-size: 1rem;
+  
+}
+
+.widget__input {
+    margin-top: 10px;
+border-radius: 5px;
+text-align: center;
+width: 50%;
+color: black;
+}
+
+input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0; }
+  
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; }
+  
+  input[type=number] {
+    -moz-appearance: textfield; }
+
+.widget__submit {
+    padding: 10px;
+    margin-top: 20px;
+    width: 80%;
+    background-color: #F8BD1F;
+    color: black;
+    border-radius: 5px;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    cursor: pointer; 
+    font-size: 1.5rem;
+}
+
+.widget__submit:hover {
+    background: rgba(243, 208, 12, 0.6);
+}
