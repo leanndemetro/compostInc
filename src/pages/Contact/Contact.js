@@ -51,7 +51,7 @@ groworlando@gmail.com</p>
             <br></br>
             (407) 283-1208
             <br></br>
-            info@growOrlando.org
+            groworlando@gmail.com
             <br></br>
             © Grow Orlando Inc. All Rights Reserved.</p>
             </MDBCol>

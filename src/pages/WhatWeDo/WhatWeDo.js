@@ -29,13 +29,13 @@ function WhatWeDo() {
          <hr></hr>
          <p>With the demand for local produce and the environmental footprint urban farms develop, there is an arena that we work with that would make it equitable. Besides, that’s what I did. As a matter of fact, almost every successful person I talked with started their careers mowing lawns, shoveling snow, picking crops for grandma, etc. </p>
 <p className="italicText">
-Imagine if we attached this learning process to an age-old sustainable business model that molds champions?
+Imagine if we attached this learning process to an age-old sustainable business model that molds champions!
 <br></br>
 <br></br>
 What better way to teach the students the skills life demands than through some good hard work? 
 <br></br>
 <br></br>
-What better way to raise a community than to provide jobs? 
+What better way to raise a community than to provide economic incentive? 
 <br></br>
 <br></br>
 What better way to instill a healthy wealthy mindset than to hire youth to farm fresh produce, teaching life skills along the way? 
@@ -47,7 +47,7 @@ What better way to instill a healthy wealthy mindset than to hire youth to farm 
         <hr></hr>
       <img className="growLogo" src="https://i.imgur.com/gCIu3Wl.png"></img></MDBCol>
       <p className="bottomText">
-With Grow Orlando, access to nutritious food comes from our farm, affordability is increased with financial stimulus and literacy, and the community gets to enjoy the harvest of student growth and healthy, local produce!
+With Grow Orlando, access to nutritious food comes from our farm, affordability is increased with financial stimulus and literacy, and the community gets to enjoy the harvest of healhy produce sourced locally from their own youth and neighborhood farmers.
 <br></br>
 <br></br>
 LEARN MORE ABOUT OUR TEAM <a href="/OurTeam">HERE</a>
@@ -65,7 +65,7 @@ LEARN MORE ABOUT OUR TEAM <a href="/OurTeam">HERE</a>
             <br></br>
             (407) 283-1208
             <br></br>
-            info@growOrlando.org
+            groworlando@gmail.com
             <br></br>
             © Grow Orlando Inc. All Rights Reserved.</p>
         </MDBCol>

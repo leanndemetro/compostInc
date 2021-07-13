@@ -7,7 +7,18 @@ import  { MDBIcon } from "mdbreact";
 
 
 function Donate() {
+    const nameEl = React.useRef(null);
+
+  const handleSubmit = e => {
+    e.preventDefault();
+    alert(nameEl.current.value);
+  };
+
   return (
+    
+   
+
+
    <div className="donate__card">
    <div className="donate__widget">
        <img src="https://i.imgur.com/gCIu3Wl.png" className="donate__widget__image"></img>

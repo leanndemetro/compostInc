@@ -67,6 +67,11 @@ width: 50%;
 color: black;
 }
 
+.widget__input:focus {
+    outline: none !important;
+    border: 2px solid black;
+}
+
 input::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0; }
