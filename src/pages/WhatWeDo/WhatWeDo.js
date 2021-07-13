@@ -54,27 +54,7 @@ LEARN MORE ABOUT OUR TEAM <a href="/OurTeam">HERE</a>
 </p>
     </MDBRow>
     </div>
-   
-      
      
-      <MDBRow>
-      <MDBCol className="aboutCard">
-        <MDBRow>
-          <MDBCol>
-          <p>Grow Orlando Inc.
-            <br></br>
-            (407) 283-1208
-            <br></br>
-            groworlando@gmail.com
-            <br></br>
-            © Grow Orlando Inc. All Rights Reserved.</p>
-        </MDBCol>
-        </MDBRow>
-       
-              
-            
-      </MDBCol>
-      </MDBRow>
     </MDBContainer>
 
 

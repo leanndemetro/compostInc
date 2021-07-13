@@ -1,34 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
+.footer {
+    background-color: white;
+    background: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 5px white;
+    font-weight: bold;
+    padding: 1em;
+    font-size: .7em;
 
-footer.pagefooter {
-    position: absolute;
-    margin-bottom: 0;
-    font-family: 'Nunito', sans-serif;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
-    text-shadow: 2px 2px 5px black;
-    
-    
 }
 
+
 .icons {
-    font-size: 25px;
-    color: white;
-    text-shadow: 2px 2px 5px black;
+    margin-top: -.5em;
+    font-size: 2em;
+    color: black;
+    text-shadow: 2px 2px 5px white;
+    padding: 2px;
+    
 }
 
 .icons:hover {
-    color: black;
+    opacity: 0.2;
 }
 
-.adLogo {
-    color: white;
-    font-family: 'Nunito', sans-serif;
-    font-size: 10px;
-    text-shadow: 2px 2px 5px black;
-}
 
-.adLogo:hover {
-    color:black;
-}

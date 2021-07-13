@@ -6,28 +6,19 @@ import "./style.css"
 class Footer extends Component {
     render() {
         return (
-            <div className="footer"><MDBFooter className="font-small pt-4 mt-4">
-                <div className="footer-copyright text-center py-3">
-                    <MDBContainer fluid>
-                        <MDBRow>
-                            <MDBCol></MDBCol>
-                            <MDBCol>
-                                <MDBRow>
-                                    <MDBCol><a target="_blank" href="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon className="icons" fab icon="facebook-square" /></a> </MDBCol>
-                                    <MDBCol><a target="_blank" href="https://twitter.com/grow_orlando"><MDBIcon className="icons" fab icon="twitter" /></a></MDBCol>
-                                    <MDBCol><a target="_blank" href="https://www.instagram.com/grow_orlando/?hl=en"><MDBIcon className="icons" fab icon="instagram" /></a></MDBCol>
-                                </MDBRow>
-                            </MDBCol>
-                            <MDBCol>
-                               A WEBSITE BUILT BY
-                                <br></br>
-                                <a target="_blank" href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/" className="adLogo">A.D. Development</a>
-                                </MDBCol>
-                        </MDBRow>
-                    </MDBContainer>
-                </div>
-            </MDBFooter>
-            </div>
+            <div className="footer">
+                                    <p>Grow Orlando Inc.
+                                        <br></br>
+                                        (407) 283-1208
+                                        <br></br>
+                                        groworlando@gmail.com
+                                        <br></br>
+                                        © Grow Orlando Inc. All Rights Reserved.</p>
+                                         
+                                <a target="_blank" href="https://www.facebook.com/GrowOrlandoInc/"><MDBIcon className="icons" fab icon="facebook-square" /></a> 
+                                    <a target="_blank" href="https://twitter.com/grow_orlando"><MDBIcon className="icons" fab icon="twitter" /></a>
+                                    <a target="_blank" href="https://www.instagram.com/grow_orlando/?hl=en"><MDBIcon className="icons" fab icon="instagram" /></a>
+                           </div>
         );
     }
 }

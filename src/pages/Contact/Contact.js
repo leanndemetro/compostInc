@@ -43,19 +43,6 @@ groworlando@gmail.com</p>
       </div>
       </MDBCol>
      </MDBRow>
-     <MDBRow>
-            <MDBCol className="contactDivBottom">
-              
-
-              <p>Grow Orlando Inc.
-            <br></br>
-            (407) 283-1208
-            <br></br>
-            groworlando@gmail.com
-            <br></br>
-            © Grow Orlando Inc. All Rights Reserved.</p>
-            </MDBCol>
-     </MDBRow>
     
        
     </MDBContainer>

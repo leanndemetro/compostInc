@@ -8,15 +8,10 @@ import "./style.css"
 
 function Dashboard() {
   return (
-    <MDBContainer>
-      <MDBRow>
-        <MDBCol size="12" className="dashCard">
-          <MDBRow className="whiteRow">
-            <MDBCol><img className="growImgDash" src="https://i.imgur.com/gCIu3Wl.png"></img>
+    <div>
+        <div className="dashCard">
+            <img className="growImgDash" src="https://i.imgur.com/gCIu3Wl.png"></img>
               <br></br>
-            </MDBCol>
-
-          </MDBRow>
          
 
           <hr></hr>
@@ -27,40 +22,16 @@ function Dashboard() {
                  <hr></hr>
                  <a href="/WhatWeDo" className="learnMore">learn more <MDBIcon icon="chevron-circle-right arrow" /></a>
                 <hr></hr>
-        </MDBCol>
-      </MDBRow>
-      <MDBRow className="dashCardTwo" >
+        </div>
+     
+      <div className="dashCardTwo" >
    
-              <MDBCol size="4" className="health"><span className="dashHeaders">Health <MDBIcon icon="heartbeat" /></span></MDBCol>
-              <MDBCol size="4" className="wealth"><span className="dashHeaders">Wealth<MDBIcon icon="hand-holding-usd" /></span>
-              </MDBCol>
-              <MDBCol className="community"><span className="dashHeaders">Community <MDBIcon icon="users" /></span></MDBCol>
              
-            </MDBRow>
+             
+            </div>
 
-            
-          <MDBRow>
-
-        <MDBCol size="12" className="dashCardBottom">
-          <MDBRow>
-            <MDBCol>
-              
-
-              <p>Grow Orlando Inc.
-            <br></br>
-            (407) 283-1208
-            <br></br>
-            groworlando@gmail.com
-            <br></br>
-            © Grow Orlando Inc. All Rights Reserved.</p>
-            </MDBCol>
-          </MDBRow>
-
-
-
-        </MDBCol>
-      </MDBRow>
-    </MDBContainer>
+        
+      </div>
 
   );
 }
