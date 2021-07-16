@@ -1,28 +1,21 @@
-
-
-
 .dashCard {
     padding: 20px;
     background-color: white;
     background: rgba(255, 255, 255, 0.8);
-    border-radius: 5px;
     color: white;
     margin-top: 4%;
     text-align: center;
-
-
+    margin-bottom: 4%;
 }
 
-
-.dashCardTwo {
+.dashCardOverlay {
+    width: 100%;
     background-color: white;
-    background: rgba(255, 255, 255, 0.8);
-    margin-top: 20px;
-    border-radius: 5px;
-    
-
-
+    background: rgba(255, 255, 255, 0.6);
 }
+
+
+
 .dashCardBottom {
     width: 100%;
     padding: 30px;
@@ -81,48 +74,6 @@
     width: 18rem;
 }
 
-.health {
-width: 100px;
-height: 13rem;
-background:url("https://i.imgur.com/5buupAG.jpg");
-background-position: center;
-background-size: 17rem;
-display: flex;
-align-items: baseline;
-margin: 2px;
-margin-top: 20px;
-margin-bottom: 20px;
-background-repeat: no-repeat;
-    background-size: cover;
-}
-.wealth {
-    width: 100px;
-    height: 13rem;
-    background:url("https://i.imgur.com/DZoSSkb.jpg");
-    background-position: center;
-    background-size: 15rem;
-    display: flex;
-    align-items: baseline;
-    margin: 2px;
-    margin-top: 20px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.community {
-    width: 100px;
-height: 13rem;
-background:url("https://i.imgur.com/Yfk5eVG.png?2");
-background-position: center;
-background-size: 17rem;
-display: flex;
-align-items: baseline;
-margin: 2px;
-margin-top: 20px;
-background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
 
 .dashHeaders {
     background-color:black;
@@ -134,9 +85,6 @@ background-repeat: no-repeat;
     padding: 5px;
     font-size: 0.9rem;
     border-radius: 5px;
-    
-
-
 }
 
 
@@ -169,4 +117,16 @@ background-repeat: no-repeat;
 
 .arrow {
     padding: 5px;
+}
+
+.dashImgs {
+    width: 100%;
+}
+
+.dashImgThree {
+    max-height: 440px;
+}
+
+.dashImgTwo {
+    min-height: 120px;
 }
