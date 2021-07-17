@@ -10,6 +10,7 @@ img.growImgNav {
         width: 60px;
         float: left;
         margin: 8px;
+        margin-top: 1.7px
 }
 
 img.growImgNav:hover {
@@ -59,6 +60,7 @@ img.growImgNav:hover {
     text-shadow: 2px 2px 5px white;
     padding: 25px;
     font-weight: bold;
+    font-size: 12px;
 }
 
 
