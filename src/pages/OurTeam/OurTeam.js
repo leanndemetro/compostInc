@@ -11,11 +11,6 @@ function OurTeam() {
     <MDBContainer>
     <div className="teamCard">
       <MDBRow>
-        <MDBCol><hr></hr>
-            <p className="ourTeam">our team</p>
-              <hr></hr></MDBCol>
-      </MDBRow>
-      <MDBRow>
         <MDBCol>
           <p className="aboutTheTeam">We have a diverse team of grassroots organizers and doers dedicated to changing the landscape of Central Florida's nonprofit offerings through social enterprise;
         <br></br>
