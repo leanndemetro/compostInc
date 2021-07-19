@@ -45,6 +45,7 @@ function WhatWeDo() {
          <br></br>
             With Grow Orlando, access to nutritious food comes from our farm, affordability is increased with financial stimulus and literacy, and the community gets to enjoy the harvest of healhy produce sourced locally from their own youth and neighborhood farmers.
             </p>
+    <GrowItForward />
 
     </div>
 

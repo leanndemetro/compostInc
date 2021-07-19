@@ -20,8 +20,7 @@ class GrowItForward extends Component {
                     </MDBCol>
                 </MDBRow>
                 <MDBRow>
-                    <MDBCol size="1"></MDBCol>
-                    <MDBCol size="10">
+                    <MDBCol>
                         <h6 className="growForwardBlurb">
                             We are excited about the progress of our Grow it Forward micro farm collaboration with St. Luke’s Orlando UMC. The early success of this pilot project is providing the impetus and expansion for additional  micro farms in the West Orange County area this year!
 
@@ -31,7 +30,6 @@ class GrowItForward extends Component {
 
                             Our Mission is:  To advance economic and food sovereignty through a self-sustaining micro farm network, utilizing available land of faith and community partners.</h6></MDBCol>
 
-                    <MDBCol size="1"></MDBCol>
                 </MDBRow>
                 <MDBRow><MDBCol>
                     <div className="textWrap">
@@ -66,12 +64,13 @@ class GrowItForward extends Component {
                         <br></br>
                         <h4 className="aboutTextBottom"><MDBIcon icon="caret-right" /> Contact</h4>
                         <p className="aboutTextBlurb">To be on the Grow it Forward mailing list or for more information, contact Amy Winslow at awinslow@st.lukes.org 407.876.4991, ext. 297 - or visit the contact page via the link below.</p>
-                </MDBCol></MDBRow>
-                <MDBRow>
-          <MDBCol> <hr></hr>
+                        <br></br>
+                        <br></br>
+                        <hr></hr>
             <a href="/Contact" className="contactUs">contact us <MDBIcon icon="chevron-circle-right arrow" /></a>
-              <hr></hr></MDBCol>
-        </MDBRow>
+              <hr></hr>
+                </MDBCol></MDBRow>
+               
             </div>
         
         );
