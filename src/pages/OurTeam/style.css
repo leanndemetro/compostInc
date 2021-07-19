@@ -1,21 +1,48 @@
 .teamCard {
     width: 100%;
     padding: 20px;
-    background-color: white;
-    background: rgba(255, 255, 255, 0.8);
-    border-radius: 5px;
+    background-image:url("https://i.imgur.com/0Se2MSi.png");
+    background-color: #387244;
     color: black;
     text-align: center;
     margin-top: 40px;
-    text-shadow: 2px 2px 6px white;
+    margin-bottom: 4%;
 }
+
+.aboutTheTeam {
+    padding: 5%;
+    font-size: 1.6em;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+
 
 .frankImg {
     width: 100%;
     margin-top: 10%;
+    background-image:url("https://i.imgur.com/UTiz7Vt.jpg");
 }
 
 
 .titleText {
+    margin-top: 5%;
+}
+
+.bioText {
+    font-size: .9em;
+}
+
+.ourTeam {
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 2rem;
+    border-radius: 5px;
+    font-style: bold;
+}
+
+.name {
     margin-top: 5%;
 }

@@ -1,18 +1,20 @@
 .dashCard {
-    padding: 20px;
-    background-color: white;
-    background: rgba(255, 255, 255, 0.8);
-    color: white;
-    margin-top: 4%;
-    text-align: center;
-    margin-bottom: 4%;
+    padding: 40px;
+    background-color: #B6C2A4;
+    color: black;
+    text-align: left;
+    
 }
 
-.dashCardOverlay {
+.dashImage {
     width: 100%;
-    background-color: white;
-    background: rgba(255, 255, 255, 0.6);
+    margin-top: -5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
 }
+
+
+
 
 
 
@@ -20,7 +22,6 @@
     width: 100%;
     padding: 30px;
     background-color: white;
-    background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     color: black;
     margin-top: 2%;
@@ -32,7 +33,6 @@
     width: 100%;
     padding: 30px;
     background-color: white;
-    background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     color: black;
     margin-top: 2%;
@@ -43,7 +43,6 @@
 .dashText {
       float: center;
       opacity: 1;
-      text-shadow: 2px 2px 6px white;
       font-weight: bold;
       color: black;
       width: 100%;
@@ -51,7 +50,6 @@
       font-style: italic;
   }
 .dashTitle {
-      text-shadow: 2px 2px 6px white;
       font-weight: bold;
       color: black;
       font-size: 30px;
@@ -72,6 +70,7 @@
 
 .growImgDash {
     width: 18rem;
+    margin-left: -20px;
 }
 
 
@@ -81,7 +80,6 @@
     color: white;
     font-weight: bold;
     text-transform: uppercase;
-    text-shadow: 2px 2px 6px rgb(3, 3, 3);
     padding: 5px;
     font-size: 0.9rem;
     border-radius: 5px;
@@ -92,22 +90,17 @@
     text-transform: uppercase;
     font-size: 22px;
     color: black;
-    text-shadow: 2px 2px 6px rgb(255, 255, 255);
 }
 
 .lifeSkillsText {
     font-size: 18px;
     color: black;
-    text-shadow: 2px 2px 6px rgb(255, 255, 255);
-    margin-left: 10%;
-    margin-right: 10%;
 }
 
 .learnMore {
     color: black;
     font-weight: bold;
     text-transform: uppercase;
-    text-shadow: 2px 2px 6px rgb(255, 255, 255);
     padding: 10px;
     font-size: 1rem;
     border-radius: 5px;
@@ -124,9 +117,10 @@
 }
 
 .dashImgThree {
-    max-height: 440px;
+    min-height: 110px;
+    max-height: 410px;
 }
 
 .dashImgTwo {
-    min-height: 120px;
+    min-height: 110px;
 }

@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import Contact from "./pages/Contact/Contact";
 import WhatWeDo from "./pages/WhatWeDo/WhatWeDo";
-import About from "./pages/OurTeam/OurTeam";
+import OurTeam from "./pages/OurTeam/OurTeam";
 import NavbarPage from "./components/Nav/Nav";
 import Footer from "./components/Footer/Footer";
 import Donate from "./pages/Donate";
@@ -31,7 +31,7 @@ function App() {
             <WhatWeDo />
           </Route>
           <Route exact path="/OurTeam">
-            <About />
+            <OurTeam />
           </Route>
           </Switch>
           <Footer />

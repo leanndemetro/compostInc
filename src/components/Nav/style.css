@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 img.growImg {
     width: 60px;
@@ -57,32 +57,30 @@ img.growImgNav:hover {
 
 .links {
     text-align: right;
-    text-shadow: 2px 2px 5px white;
     padding: 25px;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 
   
 div.container {
-    font-family: 'Nunito', sans-serif;
     font-weight: bold;
-    text-shadow: 2px 2px 5px white;
     }
 
 body {
-    background-image:url("https://i.imgur.com/8F5fpN0.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Nunito', sans-serif;
-    text-shadow: 2px 2px 5px black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: #B6C2A4;
 }
 
 
 .navBar {
-    background-color: white;
-    background: rgba(255, 255, 255, 0.8);
+    background-color: #B6C2A4;
     width: 100%;
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    z-index: 999;
+    border-radius: 5px;
 }

@@ -1,6 +1,5 @@
 .contactDiv {
     background-color: white;
-  background: rgba(255, 255, 255, 0.8);
   border-radius: 5px;
   text-align: left;
   padding: 10px;
@@ -10,7 +9,6 @@
 }
 .contactDivTwo {
     background-color: white;
-  background: rgba(255, 255, 255, 0.8);
   border-radius: 5px;
   text-align: left;
   padding: 10px;
@@ -20,7 +18,6 @@
 }
 .contactDivText {
     background-color: white;
-  background: rgba(255, 255, 255, 0.8);
   border-radius: 5px;
   text-align: left;
   padding: 10px;
@@ -43,13 +40,13 @@
     width: 100%;
     padding: 30px;
     background-color: white;
-    background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     color: black;
     margin-top: 2%;
     text-align: center;
 
 }
+
 
 
 

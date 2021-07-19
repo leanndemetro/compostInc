@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
 
 .footer {
-    background-color: white;
-    background: rgba(255, 255, 255, 0.8);
+    background-color: #B6C2A4;
     text-align: center;
     color: black;
-    text-shadow: 2px 2px 5px white;
     font-weight: bold;
     padding: 1em;
     font-size: .7em;
@@ -17,7 +15,6 @@
     margin-top: -.5em;
     font-size: 2em;
     color: black;
-    text-shadow: 2px 2px 5px white;
     padding: 2px;
     
 }

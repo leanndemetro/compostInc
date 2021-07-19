@@ -1,28 +1,34 @@
 .aboutDivOverlay {
-    background-color: white;
-    background: rgba(255, 255, 255, 0.8);
+    background-image:url("https://i.imgur.com/0Se2MSi.png");
+    background-color: #387244;
     border-radius: 5px;
     text-align: center;
+
     
+  }
+
+  .growForwardBlurb {
+      text-align: center;
+      color: black;
+      font-size: 1.5em;
+      padding: 30px;
   }
   
   .aboutCard {
       background-color: white;
-      background: rgba(255, 255, 255, 0.8);
       border-radius: 5px;
       color: black;
   }
   
-  .aboutText {
-    text-shadow: 2px 2px 5px white;
+  .aboutTextBlurb {
     color: black;
-    margin: 2px;
+    margin: 10px;
     text-align: left;
   }
   .aboutTextBottom {
-    text-shadow: 2px 2px 5px white;
     color: black;
-    padding: 30px;
+    padding: 10px;
+    text-align: left;
   }
 
   .tiledImgs {
@@ -45,7 +51,6 @@
     color: black;
     font-weight: bold;
     text-transform: uppercase;
-    text-shadow: 2px 2px 6px rgb(255, 255, 255);
     padding: 10px;
     font-size: 1rem;
     border-radius: 5px;
