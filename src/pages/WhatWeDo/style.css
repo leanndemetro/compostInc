@@ -5,6 +5,11 @@ hr {
   border-color: black;
 }
 
+.aboutImage {
+  width: 100%;
+  margin-top: 20px;
+}
+
 .aboutDiv {
   background-image:url("https://i.imgur.com/0Se2MSi.png");
   background-color: #387244;
