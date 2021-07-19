@@ -10,9 +10,6 @@ import {
 
 function Contact() {
   return (
-    <MDBContainer>
-      <MDBRow>
-      <MDBCol>
       <div className="contactDivText">
         <p>CONTACT US</p>
         <hr></hr>
@@ -24,28 +21,8 @@ Winder Garden, FL 34787
 <br></br>
 groworlando@gmail.com</p>
 </div>
-<div className="contactDivTwo">
-<img className="contactImgTwo" src="https://i.imgur.com/UTiz7Vt.jpg"></img>
-</div>
-<div className="contactDivTwo">
-<img className="contactImgTwo" src="https://i.imgur.com/EX3yYsy.jpg"></img>
-      </div>
-      </MDBCol>
-      <MDBCol>
-      <div className="contactDiv">
-       <img className="contactImgOne" src="https://i.imgur.com/cRqUbV4.jpg"></img>
-      </div>
-      <div className="contactDiv">
-       <img className="contactImgOne" src="https://i.imgur.com/DJAsoOl.png"></img>
-      </div>
-      <div className="contactDiv">
-       <img className="contactImgOne" src="https://i.imgur.com/x5sPnPO.jpg"></img>
-      </div>
-      </MDBCol>
-     </MDBRow>
+
     
-       
-    </MDBContainer>
 
   );
 }
