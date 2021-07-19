@@ -17,7 +17,7 @@ class NavbarPage extends Component {
 
             <div className="links">
                 <a className="black-text how" active href="/WhatWeDo">ABOUT</a>
-                <a className="black-text how" active href="/OurTeam">TEAM</a>
+                <a className="black-text how" active href="/OurTeam">OUR TEAM</a>
               <a className="black-text contact" href="/Contact">CONTACT</a>
               <a className="black-text donate" href="/Donate">DONATE</a>
             </div>
