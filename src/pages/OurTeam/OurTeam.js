@@ -33,7 +33,7 @@ function OurTeam() {
             ></img>
           </MDBCol>
           <MDBCol md="9" lg="9" className="float-right">
-            <h4 className="font-weight-bold mb-3 name">Frank Bailey</h4>
+            <h4 className="font-weight-bold mb-3 frankName">Frank Bailey</h4>
             <h6 className="font-weight-bold mb-3">
               Executive Director 
               </h6>
@@ -47,13 +47,13 @@ function OurTeam() {
           <MDBCol md="3" lg="3" className="float-left">
             <img
               src="https://i.imgur.com/MHQ4BDf.jpg"
-              className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid frankImg"
+              className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid ambarImg"
               tag="img"
               alt="ambarPayne"
             ></img>
           </MDBCol>
           <MDBCol md="9" lg="9" className="float-right">
-            <h4 className="font-weight-bold mb-3 name">Ambar Payne</h4>
+            <h4 className="font-weight-bold mb-3 ambarName">Ambar Payne</h4>
             <h6 className="font-weight-bold mb-3">
             Program Director
               </h6>
@@ -67,18 +67,21 @@ function OurTeam() {
           <MDBCol md="3" lg="3" className="float-left">
             <img
               src="https://i.imgur.com/55Mc9vk.jpg"
-              className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid frankImg"
+              className="mx-auto mb-md-0 mb-4 rounded z-depth-1 img-fluid biancaImg"
               tag="img"
               alt="biancaEphram"
             ></img>
           </MDBCol>
           <MDBCol md="9" lg="9" className="float-right">
-            <h4 className="font-weight-bold mb-3 name">Bianca Ephram</h4>
+            <h4 className="font-weight-bold mb-3 biancaName">Bianca Ephram</h4>
             <h6 className="font-weight-bold mb-3">
               Farm Director
               </h6>
             <p className="bioText">
-            Bianca Ephraim, an experienced plant cultivator, is the director of Grow Orlando’s farm development and planning. Bianca also worked with the City of Orlando’s youth program, The Garden, which provided youth with environmental education and strived to get students outdoors and develop connections with nature. As a volunteer at the Rock Lake Community Center, her recommendation led Orange County Public Schools to reevaluate their sustainable food waste program. As a lifetime avid grower, Bianca was able to turn her passion for plant cultivation into a career as a Team Lead and Senior Gardener at Sungold Gardens. As Team Lead, she designed, installed, and serviced advanced elevated organic gardens for residential and commercial properties. While at Sungold, Bianca was directly responsible for the maintenance of over 1,000 square feet of organic growspace covering various types of produce and plants within the central Florida community area throughout the year. Currently she is owner of Mother Rootz, LLC, a high quality greenspace consulting company. Her company provides full range and holistic architecture groundwork with sustainable design principles.
+            Bianca Ephraim, an experienced plant cultivator, is the director of Grow Orlando’s farm development and planning. Bianca also worked with the City of Orlando’s youth program, The Garden, which provided youth with environmental education and strived to get students outdoors and develop connections with nature. As a volunteer at the Rock Lake Community Center, her recommendation led Orange County Public Schools to reevaluate their sustainable food waste program. As a lifetime avid grower, Bianca was able to turn her passion for plant cultivation into a career as a Team Lead and Senior Gardener at Sungold Gardens.
+            <br></br>
+            <br></br>
+             As Team Lead, she designed, installed, and serviced advanced elevated organic gardens for residential and commercial properties. While at Sungold, Bianca was directly responsible for the maintenance of over 1,000 square feet of organic growspace covering various types of produce and plants within the central Florida community area throughout the year. Currently she is owner of Mother Rootz, LLC, a high quality greenspace consulting company. Her company provides full range and holistic architecture groundwork with sustainable design principles.
               </p>
           </MDBCol>
         </MDBRow>
