@@ -6,48 +6,17 @@ hr {
 }
 
 .aboutImage {
-  width: 100%;
-  margin-top: 20px;
+  width: 100%
+
 }
 
-.aboutDiv {
-  background-image:url("https://i.imgur.com/0Se2MSi.png");
-  background-color: #387244;
-  margin-top: 4%;
-  text-align: center;
-  margin-bottom: 4%;
-  width: 100%;
-  color: black;
-  
- 
-}
-.aboutDivTop {
-  background-image:url("https://i.imgur.com/0Se2MSi.png");
-    background-color: #387244;
-    padding: 2%;
-    margin: 5px;
-}
-.aboutDivBottom {
-  background-color: white;
-  border-radius: 5px;
-  text-align: left;
-  padding: 20px;
-  margin-top: 40px;
-}
-
-.leftCol {
-  width: 100%;
-  font-size: 1em;
-}
-
-.girlsImg {
-  width: 100%;
-  margin-bottom: 20px;
+.textWrap {
+  float: left;
   
 }
+.textWrapRight {
+  float: right;
 
-.workingImg {
-  width: 100%;
   
 }
 
@@ -57,37 +26,25 @@ hr {
 }
 
 .growLogo {
-  width: 40%;
+  width: 60%;
+  margin-left: -30px;
 }
 
-.bottomCol {
-  text-align: center;
-  
+.aboutTextOne {
+float: left;
+width: 47%;
+margin-top: 50px;
+padding: 20px;
 }
 
-.bottomText {
-  margin-left: 45px;
-  margin-right: 45px;
-  font-size: 20px;
-  text-align: center;
-  font-style: italic;
-}
-
-
-.aboutCard {
-    background-color: white;
-    border-radius: 5px;
-    color: black;
-}
-
-.aboutCard {
-  background-color: white;
-  border-radius: 5px;
-  color: black;
-  margin: 15px;
-  padding: 20px;
-  text-align: center;
+.aboutTextTwo {
+  float: left;
+  width: 45%;
+  padding: 25px;
 }
 
 
+.aboutTextThree {
+  margin-top: -60px;
+}
 
