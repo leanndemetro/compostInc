@@ -23,7 +23,8 @@ class GrowItForward extends Component {
                     <MDBCol>
                         <h6 className="growForwardBlurb">
                             We are excited about the progress of our Grow it Forward micro farm collaboration with St. Luke’s Orlando UMC. The early success of this pilot project is providing the impetus and expansion for additional  micro farms in the West Orange County area this year!
-
+                            <br></br>
+                            <br></br>
                             Our goal for Grow it Forward is to have a network of micro farms in Orange County where volunteers from congregations and communities work side-by-side with paid student farmers under the guidance of a Grow Orlando farm coordinator.
 
                             Our Vision for this micro farm network is:  To eradicate food disparity in low wealth and under resourced communities.

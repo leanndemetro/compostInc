@@ -22,8 +22,18 @@ function Donate() {
        <hr className="donateNow"></hr>
        DONATE NOW<MDBIcon icon="chevron-circle-right arrow" />
        <hr></hr></p>
-    
-     </MDBContainer>
+       <MDBRow>
+         <MDBCol>
+
+         </MDBCol>
+         <MDBCol>
+
+         </MDBCol>
+         <MDBCol>
+           
+         </MDBCol>
+       </MDBRow>
+       </MDBContainer>
       </div>  
 
        

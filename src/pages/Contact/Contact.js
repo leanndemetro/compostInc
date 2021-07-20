@@ -39,9 +39,6 @@ function Contact() {
        <MDBCol><img className="contactImgs" src="https://i.imgur.com/jEaw389.jpg"></img></MDBCol>
        <MDBCol><img className="contactImgs" src="https://i.imgur.com/D4qNOZc.jpg"></img></MDBCol>
      </MDBRow>
-     <MDBRow>
-       <MDBCol className="bottomCol"></MDBCol>
-     </MDBRow>
         </MDBContainer>
          </div>
   );
