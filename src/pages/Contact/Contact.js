@@ -40,6 +40,8 @@ function Contact() {
        <MDBCol><img className="contactImgs" src="https://i.imgur.com/D4qNOZc.jpg"></img></MDBCol>
      </MDBRow>
         </MDBContainer>
+        <br></br>
+      <hr></hr>
          </div>
   );
 }

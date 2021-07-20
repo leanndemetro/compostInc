@@ -26,9 +26,9 @@ class GrowItForward extends Component {
                             <br></br>
                             <br></br>
                             Our goal for Grow it Forward is to have a network of micro farms in Orange County where volunteers from congregations and communities work side-by-side with paid student farmers under the guidance of a Grow Orlando farm coordinator.
-
+                           
                             Our Vision for this micro farm network is:  To eradicate food disparity in low wealth and under resourced communities.
-
+                            
                             Our Mission is:  To advance economic and food sovereignty through a self-sustaining micro farm network, utilizing available land of faith and community partners.</h6></MDBCol>
 
                 </MDBRow>
