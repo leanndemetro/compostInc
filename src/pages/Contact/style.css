@@ -1,22 +1,30 @@
-
-.contactDivText {
-    background-color: white;
-  border-radius: 5px;
-  text-align: left;
-  padding: 10px;
-  width: 50%;
-  margin-top: 5%;
-  margin-left: 25%;
-  font-size: 30px;
-  margin-bottom: 5%;
-    
+.contactDiv {
+  margin-top: 10%;
 }
 
 
+.contactImg {
+  width: 100%;
+}
+
+.contactImgs {
+  margin-top: 5%;
+  width: 100%;
+}
 
 
+.contactText {
+  width: 100%;
+  text-align: left;
+  font-size: 13px;
+  margin-top: 15%;
+}
 
+.contactHeader {
+  font-size: 22px;
+}
 
-
-
+.bottomCol {
+  height: 60px;
+}
 

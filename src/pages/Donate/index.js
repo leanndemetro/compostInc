@@ -22,15 +22,7 @@ function Donate() {
        <hr className="donateNow"></hr>
        DONATE NOW<MDBIcon icon="chevron-circle-right arrow" />
        <hr></hr></p>
-     <MDBRow>
-       <MDBCol><img className="donateImg" src="https://i.imgur.com/DFxtlOu.jpg"></img></MDBCol>
-       <MDBCol><img className="donateImg" src="https://i.imgur.com/sSQe6JO.jpg"></img></MDBCol>
-     </MDBRow>
-     <br></br>
-     <MDBRow>
-       <MDBCol><img className="donateImg" src="https://i.imgur.com/jEaw389.jpg"></img></MDBCol>
-       <MDBCol><img className="donateImg" src="https://i.imgur.com/D4qNOZc.jpg"></img></MDBCol>
-     </MDBRow>
+    
      </MDBContainer>
       </div>  
 
