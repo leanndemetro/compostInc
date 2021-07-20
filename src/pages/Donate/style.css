@@ -1,18 +1,41 @@
-.donate__card {
-   background-color: white;
-   border-radius: 5px;
-   text-align: left;
-   padding: 20px;
-   margin-top: 40px;
-   height: 35rem;
+.container {
+    position: relative;
+  text-align: center;
+  color: black;
+  
 }
 
+
+.donateImg {
+    width: 100%;
+
+    
+}
+
+.donateImageText {
+ width: 100%;
+ font-size: 3em;
+ 
+}
+
+.donateNow {
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2rem;
+    border-radius: 5px;
+    font-style: bold;
+}
 .donate__widget {
     width: 25rem;
     height: 28rem;
     border-style: solid;
     border-width: 1.8px;
     border-color: black;
+    background-color: white;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 
 .donate__widget__image {
@@ -36,10 +59,8 @@
 
 .stripe__icon {
     font-size: 2rem;
-   margin-top: 5px;
    text-shadow: none;
    float: right;
-   padding: 5px;
 }
 .stripe__icon:hover {
     opacity: 0.2;
@@ -84,7 +105,7 @@ input::-webkit-outer-spin-button {
 .widget__submit {
     padding: 10px;
     margin-top: 20px;
-    width: 80%;
+    width: 70%;
     background-color: #F8BD1F;
     color: black;
     border-radius: 5px;
@@ -99,3 +120,4 @@ input::-webkit-outer-spin-button {
 .widget__submit:hover {
     background: rgba(243, 208, 12, 0.6);
 }
+
