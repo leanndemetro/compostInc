@@ -22,17 +22,16 @@
 
 .biancaImg {
     margin-top: 10%;
+    width: 100%;
 }
 
 .frankName {
     margin-top: -10px;
 }
-.ambarName {
-    margin-top: 5%;
-}
+
 
 .biancaName {
-    margin-top: 1.5%;
+    margin-top: 2%;
 }
 
 .bioText {
