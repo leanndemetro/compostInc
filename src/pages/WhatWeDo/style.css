@@ -42,10 +42,47 @@ hr {
   font-size: 15px;
 }
 
-.growLogo {
-  margin-left: -20px;
+img.growLogo {
+  width: 20rem;
 }
 
+/* iphone 5 and lower */
+@media screen and (device-aspect-ratio: 2/3)
+and (orientation : portrait) {
+    .growLogo {
+        width: 18rem;
+    }
 
+    .growItForward {
+      width: 100%;
+    }
+}
 
+/* iphone 5 */
+@media screen and (device-aspect-ratio: 40/71)
+and (orientation : portrait) {
+    .growLogo {
+        width: 18rem;
+    }
+
+}
+
+/* galaxy fold */
+@media(max-width: 320px)
+and (orientation: portrait){ 
+  img.growLogo {
+    width: 16rem;
+  }
+}
+
+/* ipad pro */
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .growLogo {
+     width: 55%;
+   }
+}
 

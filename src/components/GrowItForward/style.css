@@ -37,8 +37,7 @@
   }
   
   .growItForward {
-    width: 101%;
-    margin-right: -15px;
+    width: 90%;
   }
   
   
@@ -50,5 +49,6 @@
     font-size: 2rem;
     border-radius: 5px;
     font-style: bold;
+    width: 100%;
     
   }
