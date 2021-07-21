@@ -28,6 +28,11 @@ function Dashboard() {
               <hr></hr>
             </MDBCol>
         </MDBRow>
+        <MDBRow>
+          <MDBCol>
+            <div className="dashBottomDiv"></div>
+          </MDBCol>
+        </MDBRow>
       </MDBContainer>
       </div>
 
