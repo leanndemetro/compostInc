@@ -50,7 +50,7 @@ function OurTeam() {
           <MDBCol md="9" lg="9" className="float-right">
             <h4 className="font-weight-bold mb-3 ambarName">Ambar Payne</h4>
             <h6 className="font-weight-bold mb-3">
-            Program Director
+            Project Manager
               </h6>
             <p className="bioText">
             Ambar has worked in nonprofits for 12 years, serving various communities from individuals with spina bifida to farmworker and immigrant populations. She has a demonstrated history working with development, specializing in grant writing, donor solicitations, and event fundraising. Her educational background includes a Master's in Library and Information Science from the University of South Florida. Ambar is currently Grow Orlando's Program Coordinator, managing their social media platforms, administration, and grant development.
@@ -70,7 +70,7 @@ function OurTeam() {
           <MDBCol md="9" lg="9" className="float-right">
             <h4 className="font-weight-bold mb-3 biancaName">Bianca Ephram</h4>
             <h6 className="font-weight-bold mb-3">
-              Farm Director
+              Director of Green Spaces
               </h6>
             <p className="bioText">
             Bianca Ephraim, an experienced plant cultivator, is the director of Grow Orlando’s farm development and planning. Bianca also worked with the City of Orlando’s youth program, The Garden, which provided youth with environmental education and strived to get students outdoors and develop connections with nature. As a volunteer at the Rock Lake Community Center, her recommendation led Orange County Public Schools to reevaluate their sustainable food waste program. As a lifetime avid grower, Bianca was able to turn her passion for plant cultivation into a career as a Team Lead and Senior Gardener at Sungold Gardens.
