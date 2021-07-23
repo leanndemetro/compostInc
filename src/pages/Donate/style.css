@@ -1,123 +1,36 @@
-.container {
-    position: relative;
-  text-align: center;
-  color: black;
-  
-}
-
-
-.donateImg {
+.donateDiv {
+    margin-top: 25%;
+    margin-bottom: 25%;
     width: 100%;
-
-    
-}
-
-.donateImageText {
- width: 100%;
- font-size: 3em;
- 
-}
-
-.donateNow {
-    color: black;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 2rem;
-    border-radius: 5px;
-    font-style: bold;
-}
-.donate__widget {
-    width: 25rem;
-    height: 28rem;
-    border-style: solid;
-    border-width: 1.8px;
-    border-color: black;
     background-color: white;
-    margin-left: 30%;
-    margin-bottom: 5%;
+  text-align: left;
+  padding: 20px;
+  box-shadow: 6px 6px rgb(146, 143, 143);
+  border-radius: 5px;
+}
+
+.payNow {
+    color: black;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 1.3rem;
+    font-style: bold;
     margin-top: 5%;
 }
 
-.donate__widget__image {
-    width: 100%;
+.buttonDiv {
+    text-align: right;
 }
 
-.widget__body {
-    background: rgba(0, 0, 0, 0.2);
-    width: 24.9rem;
-    text-align: center;
-    height: 15.5rem;
-    margin-left: -1px;
-}
-
-.widget__header {
-    text-shadow: none;
-    font-size: 1.4rem;
-    padding: 5px;
-}
-
-
-.stripe__icon {
-    font-size: 2rem;
-   text-shadow: none;
-   float: right;
-}
-.stripe__icon:hover {
-    opacity: 0.2;
-}
-
-.icon__link {
-    color: black;
-}
-
-.widget__input__label {
-  margin-right: .3rem;
-  margin-left: -1rem;
-  text-shadow: none;
-  font-size: 1rem;
-  
-}
-
-.widget__input {
-    margin-top: 10px;
-border-radius: 5px;
-text-align: center;
-width: 50%;
-color: black;
-}
-
-.widget__input:focus {
-    outline: none !important;
-    border: 2px solid black;
-}
-
-input::-webkit-outer-spin-button {
-    -webkit-appearance: none;
-    margin: 0; }
-  
-  input::-webkit-inner-spin-button {
-    -webkit-appearance: none;
-    margin: 0; }
-  
-  input[type=number] {
-    -moz-appearance: textfield; }
-
-.widget__submit {
-    padding: 10px;
+.paymentForm {
     margin-top: 20px;
-    width: 70%;
-    background-color: #F8BD1F;
+}
+
+.stripeIcon {
+    font-size: 2.5em;
     color: black;
-    border-radius: 5px;
-    border-top: none;
-    border-right: none;
-    border-bottom: none;
-    border-left: none;
-    cursor: pointer; 
-    font-size: 1.5rem;
 }
 
-.widget__submit:hover {
-    background: rgba(243, 208, 12, 0.6);
+.stripeIcon:hover {
+ color: #b6c2a4;
 }
-

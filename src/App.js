@@ -7,13 +7,15 @@ import OurTeam from "./pages/OurTeam/OurTeam";
 import NavbarPage from "./components/Nav/Nav";
 import Footer from "./components/Footer/Footer";
 import Donate from "./pages/Donate";
+import {Elements} from '@stripe/react-stripe-js';
+import {loadStripe} from '@stripe/stripe-js';
 
 
-
-
+const stripePromise = loadStripe('pk_test_HD6UokLebmhghEj5W00db1lw');
 
 function App() {
   return (
+    <Elements stripe={stripePromise}>
     <Router>
       <div>
           <NavbarPage />
@@ -37,6 +39,7 @@ function App() {
           <Footer />
       </div>
     </Router>
+    </Elements>
   );
 }
 
