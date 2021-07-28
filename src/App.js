@@ -6,12 +6,13 @@ import WhatWeDo from "./pages/WhatWeDo/WhatWeDo";
 import OurTeam from "./pages/OurTeam/OurTeam";
 import NavbarPage from "./components/Nav/Nav";
 import Footer from "./components/Footer/Footer";
-import Donate from "./pages/Donate";
+import CheckoutForm from "./pages/Donate";
+import Success from "./pages/success";
 import {Elements} from '@stripe/react-stripe-js';
 import {loadStripe} from '@stripe/stripe-js';
 
 
-const stripePromise = loadStripe('pk_test_HD6UokLebmhghEj5W00db1lw');
+const stripePromise = loadStripe("pk_test_HD6UokLebmhghEj5W00db1lw");
 
 function App() {
   return (
@@ -27,13 +28,16 @@ function App() {
             <Contact />
           </Route>
             <Route path='/Donate'>
-              <Donate />
+              <CheckoutForm />
             </Route>
           <Route exact path="/WhatWeDo">
             <WhatWeDo />
           </Route>
           <Route exact path="/OurTeam">
             <OurTeam />
+          </Route>
+          <Route exact path="/success">
+            <Success />
           </Route>
           </Switch>
           <Footer />

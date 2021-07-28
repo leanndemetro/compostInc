@@ -82,3 +82,10 @@ body {
     z-index: 999;
     border-radius: 5px;
 }
+
+.dollarInput {
+ border: solid 2px #b6c2a4;
+ border-radius: 5px;
+ margin-left: 5px;
+ 
+}

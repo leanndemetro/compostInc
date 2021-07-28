@@ -28,3 +28,18 @@
   height: 60px;
 }
 
+/* iphone 5 and lower */
+@media screen and (device-aspect-ratio: 2/3)
+and (orientation : portrait) {
+  .contactText {
+    font-size: 10px;
+  }
+}
+
+/* iphone 5 */
+@media screen and (device-aspect-ratio: 40/71)
+and (orientation : portrait) {
+   .contactText {
+    font-size: 10px;
+  }
+}
