@@ -13,7 +13,7 @@ const fade = keyframes`
 `;
 
 const ErrorContainer = styled.div`
-  color: #fff;
+  color: black;
   display: flex;
   justify-content: center;
   padding: 0 15px;
